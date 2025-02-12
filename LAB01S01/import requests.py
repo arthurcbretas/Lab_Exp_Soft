@@ -76,4 +76,5 @@ with open('repositorios.csv', mode='w', newline='', encoding='utf-8') as file:
     writer.writerow(['Nome', 'Data de Criação', 'Pull Requests Aceitas', 'Total de Releases', 'Última Atualização', 'Linguagem Primária', 'Issues Fechadas', 'Issues Abertas'])
     writer.writerows(repos)
 
+
 print(f"Dados coletados e salvos em 'repositorios.csv' ({len(repos)} repositórios)")
