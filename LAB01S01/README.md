@@ -1,6 +1,6 @@
 # LAB01 - Análise de repositórios
 
-Este projeto coleta informações sobre os **repositórios mais populares do GitHub** utilizando a **API GraphQL do GitHub** e gera um **relatório estruturado em Excel**. O objetivo da **Sprint 1** é obter dados de **100 repositórios com mais de 100.000 estrelas**, armazená-los em um arquivo CSV e, posteriormente, transformá-los em uma planilha formatada.
+Este projeto coleta informações sobre os **repositórios mais populares do GitHub** utilizando a **API GraphQL do GitHub** e gera um **relatório estruturado em Excel**. O objetivo da **Sprint 1** é obter dados de **100 repositórios com mais de 10.000 estrelas**, armazená-los em um arquivo CSV e, posteriormente, transformá-los em uma planilha formatada.
 
 ## 📌 Funcionalidades da Sprint 1
 ✔ **Coleta de repositórios mais populares** com base no número de estrelas  
