@@ -11,7 +11,7 @@ def get_query(after_cursor=None):
     after = f', after: "{after_cursor}"' if after_cursor else ''
     return f"""
     {{
-      search(query: "stars:>10000", type: REPOSITORY, first: 10{after}) {{
+      search(query: "stars:>10000", type: REPOSITORY, first: 20{after}) {{
         edges {{
           cursor
           node {{
@@ -22,9 +22,14 @@ def get_query(after_cursor=None):
               releases {{ totalCount }}
               updatedAt
               primaryLanguage {{ name }}
-              issues(first: 100) {{
+              issues {{
                 totalCount
-                nodes {{ state }}
+              }}
+              closedIssues: issues(states: CLOSED) {{
+                totalCount
+              }}
+              openIssues: issues(states: OPEN) {{
+                totalCount
               }}
             }}
           }}
@@ -58,8 +63,9 @@ while len(repos) < 1000:
         search_data = result['data']['search']
         for edge in search_data['edges']:
             repo = edge['node']
-            closed_issues = sum(1 for issue in repo['issues']['nodes'] if issue['state'] == 'CLOSED')
-            open_issues = sum(1 for issue in repo['issues']['nodes'] if issue['state'] == 'OPEN')
+            closed_issues = repo['closedIssues']['totalCount']
+            open_issues = repo['openIssues']['totalCount']
+
             repos.append([
                 repo['name'], repo['createdAt'], repo['pullRequests']['totalCount'],
                 repo['releases']['totalCount'], repo['updatedAt'],
@@ -75,7 +81,7 @@ while len(repos) < 1000:
         break
 
 # Caminho do arquivo
-csv_path = "../../LAB01S01/data/repositorios.csv"
+csv_path = "../data/repositorios.csv"
 
 with open(csv_path, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
@@ -85,4 +91,4 @@ with open(csv_path, mode='w', newline='', encoding='utf-8') as file:
     ])
     writer.writerows(repos)
 
-print(f"Dados coletados e salvos em '{csv_path}' ({len(repos)} repositórios)")
+print(f"✅ Dados coletados e salvos em '{csv_path}' ({len(repos)} repositórios)")
