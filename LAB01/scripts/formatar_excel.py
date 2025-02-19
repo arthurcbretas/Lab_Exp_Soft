@@ -5,7 +5,7 @@ from openpyxl.utils import get_column_letter
 import os
 
 # Caminhos dos arquivos
-csv_path = "../data/repositorios.csv"
+csv_path = "../../LAB01S01/data/repositorios.csv"
 excel_path = "../data/repositorios_formatado.xlsx"
 
 # Verificar se o CSV existe

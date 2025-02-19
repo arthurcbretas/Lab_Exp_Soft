@@ -11,7 +11,7 @@ def get_query(after_cursor=None):
     after = f', after: "{after_cursor}"' if after_cursor else ''
     return f"""
     {{
-      search(query: "stars:>100000", type: REPOSITORY, first: 10{after}) {{
+      search(query: "stars:>10000", type: REPOSITORY, first: 10{after}) {{
         edges {{
           cursor
           node {{
@@ -50,7 +50,7 @@ def run_query(query, retries=3):
 
 repos = []
 after_cursor = None
-while len(repos) < 100:
+while len(repos) < 1000:
     query = get_query(after_cursor)
     result = run_query(query)
 
@@ -75,7 +75,7 @@ while len(repos) < 100:
         break
 
 # Caminho do arquivo
-csv_path = "../data/repositorios.csv"
+csv_path = "../../LAB01S01/data/repositorios.csv"
 
 with open(csv_path, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
