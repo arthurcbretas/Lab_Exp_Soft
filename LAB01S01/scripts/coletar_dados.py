@@ -11,7 +11,7 @@ def get_query(after_cursor=None):
     after = f', after: "{after_cursor}"' if after_cursor else ''
     return f"""
     {{
-      search(query: "stars:>100000", type: REPOSITORY, first: 10{after}) {{
+      search(query: "stars:>10000", type: REPOSITORY, first: 10{after}) {{
         edges {{
           cursor
           node {{
