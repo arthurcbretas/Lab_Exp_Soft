@@ -91,4 +91,4 @@ with open(csv_path, mode='w', newline='', encoding='utf-8') as file:
     ])
     writer.writerows(repos)
 
-print(f"✅ Dados coletados e salvos em '{csv_path}' ({len(repos)} repositórios)")
+print(f"Dados coletados e salvos em '{csv_path}' ({len(repos)} repositórios)")

@@ -124,4 +124,4 @@ if "Dias de Atividade" in df.columns:
 # Salvar as alterações no Excel
 wb.save(excel_path)
 
-print(f"✅ Planilha formatada e salva em '{excel_path}' com gráficos e colunas ajustadas automaticamente")
+print(f"Planilha formatada e salva em '{excel_path}' com gráficos e colunas ajustadas automaticamente")
