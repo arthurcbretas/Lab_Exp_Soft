@@ -1,77 +1,40 @@
-import requests
+import os
 import csv
-import time
+import requests
 
-TOKEN = 'TOKEN_HERE'
-URL = 'https://api.github.com/graphql'
-HEADERS = {"Authorization": f"Bearer {TOKEN}"}
+# Configurações da API do GitHub
+github_api_url = "https://api.github.com/search/repositories"
+github_query = "language:java&sort=stars&order=desc&per_page=100"
+github_headers = {
+    "Accept": "application/vnd.github.v3+json",
+    "Authorization": "token TOKEN_GIT"  # Substitua pelo seu token do GitHub
+}
 
-def get_query(after_cursor=None):
-    after = f', after: "{after_cursor}"' if after_cursor else ''
-    return f"""
-    query ($cursor: String) {{
-      search(query: "language:Java stars:>10000", type: REPOSITORY, first: 20, after: $cursor) {{
-        edges {{
-          cursor
-          node {{
-            ... on Repository {{
-              nameWithOwner
-              stargazerCount
-              createdAt
-              updatedAt
-              releases {{
-                totalCount
-              }}
-            }}
-          }}
-        }}
-        pageInfo {{
-          hasNextPage
-          endCursor
-        }}
-      }}
-    }}"""
-
-def run_query(query, variables=None, retries=3):
-    for attempt in range(retries):
-        response = requests.post(URL, json={'query': query, 'variables': variables}, headers=HEADERS, timeout=30)
-        if response.status_code == 200:
-            return response.json()
-        elif attempt < retries - 1:
-            time.sleep(2 ** attempt)
-        else:
-            raise Exception(f"Query falhou com código {response.status_code}: {response.text}")
-
-repos = []
-after_cursor = None
-while len(repos) < 1000:
-    query = get_query(after_cursor)
-    variables = {"cursor": after_cursor}
-    result = run_query(query, variables)
-
-    if 'data' in result and 'search' in result['data']:
-        search_data = result['data']['search']
-        for edge in search_data['edges']:
-            repo = edge['node']
-            repos.append([
-                repo['nameWithOwner'], repo['stargazerCount'], repo['createdAt'],
-                repo['updatedAt'], repo['releases']['totalCount']
-            ])
-
-        if not search_data['pageInfo']['hasNextPage']:
+def fetch_top_repositories():
+    repositories = []
+    for page in range(1, 11):  # 10 páginas de 100 repositórios
+        try:
+            response = requests.get(f"{github_api_url}?q={github_query}&page={page}", headers=github_headers)
+            response.raise_for_status()  # Lança exceção para erros HTTP
+            data = response.json()
+            repositories.extend([(repo["full_name"], repo["html_url"], repo["stargazers_count"]) for repo in data["items"]])
+        except requests.exceptions.RequestException as e:
+            print(f"Erro ao buscar repositórios na página {page}: {e}")
             break
-        after_cursor = search_data['pageInfo']['endCursor']
-    else:
-        print("Erro na resposta da API:", result)
-        break
+    return repositories
 
-# Caminho do arquivo
-csv_path = "../data/repositorios_java.csv"
+def save_repositories_to_csv(repositories, filename="top_1000_repos.csv"):
+    with open(filename, "w", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
+        writer.writerow(["Repo Name", "URL", "Stars"])
+        writer.writerows(repositories)
 
-# Salvar os dados em CSV (irá criar o arquivo se não existir)
-with open(csv_path, mode='w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(["Nome", "Estrelas", "Criado em", "Última Atualização", "Releases"])
-    writer.writerows(repos)
+def main():
+    os.makedirs("repos", exist_ok=True)
+    os.makedirs("metrics", exist_ok=True)
+    repos = fetch_top_repositories()
+    save_repositories_to_csv(repos)
+    print("Lista dos top 1.000 repositórios Java salva em 'top_1000_repos.csv'.")
 
-print(f"Dados coletados e salvos em '{csv_path}' ({len(repos)} repositórios)")
+if __name__ == "__main__":
+    main()
