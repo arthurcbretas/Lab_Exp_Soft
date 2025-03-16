@@ -53,11 +53,12 @@ def run_ck(repo_name):
         print("Erro detalhado:", e.stderr)
 
 def main():
-    # Exemplo: Clonar e analisar o primeiro repositório da lista
-    with open("top_1000_repos.csv", "r", encoding="utf-8") as file:
+    # Exemplo: Clonar e analisar o segundo repositório da lista
+    with open("../data/top_1000_repos.csv", "r", encoding="utf-8") as file:
         reader = csv.reader(file)
         next(reader)  # Pula o cabeçalho
-        repo_name, repo_url, _ = next(reader)  # Pega o primeiro repositório
+        next(reader)  # Pula o primeiro repositório
+        repo_name, repo_url, _ = next(reader)  # Pega o segundo repositório
 
     clone_repository(repo_url, repo_name)
     run_ck(repo_name)

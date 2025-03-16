@@ -23,7 +23,7 @@ def fetch_top_repositories():
             break
     return repositories
 
-def save_repositories_to_csv(repositories, filename="top_1000_repos.csv"):
+def save_repositories_to_csv(repositories, filename="../data/top_1000_repos.csv"):
     with open(filename, "w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         writer.writerow(["Repo Name", "URL", "Stars"])
