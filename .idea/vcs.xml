@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/LAB02/scripts/repos/iluwatar_java-design-patterns" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/LAB02/scripts/repos/krahets_hello-algo" vcs="Git" />
   </component>
 </project>
