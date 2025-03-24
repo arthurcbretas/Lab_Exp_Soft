@@ -2,6 +2,7 @@ import requests
 import csv
 import time
 import os
+from datetime import datetime
 
 TOKEN = 'TOKEN_HERE'  # Substitua pelo seu token do GitHub
 URL = 'https://api.github.com/graphql'
@@ -20,6 +21,22 @@ def get_query(after_cursor=None):
               nameWithOwner
               url
               stargazers {{ totalCount }}
+              releases {{ totalCount }}
+              createdAt
+              defaultBranchRef {{
+                target {{
+                  ... on Commit {{
+                    history(first: 1) {{
+                      edges {{
+                        node {{
+                          additions
+                          deletions
+                        }}
+                      }}
+                    }}
+                  }}
+                }}
+              }}
             }}
           }}
         }}
@@ -55,9 +72,26 @@ def fetch_top_repositories():
             for edge in search_data['edges']:
                 repo = edge['node']
                 if 'nameWithOwner' in repo and 'url' in repo and 'stargazers' in repo:
-                    repositories.append([
-                        repo['nameWithOwner'], repo['url'], repo['stargazers']['totalCount']
-                    ])
+                    name = repo['nameWithOwner']
+                    url = repo['url']
+                    stars = repo['stargazers']['totalCount']
+                    releases = repo.get('releases', {}).get('totalCount', 0)
+                    created_at = repo.get('createdAt', None)
+
+                    # Calcular idade do repositório
+                    age = round((datetime.utcnow() - datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ")).days / 365,
+                                2) if created_at else 0
+
+                    # Obter LOC e linhas de comentários (additions e deletions)
+                    additions = \
+                    repo.get('defaultBranchRef', {}).get('target', {}).get('history', {}).get('edges', [{}])[0].get(
+                        'node', {}).get('additions', 0)
+                    deletions = \
+                    repo.get('defaultBranchRef', {}).get('target', {}).get('history', {}).get('edges', [{}])[0].get(
+                        'node', {}).get('deletions', 0)
+                    loc = additions - deletions  # Aproximação de LOC
+
+                    repositories.append([name, url, stars, loc, releases, age])
 
             if not search_data['pageInfo']['hasNextPage']:
                 break
@@ -73,7 +107,7 @@ def save_repositories_to_csv(repositories, filename="../data/top_1000_repos.csv"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
-        writer.writerow(["Repo Name", "URL", "Stars"])
+        writer.writerow(["Repo Name", "URL", "Stars", "LOC", "Releases", "Age (Years)"])
         writer.writerows(repositories)
 
 

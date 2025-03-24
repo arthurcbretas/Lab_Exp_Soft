@@ -1,85 +1,59 @@
-# Análise de Repositórios Java no GitHub
+# Relatório Final da Análise de Qualidade e Características de Repositórios Java
 
-## 📊 Hipóteses para Análise
+## 1. Introdução  
 
-### 1. Relação entre Complexidade Ciclomática (WMC) e Coesão (LCOM)
-- **Hipótese:** Projetos com alta complexidade ciclomótica (WMC) tendem a ter menor coesão (LCOM).
-- **Justificativa:** Quanto mais métodos interagem entre si, menor a coesão do código.
-- **Métricas:** WMC (Weighted Methods per Class) vs. LCOM (Lack of Cohesion in Methods).
-- **Gráfico:** Dispersão (Scatter Plot) para visualizar a correlação.
+Este estudo tem como objetivo analisar a relação entre a popularidade, maturidade, atividade e tamanho dos repositórios com suas respectivas métricas de qualidade, como CBO (Coupling Between Objects), DIT (Depth Inheritance Tree) e LCOM (Lack of Cohesion of Methods). A análise foi realizada utilizando repositórios populares em Java, coletados da plataforma GitHub e avaliados por meio de métricas extraídas com a ferramenta CK.
 
-### 2. Relação entre o Número de Classes (NOC) e Acoplamento (CBO)
-- **Hipótese:** Projetos com maior número de classes (NOC) tendem a ter maior acoplamento (CBO).
-- **Justificativa:** Mais classes podem levar a dependências maiores entre elas.
-- **Métricas:** NOC (Number of Classes) vs. CBO (Coupling Between Objects).
-- **Gráfico:** Dispersão ou Boxplot (para mostrar a distribuição).
+### Hipóteses Informais  
 
-### 3. Relação entre Profundidade da Hierarquia (DIT) e Complexidade (WMC)
-- **Hipótese:** Classes com maior profundidade na hierarquia (DIT) tendem a ter maior complexidade (WMC).
-- **Justificativa:** Classes mais profundas podem herdar muitos métodos, aumentando a complexidade.
-- **Métricas:** DIT (Depth of Inheritance Tree) vs. WMC.
-- **Gráfico:** Gráfico de Dispersão ou Barras empilhadas por categoria.
+- **RQ01:** Repositórios mais populares (com maior número de estrelas) tendem a apresentar menor CBO, DIT e LCOM, indicando melhor qualidade estrutural.  
+- **RQ02:** Repositórios mais antigos (maior maturidade) demonstram uma tendência de redução em DIT e CBO, mas um aumento em LCOM, sugerindo que, ao longo do tempo, os projetos podem perder coesão nos métodos.  
+- **RQ03:** Repositórios com maior atividade (mais releases) apresentam uma leve tendência de redução em LCOM e CBO, indicando que a manutenção contínua pode melhorar o acoplamento e coesão do código.  
+- **RQ04:** Repositórios maiores (com mais linhas de código) tendem a ter um aumento na média de LCOM, sugerindo menor coesão entre os métodos, enquanto CBO apresenta uma leve tendência de redução, indicando possível modularização do código.
 
-### 4. Relação entre Fan-In, Fan-Out e Manutenção
-- **Hipótese:** Projetos com maior fan-in (NOC alto) e fan-out (CBO alto) são mais propensos a problemas de manutenção.
-- **Justificativa:** Código muito interconectado pode ser difícil de modificar sem introduzir bugs.
-- **Métricas:** NOC, CBO e RFC (Response for a Class).
-- **Gráfico:** Matriz de calor para mostrar dependências.
+## 2. Metodologia
 
-### 5. Relação entre Complexidade Média (WMC) e Linhas de Código (LOC)
-- **Hipótese:** Projetos com maior complexidade média (WMC) possuem mais linhas de código (LOC).
-- **Justificativa:** Mais métodos complexos geralmente significam classes maiores.
-- **Métricas:** Média de WMC por projeto vs. LOC.
-- **Gráfico:** Histograma ou Boxplot.
+Os dados foram coletados de repositórios Java populares no GitHub, utilizando suas APIs REST e GraphQL para extrair informações sobre:
+- Popularidade: número de estrelas
+- Maturidade: idade em anos
+- Atividade: número de releases
+- Tamanho: Linhas de Código (LOC)
 
----
+As métricas de qualidade foram extraídas utilizando a ferramenta CK (Chidamber & Kemerer Java Metrics). Os resultados foram sumarizados utilizando valores de média, mediana e desvio padrão.
 
-## ⚙️ Scripts para Coleta e Análise de Dados
+## 3. Resultados
 
-### 💾 Coleta de Repositórios Java do GitHub
-O script `fetch_top_repositories.py` usa a API GraphQL do GitHub para buscar os 1000 repositórios Java mais populares.
+Abaixo estão os principais achados da análise:
 
-- **Autentica na API do GitHub usando um token.**
-- **Faz requisições para obter repositórios com mais estrelas.**
-- **Armazena os dados em um CSV (`data/top_1000_repos.csv`).**
+### 3.1. Popularidade e Qualidade
+- A média de **DIT, LCOM e CBO reduziram** conforme o número de estrelas aumentou.
+- Isso sugere que repositórios populares tendem a ter códigos mais bem estruturados, com menor acoplamento e melhor modularização.
 
-#### ⚡ Execução:
-```sh
-python fetch_top_repositories.py
-```
+### 3.2. Maturidade e Qualidade
+- A média de **DIT e CBO diminuiu** com o aumento da idade do repositório.
+- A média de **LCOM aumentou** com o tempo.
+- Isso pode indicar que repositórios mais antigos têm uma arquitetura mais simples, mas a coesão entre os métodos piora ao longo do tempo.
 
-### 🔬 Clonagem e Análise de Repositórios
-O script `analyze_repositories.py` clona um repositório e executa a ferramenta SonarQube para calcular métricas de qualidade.
+### 3.3. Atividade e Qualidade
+- A média de **LCOM e CBO diminuíram** levemente com o aumento do número de releases.
+- Isso sugere que repositórios mais ativos podem estar refinando seu design ao longo do tempo, reduzindo o acoplamento e melhorando a estrutura do código.
 
-- **Clona repositórios Java em `repos/`.**
-- **Executa SonarQube para extrair métricas como WMC, DIT, CBO e LCOM.**
-- **Salva os resultados na pasta `metrics/`.**
+### 3.4. Tamanho e Qualidade
+- A média de **LCOM aumentou** conforme o LOC cresceu.
+- A média de **CBO reduziu** conforme o LOC cresceu.
+- Isso pode indicar que repositórios maiores têm códigos menos acoplados, mas a coesão entre os métodos piora.
 
-#### ⚡ Execução:
-```sh
-python analyze_repositories.py
-```
+## 4. Visualização no Power BI
+Para apresentar os resultados de forma clara e intuitiva, utilizamos as seguintes visualizações no Power BI:
 
-### 🛠️ Dependências
-- **Python 3+**
-- **Git**
-- **Java** (para executar SonarQube)
-- **[SonarQube](https://www.sonarqube.org/)** (Ferramenta de análise de qualidade de código)
-- **Biblioteca Requests** (para a API do GitHub)
+Gráficos de linha com tendência: Demonstram a relação entre as métricas de qualidade do código (CBO, DIT e LCOM) e os fatores analisados, como número de estrelas, idade do repositório, quantidade de releases e tamanho do código (LOC). A linha pontilhada representa a tendência dos dados.
 
-Para instalar dependências:
-```sh
-pip install requests
-```
+Gráficos comparativos: Cada métrica foi analisada separadamente para diferentes variáveis, permitindo observar padrões e variações ao longo dos compartimentos categorizados.
 
-### 🛁 Estrutura do Projeto
-```
-/
-|-- fetch_top_repositories.py   # Script para buscar repositórios do GitHub
-|-- analyze_repositories.py     # Script para clonar e analisar repositórios
-|-- data/
-|   |-- top_1000_repos.csv      # Lista dos repositórios mais populares
-|-- repos/                      # Pasta onde os repositórios são clonados
-|-- metrics/                    # Pasta onde os resultados são salvos
-|-- sonar-project.properties     # Configuração do SonarQube
-```
+Segmentação por compartimentos: As variáveis contínuas foram agrupadas em intervalos (bins) para facilitar a visualização e análise de tendências.
+## 5. Discussão e Conclusão
+
+Os resultados indicam que repositórios populares e mais ativos tendem a apresentar melhores práticas de desenvolvimento, reduzindo o acoplamento e aumentando a modularização. No entanto, a coesão dos métodos pode ser prejudicada conforme o repositório envelhece ou cresce em tamanho.
+
+Essa análise pode ser aprimorada com a incorporação de outras métricas e técnicas estatísticas mais avançadas para entender melhor os fatores que impactam a qualidade dos repositórios Java no GitHub.
+
