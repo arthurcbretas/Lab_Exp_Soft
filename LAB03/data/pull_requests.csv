@@ -1,0 +1,1138 @@
+repository,pr_number,title,created_at,closed_or_merged_at,review_count,additions,deletions,comments,participants,description_length
+codecrafters-io/build-your-own-x,10,readme: Add my tutorial on shell,2018-05-11 10:08:57+00:00,2018-05-12 07:55:36+00:00,3,1,0,1,2,193
+codecrafters-io/build-your-own-x,16,Add: Generate SVG images in C,2018-05-12 08:21:04+00:00,2018-05-13 10:53:26+00:00,1,1,0,1,2,0
+codecrafters-io/build-your-own-x,35,"Add ""Build your own Window Manager""",2018-05-13 14:44:31+00:00,2018-05-14 06:51:54+00:00,1,1,0,1,2,0
+codecrafters-io/build-your-own-x,59,added 'Build your own CI server' title & one item,2018-05-14 14:37:35+00:00,2018-05-15 13:35:32+00:00,3,1,0,1,2,74
+codecrafters-io/build-your-own-x,63,Update README.md,2018-05-14 17:30:12+00:00,2018-05-14 18:55:00+00:00,2,2,1,1,2,19
+codecrafters-io/build-your-own-x,137,Added a New Category : Text Editor,2018-05-24 05:49:20+00:00,2018-05-24 09:21:06+00:00,1,9,1,1,3,104
+jwasham/coding-interview-university,3,Fixed typo,2016-10-06 10:08:17+00:00,2016-10-06 16:40:31+00:00,1,1,1,0,3,0
+jwasham/coding-interview-university,6,License.md Added,2016-10-06 15:49:06+00:00,2016-10-06 21:20:55+00:00,1,21,0,1,3,0
+jwasham/coding-interview-university,9,Adding more descriptive links.,2016-10-06 19:24:59+00:00,2016-10-06 21:25:38+00:00,1,87,102,5,3,115
+jwasham/coding-interview-university,23,Pull request with fixed mis-formatted & Go resources,2016-10-09 01:36:16+00:00,2016-10-09 03:32:02+00:00,1,10,1,1,3,38
+jwasham/coding-interview-university,38,Add a tutorial on Udemy.,2016-10-15 16:08:41+00:00,2016-10-16 02:17:14+00:00,2,3,0,2,2,152
+kamranahmedse/developer-roadmap,25,Fix some issues,2017-03-19 13:32:51+00:00,2017-03-23 05:14:20+00:00,1,2,2,2,4,120
+donnemartin/system-design-primer,10,Fix typo in Study Guide section,2017-03-09 10:50:34+00:00,2017-03-10 00:36:12+00:00,1,2,2,1,2,78
+donnemartin/system-design-primer,11,Fix typo - lobsided -> lopsided,2017-03-09 14:21:29+00:00,2017-03-10 00:37:40+00:00,1,1,1,1,2,0
+donnemartin/system-design-primer,13,Add Dyn DDoS attack link,2017-03-10 04:30:56+00:00,2017-03-11 02:07:51+00:00,1,1,1,1,2,3
+donnemartin/system-design-primer,14,Fix multiple typos,2017-03-10 07:53:56+00:00,2017-03-11 02:06:35+00:00,1,8,8,1,3,0
+donnemartin/system-design-primer,23,Fix #6: Migrate links from exercises/solutions to use internal links,2017-03-16 22:49:05+00:00,2017-03-19 19:23:03+00:00,1,35,35,2,2,224
+donnemartin/system-design-primer,24,"Delete duplicate word ""does"" in design exercises",2017-03-18 04:17:42+00:00,2017-03-18 15:37:17+00:00,1,3,3,1,2,0
+donnemartin/system-design-primer,25,Fix typo JSS -> JS,2017-03-18 16:45:40+00:00,2017-03-19 19:24:13+00:00,1,1,1,1,2,35
+donnemartin/system-design-primer,26,Declare variable key in the get_user example,2017-03-19 22:54:10+00:00,2017-03-21 11:39:11+00:00,1,1,0,1,2,212
+donnemartin/system-design-primer,29,Fix typo,2017-03-22 16:44:21+00:00,2017-03-23 02:53:16+00:00,2,1,1,1,3,0
+donnemartin/system-design-primer,33,Fix typos,2017-03-23 22:30:10+00:00,2017-03-24 02:42:03+00:00,1,2,2,1,2,0
+donnemartin/system-design-primer,34,change the service discovery documenation example to use consul/etcd,2017-03-24 11:32:50+00:00,2017-03-26 17:02:10+00:00,2,4,1,4,3,81
+donnemartin/system-design-primer,35,Explain difference between PUT & PATCH,2017-03-25 22:50:04+00:00,2017-03-29 10:19:15+00:00,1,2,0,2,2,134
+donnemartin/system-design-primer,36,"Update service discovery section to include consul, etcd, and additional details",2017-03-26 16:58:09+00:00,2017-03-28 11:45:13+00:00,3,1,1,1,5,0
+donnemartin/system-design-primer,50,Change AP wording for clarity,2017-04-04 08:27:14+00:00,2017-04-04 09:56:39+00:00,1,1,1,1,2,287
+donnemartin/system-design-primer,62,zh-cn: Add Simplified Chinese translation v1.0,2017-04-15 07:44:20+00:00,2017-04-15 13:32:32+00:00,1,1797,0,4,2,122
+donnemartin/system-design-primer,64,zh-cn: Rename README-zh-Hant.md to README-zh-Hans.md,2017-04-16 03:17:12+00:00,2017-04-16 21:49:16+00:00,1,0,0,2,2,84
+donnemartin/system-design-primer,69,Fix asynchronism link in mint README,2017-04-22 00:06:53+00:00,2017-05-16 04:10:52+00:00,2,1,1,1,3,0
+donnemartin/system-design-primer,74,Fix lowercase typo in Layer 7 load balancing title,2017-05-02 19:28:31+00:00,2017-05-16 04:17:24+00:00,1,1,1,1,2,50
+donnemartin/system-design-primer,75,Fix typo,2017-05-09 13:31:23+00:00,2017-05-27 00:32:45+00:00,1,1,1,1,2,0
+donnemartin/system-design-primer,78,Add license disclaimer,2017-05-18 08:42:10+00:00,2017-05-27 00:34:53+00:00,1,10,0,0,2,27
+donnemartin/system-design-primer,81,Fix #79: Inaccuracy in Twitter timeline and search example,2017-05-25 01:47:16+00:00,2017-05-27 00:31:32+00:00,1,1,1,1,2,0
+996icu/996.ICU,110,"Add the legal provisions, 😀",2019-03-27 06:21:02+00:00,2019-03-27 08:04:40+00:00,1,13,4,2,4,0
+996icu/996.ICU,242,en_US,2019-03-27 07:07:12+00:00,2019-03-28 02:53:55+00:00,2,16,0,2,4,19
+996icu/996.ICU,324,添加了国际五一劳动节的历史渊源，以及国际歌歌词,2019-03-27 07:35:37+00:00,2019-03-27 15:47:19+00:00,1,78,0,4,6,23
+996icu/996.ICU,605,Create 加班公司名单,2019-03-27 09:08:15+00:00,2019-03-28 02:53:22+00:00,1,1,0,6,8,0
+996icu/996.ICU,693,blacklist and template,2019-03-27 09:34:09+00:00,2019-03-28 02:35:14+00:00,2,15,0,0,3,37
+996icu/996.ICU,857,当前已知的公司名单,2019-03-27 10:12:11+00:00,2019-03-28 02:35:36+00:00,2,4,0,7,11,0
+996icu/996.ICU,877,fix grammar error,2019-03-27 10:18:17+00:00,2019-03-27 12:30:13+00:00,1,1,1,0,3,17
+996icu/996.ICU,932,fix grammer issue in English version,2019-03-27 10:43:35+00:00,2019-03-27 14:23:02+00:00,1,1,1,0,2,17
+996icu/996.ICU,992,translate “工作 996，生病 ICU” to english version.,2019-03-27 11:06:59+00:00,2019-03-28 02:43:08+00:00,7,3,0,27,31,88
+996icu/996.ICU,1644,曝光996公司及部门，欢迎曝光和投票,2019-03-27 15:14:41+00:00,2019-03-28 08:05:51+00:00,1,5,0,114,106,68
+996icu/996.ICU,1739,fix english translation,2019-03-27 18:29:15+00:00,2019-03-28 00:45:44+00:00,2,8,7,1,3,23
+vinta/awesome-python,1,Added wand lib to Imagery list,2014-06-30 02:22:27+00:00,2014-06-30 04:12:56+00:00,1,2,1,1,3,0
+practical-tutorials/project-based-learning,36,Build A Support Ticket Application With AdonisJs,2017-07-11 03:56:03+00:00,2017-07-11 14:07:37+00:00,1,4,0,0,2,0
+practical-tutorials/project-based-learning,37,Added Thinkster.io to Additional Resources,2017-07-12 23:53:49+00:00,2017-07-13 03:41:54+00:00,1,1,0,0,2,0
+practical-tutorials/project-based-learning,38,Added Goodheads.io to Additional Resources,2017-07-13 09:37:03+00:00,2017-07-14 00:41:40+00:00,1,1,0,0,2,0
+practical-tutorials/project-based-learning,56,"Javascript: ""How to write your own Virtual DOM""",2018-04-17 04:09:04+00:00,2018-04-17 15:36:03+00:00,1,1,0,0,1,0
+trekhleb/javascript-algorithms,15,Add N queens problem bitwise solution,2018-05-24 11:13:23+00:00,2018-08-20 12:57:02+00:00,1,68,0,5,5,0
+trekhleb/javascript-algorithms,28,Radix sort,2018-05-28 18:29:39+00:00,2018-05-29 05:38:20+00:00,1,150,0,2,3,122
+trekhleb/javascript-algorithms,59,Fix typos,2018-06-09 08:25:57+00:00,2018-06-12 14:46:40+00:00,2,19,19,1,4,26
+trekhleb/javascript-algorithms,67,added Bidirectional Conditional Insertion Sort,2018-06-13 20:22:41+00:00,2018-06-14 15:45:28+00:00,2,1605,1386,2,2,1031
+Significant-Gravitas/AutoGPT,19,Chaos/model args,2023-04-02 00:52:56+00:00,2023-04-02 10:34:35+00:00,4,175,118,5,2,62
+Significant-Gravitas/AutoGPT,32,fix typo in browse.py,2023-04-02 15:34:16+00:00,2023-04-02 22:52:40+00:00,1,2,2,0,2,19
+Significant-Gravitas/AutoGPT,33,Add documentation,2023-04-02 17:06:08+00:00,2023-04-10 11:07:42+00:00,7,84,15,13,7,250
+Significant-Gravitas/AutoGPT,36,implements #13,2023-04-02 18:20:26+00:00,2023-04-04 23:20:05+00:00,2,0,0,6,6,0
+Significant-Gravitas/AutoGPT,39,Remove `keys.py` and replace with `python-dotenv`,2023-04-02 19:05:24+00:00,2023-04-02 22:41:08+00:00,1,40,27,4,3,454
+Significant-Gravitas/AutoGPT,41,Fix mistake in docs,2023-04-02 19:15:53+00:00,2023-04-02 22:25:01+00:00,1,3,2,2,3,126
+Significant-Gravitas/AutoGPT,44,Add Dockerfile and update requirements.txt.,2023-04-02 20:54:57+00:00,2023-04-02 22:21:25+00:00,1,16,8,1,3,420
+Significant-Gravitas/AutoGPT,45,Makes it possible to use gpt-3.5,2023-04-02 21:42:14+00:00,2023-04-03 10:43:38+00:00,13,658,168,45,11,544
+Significant-Gravitas/AutoGPT,49,devops cleanups,2023-04-02 23:08:23+00:00,2023-04-14 21:27:03+00:00,1,540,16,1,3,298
+Significant-Gravitas/AutoGPT,50,don't depend on the path script is run from,2023-04-02 23:09:10+00:00,2023-04-04 09:04:29+00:00,6,2,2,0,4,253
+Significant-Gravitas/AutoGPT,59,Minor tweak to make ELEVEN_LABS_API_KEY optional,2023-04-03 05:56:28+00:00,2023-04-09 13:48:03+00:00,1,5,0,3,4,123
+Significant-Gravitas/AutoGPT,72,Fix JSON string escaping issue,2023-04-03 13:58:45+00:00,2023-04-15 21:01:39+00:00,6,1,1,3,7,96
+Significant-Gravitas/AutoGPT,81,Fix: create file dir if it doesnt exist during write_to_file,2023-04-03 15:48:57+00:00,2023-04-03 23:27:37+00:00,1,3,0,0,3,23
+Significant-Gravitas/AutoGPT,85,"Use Python 3 Pathlib standards, increased error handling",2023-04-03 16:31:34+00:00,2023-07-07 05:18:09+00:00,5,35,37,3,5,692
+Significant-Gravitas/AutoGPT,86,Work around install errors,2023-04-03 16:34:12+00:00,2023-04-04 10:44:54+00:00,1,4,2,2,3,146
+Significant-Gravitas/AutoGPT,87,Improve extract_hyperlinks to honor base url,2023-04-03 16:52:42+00:00,2023-04-15 21:21:59+00:00,3,34,6,3,5,0
+Significant-Gravitas/AutoGPT,94,Fix Issue with command hallucination 💭,2023-04-03 18:46:04+00:00,2023-04-04 09:05:36+00:00,1,1,0,0,2,58
+Significant-Gravitas/AutoGPT,96,Use playwright instead of requests for browse,2023-04-03 19:12:41+00:00,2023-04-15 22:31:45+00:00,2,115,58,2,3,360
+Significant-Gravitas/AutoGPT,98,Fix googlesearch dependency issue,2023-04-03 19:13:08+00:00,2023-04-04 10:20:28+00:00,4,3,18,1,5,320
+Significant-Gravitas/AutoGPT,100,Fix .gitignore to include the correct path to auto_gpt_workspace,2023-04-03 19:21:00+00:00,2023-04-06 06:42:19+00:00,1,1,1,1,2,0
+Significant-Gravitas/AutoGPT,102,fix: UnboundLocalError: local variable 'assistant_thoughts_reasoning' referenced before assignment,2023-04-03 20:02:08+00:00,2023-04-03 23:38:35+00:00,5,30,45,1,3,373
+Significant-Gravitas/AutoGPT,105,Fix delete memory error,2023-04-03 21:03:53+00:00,2023-04-15 21:29:04+00:00,3,3,3,3,5,166
+Significant-Gravitas/AutoGPT,107,Integrates Arxiv search and summarisation as available action.,2023-04-03 21:10:42+00:00,2023-04-05 12:38:51+00:00,2,256,35,3,4,179
+Significant-Gravitas/AutoGPT,108,Add 'r' command to retry last action,2023-04-03 21:23:22+00:00,2023-04-22 22:40:16+00:00,3,2,0,8,5,127
+Significant-Gravitas/AutoGPT,111,Added support for Google Custom Search API,2023-04-03 21:33:37+00:00,2023-04-03 23:24:52+00:00,4,101,12,8,8,1031
+Significant-Gravitas/AutoGPT,112,fix: OpenAPI key variable name typo,2023-04-03 21:36:05+00:00,2023-04-04 01:26:10+00:00,3,1,1,0,4,0
+Significant-Gravitas/AutoGPT,115,Introduce check to OPENAI_API_KEY,2023-04-03 22:16:41+00:00,2023-04-10 12:12:26+00:00,2,11,1,0,3,62
+Significant-Gravitas/AutoGPT,116,Prompt engineering adjustments,2023-04-03 22:34:09+00:00,2023-04-20 18:08:42+00:00,2,4,3,4,5,447
+Significant-Gravitas/AutoGPT,120,Added and an input for User Advice on each iteration of the loop,2023-04-03 23:21:48+00:00,2023-04-11 18:17:57+00:00,3,20,2,7,4,374
+Significant-Gravitas/AutoGPT,121,Use selenium for web browsing,2023-04-03 23:25:15+00:00,2023-04-15 21:14:29+00:00,2,95,148,8,8,350
+Significant-Gravitas/AutoGPT,122,Pinecone Vectorized Memory,2023-04-04 00:31:46+00:00,2023-04-06 10:31:58+00:00,14,153,29,24,17,356
+Significant-Gravitas/AutoGPT,124,First draft at adding persistent memory via sqlite3,2023-04-04 00:46:11+00:00,2023-04-15 21:42:15+00:00,4,138,11,22,12,319
+twbs/bootstrap,12,Give docs page some ellipsis and apostrophe love,2011-08-20 01:18:57+00:00,2011-08-20 02:20:11+00:00,3,29,29,1,4,112
+jackfrued/Python-100-Days,6,Update PEP 8风格指南.md,2018-06-04 11:46:43+00:00,2018-06-25 14:35:05+00:00,1,1,1,3,3,0
+jackfrued/Python-100-Days,32,修正IndentationError,2019-04-24 11:11:20+00:00,2019-05-03 13:22:00+00:00,1,3,3,2,4,0
+trimstray/the-book-of-secret-knowledge,1,Typo fix in README.md,2018-07-13 23:43:59+00:00,2018-08-04 10:37:18+00:00,3,1,1,1,4,33
+trimstray/the-book-of-secret-knowledge,3,Update README.md,2018-11-06 17:56:43+00:00,2018-11-06 21:49:08+00:00,3,2,0,3,5,73
+trimstray/the-book-of-secret-knowledge,4,Add new tools,2018-11-07 16:19:39+00:00,2018-11-08 07:23:14+00:00,7,3,0,1,2,50
+trimstray/the-book-of-secret-knowledge,32,Add dkimvalidator.com under mail section (and other important tools).,2018-12-22 08:14:29+00:00,2018-12-23 10:14:21+00:00,1,6,0,1,3,0
+trimstray/the-book-of-secret-knowledge,38,Added PbScan in network section,2018-12-26 22:58:06+00:00,2018-12-27 08:39:14+00:00,1,1,0,2,3,0
+trimstray/the-book-of-secret-knowledge,43,Adding Etherate to 'Networking',2018-12-28 09:40:28+00:00,2019-01-04 10:57:51+00:00,1,1,0,0,3,0
+trimstray/the-book-of-secret-knowledge,61,Add CLI creators to CLI section,2019-01-14 17:16:48+00:00,2019-02-13 08:49:37+00:00,1,1,0,2,3,0
+Snailclimb/JavaGuide,74,Update README.md,2018-12-07 08:50:19+00:00,2018-12-07 12:31:27+00:00,1,1,1,1,2,4
+airbnb/javascript,33,Arrays example is very confusing,2012-11-19 15:51:10+00:00,2012-11-22 22:12:06+00:00,1,33,5,1,3,31
+huggingface/transformers,32,Fix ineffective no_decay bug when using BERTAdam,2018-11-18 08:21:37+00:00,2018-11-20 09:11:47+00:00,1,2,2,3,4,126
+huggingface/transformers,91,run_classifier.py improvements,2018-12-05 17:22:31+00:00,2018-12-11 10:12:05+00:00,3,24,30,1,2,350
+huggingface/transformers,96,BertForMultipleChoice and Swag dataset example.,2018-12-06 18:34:05+00:00,2018-12-13 11:05:12+00:00,1,658,7,14,7,808
+huggingface/transformers,124,Add example for fine tuning BERT language model,2018-12-18 09:48:12+00:00,2019-01-07 11:03:51+00:00,7,678,4,12,5,898
+huggingface/transformers,145,Correct the  wrong note,2018-12-22 12:31:58+00:00,2019-01-07 11:23:06+00:00,1,1,1,1,3,30
+ollama/ollama,1,refactor,2023-06-27 19:29:54+00:00,2023-06-27 20:49:08+00:00,3,196,216,0,2,0
+ollama/ollama,3,use poetry,2023-06-27 21:44:37+00:00,2023-06-28 14:36:35+00:00,1,1363,22,0,3,260
+ollama/ollama,7,add prompt templates as j2 templates,2023-06-27 22:50:30+00:00,2023-06-28 14:37:03+00:00,1,196,440,0,3,147
+ollama/ollama,10,add with symlink,2023-06-28 16:26:42+00:00,2023-06-30 18:54:22+00:00,2,4,2,1,2,0
+ollama/ollama,15,batch model,2023-06-28 21:34:34+00:00,2023-06-29 00:10:39+00:00,1,22,13,0,2,139
+ollama/ollama,16,update python version,2023-06-28 21:46:35+00:00,2023-06-29 00:12:03+00:00,1,166,356,1,2,49
+ollama/ollama,17,use ctransformers as backup to llama.cpp,2023-06-29 00:26:07+00:00,2023-06-30 18:46:13+00:00,4,823,74,0,3,0
+ollama/ollama,20,use difflib.get_close_matches,2023-06-29 16:43:57+00:00,2023-06-30 18:54:07+00:00,1,3,13,0,2,26
+ollama/ollama,32,just in time install llama-cpp-python,2023-07-01 00:04:44+00:00,2023-07-06 16:30:31+00:00,1,33,7,0,2,0
+ollama/ollama,37,upgrade fuzzy search library,2023-07-05 18:16:14+00:00,2023-07-05 19:16:19+00:00,3,28,31,1,2,141
+ollama/ollama,49,Go run,2023-07-06 23:03:39+00:00,2023-07-07 00:18:58+00:00,1,235,187,1,2,0
+ollama/ollama,52,pass model and predict options,2023-07-07 00:12:59+00:00,2023-07-07 17:59:11+00:00,3,151,16,1,3,0
+ollama/ollama,56,"if directory cannot be resolved, do not fail",2023-07-07 19:28:14+00:00,2023-07-08 03:18:25+00:00,5,36,1,1,3,22
+ollama/ollama,57,take all args as one prompt,2023-07-07 20:16:27+00:00,2023-07-10 10:05:09+00:00,1,11,12,3,3,549
+ollama/ollama,58,return error in generate response,2023-07-07 21:27:14+00:00,2023-07-10 21:03:47+00:00,2,38,7,1,3,0
+ollama/ollama,62,llama: replace bindings with `llama_*` calls,2023-07-10 02:44:43+00:00,2023-07-10 22:51:37+00:00,2,101,983,2,2,411
+ollama/ollama,64,Do not seg fault on client disconnect,2023-07-10 11:46:30+00:00,2023-07-10 15:00:44+00:00,1,30,14,0,2,101
+ollama/ollama,65,call llama.cpp directly from go,2023-07-10 20:36:56+00:00,2023-07-11 19:01:03+00:00,10,35552,1292,2,3,0
+ollama/ollama,66,embeddings endpoint,2023-07-11 16:39:48+00:00,2023-08-10 15:49:55+00:00,11,85,31,6,4,0
+ollama/ollama,67,app: write logs to ~/.ollama/logs,2023-07-11 17:42:13+00:00,2023-07-11 18:45:21+00:00,2,261,24,0,2,0
+ollama/ollama,69,Use embeddings to give the chat client session memory,2023-07-11 20:53:44+00:00,2023-07-20 18:04:37+00:00,1,174,9,1,1,311
+ollama/ollama,70,offline fixes,2023-07-11 20:57:54+00:00,2023-07-11 22:50:19+00:00,3,143,144,0,2,608
+ollama/ollama,71,error checking new model,2023-07-12 00:09:31+00:00,2023-07-12 16:20:33+00:00,1,7,0,0,2,51
+ollama/ollama,73,fix eof error in generate,2023-07-12 16:36:33+00:00,2023-07-12 18:09:23+00:00,1,16,20,0,1,20
+ollama/ollama,74,Timings,2023-07-13 01:20:54+00:00,2023-07-13 17:17:14+00:00,1,117,32,0,2,0
+ollama/ollama,77,continue conversation,2023-07-13 18:30:47+00:00,2023-07-14 21:57:42+00:00,1,47,10,0,2,32
+ollama/ollama,78,basic distribution w/ push/pull,2023-07-14 00:19:28+00:00,2023-07-17 00:02:22+00:00,1,1154,214,0,2,733
+vercel/next.js,8,Open tab when running next dev,2016-10-15 17:04:39+00:00,2016-10-17 01:49:33+00:00,10,12,1,2,3,0
+vercel/next.js,9,Added async props test,2016-10-15 17:49:48+00:00,2016-10-16 04:32:58+00:00,1,24,1,0,2,0
+vercel/next.js,12,Reverting default props for errors.,2016-10-16 04:56:23+00:00,2016-10-16 22:44:26+00:00,1,15,16,0,2,0
+vercel/next.js,14,Added warning when pages dir is not present,2016-10-16 05:50:18+00:00,2016-10-17 01:04:35+00:00,1,11,2,0,2,134
+vercel/next.js,15,Added next init command for starting a new project,2016-10-16 06:34:49+00:00,2016-10-16 23:55:30+00:00,1,57,0,0,2,122
+vercel/next.js,34,Load client js from cdn with fallback,2016-10-17 08:36:50+00:00,2016-10-25 05:50:33+00:00,2,27,1,1,2,9
+vercel/next.js,38,Added glamor css,2016-10-20 02:12:40+00:00,2016-10-21 16:39:20+00:00,2,87,109,0,2,24
+vercel/next.js,39,Exposing glamor style as default,2016-10-22 07:46:33+00:00,2016-10-25 06:57:44+00:00,2,20,1,0,3,49
+vercel/next.js,68,Use detect-port to check if 3000 is already used.,2016-10-25 20:37:42+00:00,2016-12-17 03:37:00+00:00,4,55,7,15,9,236
+vercel/next.js,93,Add license MIT,2016-10-26 16:27:15+00:00,2016-10-29 10:56:46+00:00,11,21,0,1,5,0
+vercel/next.js,97,Fix issue #85,2016-10-26 18:10:16+00:00,2016-10-26 23:49:05+00:00,1,3,0,1,3,460
+vercel/next.js,101,README: improve getting started & contributing,2016-10-26 19:48:39+00:00,2017-01-05 17:30:31+00:00,3,56,38,9,5,175
+massgravel/Microsoft-Activation-Scripts,284,Fix typo error message,2023-10-16 12:29:30+00:00,2023-10-21 00:12:15+00:00,2,1,1,0,4,58
+labuladong/fucking-algorithm,61,English 翻译数据结构系列/单调队列.md,2020-02-29 09:27:49+00:00,2020-03-01 12:32:47+00:00,2,183,185,4,2,24
+labuladong/fucking-algorithm,78,翻译了数据结构系列，二叉堆实现优先队列,2020-03-01 02:33:00+00:00,2020-03-01 05:09:21+00:00,3,213,216,1,2,117
+labuladong/fucking-algorithm,87,The Longest Palindromic Substring.md English,2020-03-01 05:13:32+00:00,2020-03-01 11:10:42+00:00,1,119,104,4,2,82
+labuladong/fucking-algorithm,89,translate the article UnionFind 算法应用,2020-03-01 07:02:12+00:00,2020-03-01 11:41:33+00:00,1,220,225,3,2,121
+labuladong/fucking-algorithm,90,translate 数据结构系列/单调栈,2020-03-01 07:19:22+00:00,2020-03-01 12:43:16+00:00,1,122,119,0,2,13
+labuladong/fucking-algorithm,97,translate 高频面试系列/座位调度.md ,2020-03-01 10:09:54+00:00,2020-03-02 11:17:15+00:00,1,223,0,2,2,28
+labuladong/fucking-algorithm,98,translate 动态规划系列/编辑距离.md,2020-03-01 11:36:46+00:00,2020-03-01 13:10:20+00:00,1,271,263,2,2,21
+labuladong/fucking-algorithm,107,算法学习之路全文翻译,2020-03-01 23:12:24+00:00,2020-03-02 04:06:58+00:00,1,94,81,5,2,36
+labuladong/fucking-algorithm,115,translate 算法思路系列/双指针技巧,2020-03-02 05:38:31+00:00,2020-03-02 11:39:50+00:00,1,199,199,0,2,22
+yangshun/tech-interview-handbook,1,Fix link,2017-09-25 06:25:27+00:00,2017-09-25 08:03:20+00:00,1,1,1,1,2,0
+yangshun/tech-interview-handbook,3,Changed to gender neutral rather than male only,2017-09-25 21:27:24+00:00,2017-09-25 23:39:01+00:00,1,2,2,1,2,0
+yangshun/tech-interview-handbook,9,return -1 if target is not in array,2017-09-28 16:00:37+00:00,2017-09-30 13:51:37+00:00,2,14,14,5,2,84
+yangshun/tech-interview-handbook,17,"Grammar fixes for tense, punctuation and wording.",2017-10-01 15:57:48+00:00,2017-10-01 17:20:37+00:00,3,2,2,2,2,107
+yangshun/tech-interview-handbook,30,Added Elevator Pitch section,2017-10-03 21:42:09+00:00,2017-10-04 17:00:29+00:00,2,17,0,4,2,0
+yangshun/tech-interview-handbook,38,Create mergeSort.js,2017-10-09 18:01:44+00:00,2017-10-10 02:48:24+00:00,1,54,0,2,2,0
+Chalarangelo/30-seconds-of-code,1,Added capitalize first letter of every word,2017-12-11 19:26:34+00:00,2017-12-12 13:37:53+00:00,2,9,0,1,2,0
+Chalarangelo/30-seconds-of-code,5,simple ES6 unique array  values,2017-12-11 20:20:36+00:00,2017-12-12 00:29:50+00:00,1,2,8,1,3,0
+Chalarangelo/30-seconds-of-code,7,Update unique-values-of-array.md,2017-12-12 00:47:57+00:00,2017-12-12 08:56:25+00:00,1,14,8,2,2,0
+Chalarangelo/30-seconds-of-code,8,Replace the usage of ìndexOf` for `includes`,2017-12-12 01:34:13+00:00,2017-12-12 09:08:33+00:00,1,5,4,0,2,0
+Chalarangelo/30-seconds-of-code,9,Update RGB to hexadecimal to new bitwise version,2017-12-12 01:55:09+00:00,2017-12-12 18:52:34+00:00,2,16,4,7,4,96
+Chalarangelo/30-seconds-of-code,10,Capitalize first letter: safe against empty string,2017-12-12 02:29:46+00:00,2017-12-12 09:16:01+00:00,1,1,1,0,2,39
+Chalarangelo/30-seconds-of-code,11,Fixes a typo,2017-12-12 06:44:04+00:00,2017-12-12 09:13:49+00:00,1,1,1,0,2,0
+Chalarangelo/30-seconds-of-code,12,Add reverseString,2017-12-12 06:59:48+00:00,2017-12-12 09:25:35+00:00,1,9,1,2,2,0
+Chalarangelo/30-seconds-of-code,13,Directly return object from arrow function,2017-12-12 07:11:37+00:00,2017-12-12 14:07:36+00:00,6,4,6,2,3,82
+Chalarangelo/30-seconds-of-code,25,Create Check_for_palindrome.md,2017-12-12 10:39:03+00:00,2017-12-12 14:23:01+00:00,3,8,0,4,2,0
+Chalarangelo/30-seconds-of-code,31,Anagrams recursion refactor (code legibility),2017-12-12 12:40:16+00:00,2017-12-12 16:23:00+00:00,1,11,7,2,2,107
+Chalarangelo/30-seconds-of-code,37,Added async function chain,2017-12-12 16:30:27+00:00,2017-12-13 10:12:43+00:00,4,14,0,1,2,206
+Chalarangelo/30-seconds-of-code,38,Add chunk array,2017-12-12 16:37:36+00:00,2017-12-13 10:04:56+00:00,2,13,0,1,2,146
+Chalarangelo/30-seconds-of-code,42,get minimum value from an array,2017-12-12 17:53:37+00:00,2017-12-12 18:56:31+00:00,2,8,0,2,3,72
+Chalarangelo/30-seconds-of-code,44,Refactor measure-time-taken-by-function from spread syntax to callback function,2017-12-12 18:25:00+00:00,2017-12-13 11:54:38+00:00,1,3,3,2,3,394
+Chalarangelo/30-seconds-of-code,45,Added getType function,2017-12-12 19:35:31+00:00,2017-12-13 09:31:51+00:00,1,9,0,5,4,70
+Chalarangelo/30-seconds-of-code,46,Collatz algorithm,2017-12-12 19:37:56+00:00,2017-12-14 12:52:35+00:00,1,11,0,9,6,132
+Chalarangelo/30-seconds-of-code,47,"Make ""Anagrams of string"" fully functional",2017-12-12 20:32:03+00:00,2017-12-13 10:37:50+00:00,1,3,6,1,2,207
+Chalarangelo/30-seconds-of-code,51,refactor curry to account for variadic functions,2017-12-12 22:26:27+00:00,2017-12-13 11:33:50+00:00,2,11,3,4,2,263
+Chalarangelo/30-seconds-of-code,53,Create median-of-array-of-numbers.md,2017-12-12 23:04:02+00:00,2017-12-13 09:46:56+00:00,1,17,0,6,2,0
+Chalarangelo/30-seconds-of-code,54,Add bottomVisible,2017-12-13 05:48:51+00:00,2017-12-13 12:14:47+00:00,1,27,0,0,2,81
+Chalarangelo/30-seconds-of-code,55,Add value or default,2017-12-13 07:37:25+00:00,2017-12-13 09:36:29+00:00,1,8,0,0,2,79
+f/awesome-chatgpt-prompts,24,Update README.md,2022-12-10 19:14:00+00:00,2025-01-05 22:49:42+00:00,1,15,2,4,2,66
+f/awesome-chatgpt-prompts,51,Add 'Act as an UwU Translater',2022-12-12 14:40:23+00:00,2024-10-18 04:29:03+00:00,1,4,0,0,2,87
+f/awesome-chatgpt-prompts,60,"add ""Contributed by: @contributorID""",2022-12-12 23:46:35+00:00,2022-12-13 06:24:49+00:00,3,109,95,0,3,19
+Genymobile/scrcpy,29,Document how to install on Fedora,2018-03-10 11:11:28+00:00,2018-03-11 21:10:02+00:00,5,8,0,7,2,189
+Genymobile/scrcpy,56,macOS specific README changes,2018-03-13 03:02:04+00:00,2018-03-28 12:17:22+00:00,5,39,4,3,2,225
+Genymobile/scrcpy,85,"Add support for CTRL+S to send hardware ""shake"" to device",2018-03-21 01:14:46+00:00,2018-03-23 09:15:10+00:00,1,11,0,9,5,250
+Genymobile/scrcpy,133,[Feature] Drag and drop to install apk files from your computer,2018-04-28 22:28:38+00:00,2018-05-28 20:58:57+00:00,4,229,0,14,2,157
+Genymobile/scrcpy,142,Added a useful guide link for the FAQ,2018-05-04 01:56:26+00:00,2018-08-15 13:24:38+00:00,1,4,0,1,2,156
+Genymobile/scrcpy,226,support drag & drop file to device /sdcard,2018-08-11 13:59:58+00:00,2018-08-15 15:25:45+00:00,9,278,231,6,2,324
+Genymobile/scrcpy,236,check adb runnable before starting scrcpy,2018-08-21 13:34:33+00:00,2018-09-04 06:50:12+00:00,12,93,14,8,2,282
+Genymobile/scrcpy,245,Work around for multiple displays with respective scales,2018-08-26 11:52:13+00:00,2019-10-31 20:29:39+00:00,12,37,0,23,8,291
+Genymobile/scrcpy,252,Added new command line parameter to start in fullscreen,2018-09-04 13:57:59+00:00,2018-09-04 16:49:56+00:00,1,15,1,1,3,163
+Genymobile/scrcpy,254,Return specific error for missing adb binary on Windows,2018-09-08 01:24:31+00:00,2018-09-09 13:36:34+00:00,1,10,1,1,2,321
+Genymobile/scrcpy,261,prevent closing console right after process error in windows,2018-09-14 12:37:43+00:00,2018-09-18 06:56:41+00:00,1,6,0,0,2,44
+Genymobile/scrcpy,292,Record screen to file,2018-10-09 02:25:14+00:00,2018-11-11 22:40:26+00:00,4,74,9,21,3,100
+Genymobile/scrcpy,296,Desktop entry file for Linux app launchers (resolves #295),2018-10-14 08:57:43+00:00,2022-09-09 17:13:53+00:00,6,16,0,4,6,179
+Genymobile/scrcpy,412,app: add always_on_top,2019-01-27 11:10:58+00:00,2019-01-27 13:09:19+00:00,2,44,15,4,2,188
+Genymobile/scrcpy,418,Added a new option : -n/--no-window,2019-02-01 22:22:54+00:00,2019-03-02 17:42:37+00:00,5,32,4,12,4,129
+Genymobile/scrcpy,478,add KeyCharacterMap.UnavailableException,2019-03-27 08:10:47+00:00,2019-10-31 20:19:53+00:00,1,11,1,6,3,51
+Genymobile/scrcpy,542,Return success count in injectText,2019-05-19 01:04:14+00:00,2019-05-20 07:06:09+00:00,1,5,3,2,2,138
+microsoft/PowerToys,2,fix a couple typos,2019-05-06 23:33:59+00:00,2019-05-09 15:53:16+00:00,2,1,1,1,4,60
+microsoft/PowerToys,9,s/expereince/experience,2019-05-07 03:37:11+00:00,2019-05-09 15:57:30+00:00,1,1,1,1,3,0
+microsoft/PowerToys,133,Images for Specs,2019-05-29 21:43:06+00:00,2019-11-11 21:49:56+00:00,2,60,0,1,8,0
+microsoft/PowerToys,153,Fixed typo in readme,2019-09-05 16:40:42+00:00,2019-09-06 17:01:40+00:00,2,1,1,1,3,301
+microsoft/PowerToys,201,update backlog links,2019-09-05 18:47:24+00:00,2019-09-06 17:02:33+00:00,1,26,26,0,2,126
+microsoft/PowerToys,240,Fixed typo,2019-09-06 11:54:46+00:00,2019-09-06 17:18:45+00:00,1,1,1,1,3,12
+microsoft/PowerToys,242,Update README.md,2019-09-06 13:09:15+00:00,2019-09-06 17:19:45+00:00,1,1,1,1,3,477
+microsoft/PowerToys,251,Fix typo,2019-09-06 14:16:20+00:00,2019-09-06 17:23:06+00:00,2,1,1,1,3,67
+microsoft/PowerToys,258,Fixed spelling in ReadMe,2019-09-06 15:18:56+00:00,2019-09-06 17:42:58+00:00,1,5,5,1,3,591
+microsoft/PowerToys,273,Advertise shortcuts,2019-09-06 21:01:28+00:00,2019-09-09 16:19:17+00:00,1,19,33,4,2,586
+microsoft/PowerToys,280,Slight web bits cleanup,2019-09-06 23:38:59+00:00,2019-09-09 11:47:19+00:00,1,35,64,4,4,277
+microsoft/PowerToys,318,Update CI pipeline,2019-09-09 08:59:01+00:00,2019-09-09 13:13:22+00:00,1,1,1,0,2,330
+krahets/hello-algo,8,feat(computational_complexity/two_sum): add go code,2022-11-24 14:59:50+00:00,2022-11-25 03:54:47+00:00,20,93,2,4,2,49
+krahets/hello-algo,17,Python sorting algorithm,2022-11-25 07:49:25+00:00,2022-11-25 15:54:55+00:00,1,239,12,3,2,0
+krahets/hello-algo,20,feat(pkg): support go basic pkg,2022-11-25 12:27:45+00:00,2022-11-25 18:12:15+00:00,4,359,0,1,2,25
+krahets/hello-algo,21,sort,2022-11-25 15:55:37+00:00,2022-11-25 16:59:47+00:00,3,238,12,2,2,0
+krahets/hello-algo,29,feat(tree): add go code,2022-11-26 06:42:30+00:00,2022-11-26 08:40:12+00:00,8,370,16,1,2,0
+krahets/hello-algo,30,Update binary_tree.md,2022-11-26 11:44:25+00:00,2022-11-26 14:14:58+00:00,1,4,4,1,2,0
+krahets/hello-algo,31,Update binary_search_tree.md,2022-11-26 11:47:12+00:00,2022-11-26 14:15:44+00:00,1,1,1,1,2,0
+krahets/hello-algo,34,add javascript codes for Array,2022-11-27 10:36:14+00:00,2022-11-27 12:11:11+00:00,5,182,0,2,2,9
+krahets/hello-algo,35,Update stack.cpp,2022-11-27 16:52:19+00:00,2022-11-28 12:23:08+00:00,3,30,0,1,2,11
+krahets/hello-algo,36,Update PrintUtil.hpp,2022-11-27 16:53:23+00:00,2022-11-28 12:22:46+00:00,3,28,14,1,2,11
+krahets/hello-algo,39,Update stack.cpp,2022-11-28 01:06:05+00:00,2022-11-28 12:52:45+00:00,1,33,2,1,2,16
+krahets/hello-algo,40,Update PrintUtil.hpp,2022-11-28 01:34:48+00:00,2022-11-28 12:51:58+00:00,1,28,0,1,2,46
+krahets/hello-algo,41,Update linkedlist_stack.cpp,2022-11-28 02:15:38+00:00,2022-11-28 13:11:42+00:00,1,74,2,1,2,6
+krahets/hello-algo,42,Update array_stack.cpp,2022-11-28 02:43:28+00:00,2022-11-28 16:30:03+00:00,5,38,2,2,2,6
+krahets/hello-algo,44,Update array_stack.cpp,2022-11-28 14:24:35+00:00,2022-11-28 16:29:25+00:00,1,76,2,1,2,40
+krahets/hello-algo,45,feat(stack_and_queue): add go code.,2022-11-28 17:14:06+00:00,2022-11-29 12:28:59+00:00,8,730,2,1,2,117
+krahets/hello-algo,50,栈的python代码,2022-11-29 06:04:10+00:00,2022-11-29 15:12:46+00:00,11,176,9,5,2,0
+krahets/hello-algo,53,Add python code for queue,2022-11-30 04:17:26+00:00,2022-12-01 14:55:24+00:00,4,265,12,1,2,0
+krahets/hello-algo,55,Update array_stack.py,2022-11-30 22:51:00+00:00,2022-12-01 14:57:33+00:00,1,3,3,1,2,20
+krahets/hello-algo,56,fix(codes/cpp/include/TreeNode.hpp):  fix 'vecToTree' function,2022-12-01 01:20:35+00:00,2022-12-01 14:47:29+00:00,1,17,14,1,2,0
+krahets/hello-algo,57,add sort for javascript codes,2022-12-01 10:29:56+00:00,2022-12-01 14:41:33+00:00,3,479,0,2,2,29
+krahets/hello-algo,67,新增双指针算法技巧的代码与文章,2022-12-03 08:15:55+00:00,2022-12-04 08:32:21+00:00,21,19,65,1,2,37
+krahets/hello-algo,68, Create 'avl_tree' and modify 'TreeNode.hpp' to support 'avl_tree',2022-12-03 09:37:51+00:00,2022-12-10 18:33:20+00:00,9,872,4,3,2,0
+krahets/hello-algo,69,search,2022-12-03 14:57:42+00:00,2022-12-03 17:33:19+00:00,1,106,6,1,2,0
+krahets/hello-algo,70,Update stack.md,2022-12-03 15:00:35+00:00,2022-12-04 05:07:09+00:00,3,100,0,4,3,39
+krahets/hello-algo,71,add JavaScript codes for Tree,2022-12-04 04:26:37+00:00,2022-12-04 16:15:33+00:00,4,554,6,1,2,29
+krahets/hello-algo,74,go语言数组,2022-12-05 01:10:35+00:00,2022-12-16 12:49:39+00:00,5,67,0,2,3,0
+krahets/hello-algo,75,Update binary_search.md,2022-12-05 09:10:56+00:00,2022-12-05 12:47:21+00:00,1,107,3,2,2,54
+krahets/hello-algo,76,binary_search using go,2022-12-05 12:48:33+00:00,2022-12-05 14:48:26+00:00,1,107,3,1,2,0
+krahets/hello-algo,79,bubble sort using go,2022-12-06 16:33:12+00:00,2022-12-07 10:39:30+00:00,2,89,2,1,2,0
+krahets/hello-algo,80,Bubble sort using go,2022-12-07 10:40:52+00:00,2022-12-07 13:32:42+00:00,1,89,2,1,2,16
+krahets/hello-algo,81,Array stack in js and ts,2022-12-08 16:06:41+00:00,2022-12-09 18:59:20+00:00,5,252,2,2,2,24
+krahets/hello-algo,91,Hashing search using go,2022-12-12 08:45:52+00:00,2022-12-12 15:20:36+00:00,5,84,2,1,2,22
+krahets/hello-algo,92,Insertion sort using go,2022-12-12 10:36:28+00:00,2022-12-12 12:00:59+00:00,4,49,1,1,2,0
+krahets/hello-algo,93,Js dev,2022-12-12 13:31:33+00:00,2022-12-12 14:59:43+00:00,1,570,46,1,2,43
+krahets/hello-algo,94,Quick sort using go,2022-12-12 13:34:29+00:00,2022-12-12 15:02:54+00:00,2,226,3,1,2,0
+krahets/hello-algo,97,Array queue in js and ts,2022-12-12 16:01:36+00:00,2022-12-19 16:58:55+00:00,3,5174,575,13,10,24
+yt-dlp/yt-dlp,31,Features from animelover1984/youtube-dl,2021-01-24 07:35:40+00:00,2021-01-27 15:02:52+00:00,8,587,72,6,3,1310
+yt-dlp/yt-dlp,49,[niconico] Improvement niconico douga from another approach. (Support encrypted movies and old server source movies),2021-02-02 08:50:15+00:00,2021-02-10 06:45:21+00:00,32,346,176,13,4,2551
+yt-dlp/yt-dlp,55,Aria2c support for MPEG-DASH and HLS,2021-02-07 15:18:55+00:00,2021-02-08 16:46:02+00:00,13,179,35,4,2,1065
+yt-dlp/yt-dlp,64,Implement self updater,2021-02-08 20:57:51+00:00,2021-02-09 12:34:01+00:00,2,34,63,3,2,1047
+yt-dlp/yt-dlp,70,Allow downloading of unplayable formats,2021-02-10 17:55:29+00:00,2021-02-12 03:52:00+00:00,4,106,47,0,2,1096
+yt-dlp/yt-dlp,79,Fix HLS AES-128 with multiple keys in external downloaders,2021-02-13 02:27:27+00:00,2021-02-13 16:15:41+00:00,1,12,5,0,2,1311
+yt-dlp/yt-dlp,85,Use one project name,2021-02-14 23:29:02+00:00,2021-02-24 18:45:56+00:00,1,501,506,2,1,1855
+yt-dlp/yt-dlp,86,use new POST API for live chat,2021-02-15 00:35:55+00:00,2021-02-15 09:57:21+00:00,12,45,38,2,2,1367
+yt-dlp/yt-dlp,90,[niconico] Support metadata 'channel' and 'channel_id' (fix #77).,2021-02-16 07:37:14+00:00,2021-02-16 10:49:38+00:00,1,22,2,0,2,1180
+yt-dlp/yt-dlp,100,[Zee5] Add new extractor,2021-02-20 12:21:06+00:00,2021-02-22 17:20:43+00:00,4,114,0,1,2,1374
+yt-dlp/yt-dlp,103,Basic support for HLS media initialization,2021-02-23 00:03:31+00:00,2021-02-23 16:00:56+00:00,1,62,32,0,2,1070
+yt-dlp/yt-dlp,105,Better support HLS media discontinuity and fully support media initialization,2021-02-24 00:35:55+00:00,2021-02-24 14:47:53+00:00,1,429,475,1,2,1145
+yt-dlp/yt-dlp,122,[nebula] Add Nebula (watchnebula.com) extractor,2021-02-28 22:34:42+00:00,2021-04-09 11:25:33+00:00,24,207,1,10,2,2148
+yt-dlp/yt-dlp,131,[YouTube] Use new browse API for continuation page extraction.,2021-03-03 02:24:55+00:00,2021-03-03 10:32:41+00:00,2,38,34,2,4,1675
+yt-dlp/yt-dlp,138,[cbs] Add support for ParamountPlus,2021-03-04 13:40:30+00:00,2021-03-04 14:50:07+00:00,2,7,4,0,2,1051
+yt-dlp/yt-dlp,141,[MXPlayer] Rewrite Extractor,2021-03-05 04:16:35+00:00,2021-03-05 19:41:02+00:00,7,84,60,0,2,1083
+langchain-ai/langchain,23,Harrison/add huggingface hub,2022-10-26 03:23:09+00:00,2022-10-26 05:00:34+00:00,7,228,28,0,2,165
+langchain-ai/langchain,31,[RFC] Self-consistent Draft,2022-10-27 13:33:00+00:00,2023-04-12 00:36:50+00:00,3,602,36,1,2,416
+langchain-ai/langchain,33,Fix cohere integration,2022-10-27 19:12:22+00:00,2022-10-28 01:17:04+00:00,1,1,1,1,3,119
+langchain-ai/langchain,41,prompt templating,2022-10-28 16:02:40+00:00,2022-10-30 16:45:28+00:00,3,65,21,6,2,0
+langchain-ai/langchain,44,add developer guide,2022-10-31 01:21:57+00:00,2022-10-31 05:48:52+00:00,1,25,0,0,2,63
+langchain-ai/langchain,48,FAISS and embedding support ,2022-11-01 04:33:38+00:00,2022-11-02 04:29:40+00:00,2,427,5,5,2,46
+langchain-ai/langchain,49,DynamicPrompt class creation,2022-11-01 04:58:32+00:00,2022-11-05 19:43:22+00:00,6,219,2,2,2,115
+langchain-ai/langchain,60,Add BasePrompt as abstract base class,2022-11-03 21:47:38+00:00,2022-11-04 15:42:45+00:00,1,32,6,0,2,0
+facebook/create-react-app,94,Don't assume the project is hosted at the root,2016-07-22 19:17:34+00:00,2016-07-24 23:07:33+00:00,1,34,8,20,6,100
+denoland/deno,3,[WIP] use wildcard to check test outputs,2018-05-29 09:44:18+00:00,2018-05-30 12:33:56+00:00,2,141,27,3,3,0
+denoland/deno,5,Implement FileWrite,2018-05-29 11:55:17+00:00,2018-06-22 13:33:24+00:00,3,53,4,5,5,0
+denoland/deno,6,Remove hand crafted types for text-encoding,2018-05-29 16:16:58+00:00,2018-06-01 20:20:34+00:00,9,5,72,10,6,542
+denoland/deno,16,[WIP] Init Dockerfile,2018-05-30 13:28:50+00:00,2018-06-01 15:06:42+00:00,8,26,0,1,5,80
+denoland/deno,22,Remove extra out argument sent to Parcel and reduce logging in output,2018-05-30 18:29:36+00:00,2018-05-31 00:03:11+00:00,2,1,1,0,3,26
+denoland/deno,24,Update compile instructions in README,2018-05-31 04:09:45+00:00,2018-05-31 14:04:38+00:00,1,17,10,2,4,122
+denoland/deno,54,"optimize the timer ts impl, and correct the duration if less than 10",2018-05-31 15:31:38+00:00,2018-05-31 21:39:45+00:00,16,27,29,6,5,199
+denoland/deno,57,Rename LICENSE,2018-05-31 17:31:17+00:00,2018-05-31 21:17:33+00:00,1,0,0,2,4,115
+denoland/deno,58,Enhance README,2018-05-31 18:35:23+00:00,2018-05-31 21:32:03+00:00,2,37,34,1,4,224
+denoland/deno,63,Use docker for local development,2018-06-01 05:44:18+00:00,2018-06-22 13:34:24+00:00,3,140,36,7,5,4561
+denoland/deno,65,update build step ,2018-06-01 06:15:38+00:00,2018-06-01 18:36:05+00:00,1,1,0,8,4,32
+denoland/deno,72,Avoid apply and move arrayToStr to util,2018-06-01 09:07:55+00:00,2018-06-04 06:56:58+00:00,2,5,5,1,4,126
+denoland/deno,73,format runtime.ts,2018-06-01 09:29:16+00:00,2018-06-01 18:33:17+00:00,1,1,1,2,4,0
+denoland/deno,83,[fix] fix some code to satisfied tslint,2018-06-01 12:39:17+00:00,2018-06-04 06:59:02+00:00,2,4,4,0,3,159
+denoland/deno,90,docs: add issue template,2018-06-01 14:02:51+00:00,2018-06-01 18:34:59+00:00,1,2,0,2,4,81
+denoland/deno,93,Check if prettier is run in lint task,2018-06-01 16:24:44+00:00,2018-06-04 07:03:43+00:00,1,2,0,2,3,68
+denoland/deno,98,feat: ( os ) Implement FileStateSync and test in test.ts,2018-06-02 00:49:10+00:00,2018-06-22 13:35:46+00:00,8,68,4,3,5,0
+denoland/deno,99,fix typescript warning,2018-06-02 05:21:51+00:00,2018-06-04 07:06:42+00:00,1,2,2,3,5,79
+denoland/deno,100,os: implement tempDirSync and use in tests.ts,2018-06-02 06:33:18+00:00,2018-06-05 10:19:09+00:00,4,0,0,2,4,48
+denoland/deno,102,Add `console.assert`,2018-06-02 09:46:56+00:00,2018-06-05 07:58:51+00:00,7,19,0,10,6,68
+denoland/deno,110,📝 Update install instructions around known error,2018-06-02 20:08:01+00:00,2018-06-04 07:41:51+00:00,5,11,4,3,6,227
+denoland/deno,111,Enhance error check in dispatch.go,2018-06-03 05:24:20+00:00,2018-06-04 08:03:49+00:00,1,1,3,2,4,44
+denoland/deno,129,Enhance README.md,2018-06-04 09:41:09+00:00,2018-06-05 08:16:07+00:00,1,13,14,3,4,256
+denoland/deno,130,Use object destructing,2018-06-04 09:42:45+00:00,2018-06-05 08:43:01+00:00,3,11,10,1,5,54
+denoland/deno,136,[fix] rename sendMsg to pubInternal and refactor some import statements,2018-06-05 03:36:06+00:00,2018-06-05 08:10:28+00:00,1,14,15,0,2,107
+denoland/deno,139,Use check() to improve error check,2018-06-05 06:45:46+00:00,2018-06-05 08:07:40+00:00,1,8,21,0,2,0
+goldbergyoni/nodebestpractices,9,Fixed typo,2017-11-03 05:29:59+00:00,2017-11-03 15:28:15+00:00,1,1,1,1,3,54
+goldbergyoni/nodebestpractices,10,Fix typo pitfal to pitfall,2017-11-03 10:53:36+00:00,2017-11-03 15:31:24+00:00,1,1,1,1,3,0
+goldbergyoni/nodebestpractices,14,Update README.md,2017-11-03 14:26:53+00:00,2017-11-03 15:32:48+00:00,1,2,2,1,3,45
+goldbergyoni/nodebestpractices,16,Add spanish translation skeleton,2017-11-03 20:06:10+00:00,2019-04-04 07:50:50+00:00,3,131,137,20,6,54
+goldbergyoni/nodebestpractices,20,Fixed some typos,2017-11-04 12:01:21+00:00,2017-11-05 21:19:01+00:00,1,43,42,3,3,40
+goldbergyoni/nodebestpractices,23,[errorhandling] Format js code in the blog section,2017-11-04 17:33:15+00:00,2017-11-04 21:00:51+00:00,1,4,4,1,3,137
+goldbergyoni/nodebestpractices,24,Update README.md,2017-11-04 21:57:40+00:00,2017-11-05 15:49:28+00:00,1,1,1,0,3,0
+goldbergyoni/nodebestpractices,29,Fixed typos and optimized sentence syntax of sections,2017-11-06 18:24:01+00:00,2017-11-09 20:21:00+00:00,1,27,27,5,3,0
+goldbergyoni/nodebestpractices,35,corrected typos in readme,2017-11-08 06:20:46+00:00,2017-11-08 19:54:03+00:00,1,6,6,1,2,143
+goldbergyoni/nodebestpractices,39,Add Keymetrics to APM section,2017-11-08 13:39:48+00:00,2018-09-19 08:36:36+00:00,1,7,3,7,5,0
+goldbergyoni/nodebestpractices,48,Fix link formatting,2017-11-09 14:54:00+00:00,2017-11-09 20:45:13+00:00,2,2,2,1,2,0
+goldbergyoni/nodebestpractices,52,Fixing #51,2017-11-10 04:59:56+00:00,2017-11-14 19:23:55+00:00,1,7,15,4,3,966
+goldbergyoni/nodebestpractices,56,Fix code sample syntax issue for bullet 3.3,2017-11-10 08:29:49+00:00,2017-11-11 10:03:38+00:00,1,2,2,1,2,101
+goldbergyoni/nodebestpractices,57,Fixup a couple of code examples,2017-11-10 09:20:14+00:00,2017-11-11 20:16:36+00:00,1,3,3,0,2,71
+goldbergyoni/nodebestpractices,58,Update productoncode.md,2017-11-10 13:52:12+00:00,2017-11-11 10:00:52+00:00,1,1,1,1,2,34
+goldbergyoni/nodebestpractices,60,Add section on healthchecks,2017-11-11 15:22:36+00:00,2018-05-08 07:21:29+00:00,1,25,0,5,3,1175
+goldbergyoni/nodebestpractices,61,Remove unneeded image and replace with code block,2017-11-12 14:53:13+00:00,2017-11-14 19:18:38+00:00,1,17,1,2,3,168
+goldbergyoni/nodebestpractices,62,Clean up some grammar,2017-11-13 00:56:37+00:00,2017-11-14 13:00:45+00:00,1,5,5,0,2,35
+goldbergyoni/nodebestpractices,64,Typo,2017-11-14 09:33:28+00:00,2017-11-14 12:49:17+00:00,1,1,1,4,3,162
+goldbergyoni/nodebestpractices,65,Tiny grammar fix in section 1.2,2017-11-14 17:38:30+00:00,2017-11-14 19:17:15+00:00,1,2,2,3,2,76
+goldbergyoni/nodebestpractices,70,tiny ToC fix,2017-11-15 09:33:23+00:00,2017-11-15 10:47:48+00:00,1,1,1,0,2,0
+goldbergyoni/nodebestpractices,76,Add 'milestones' section to README,2017-11-15 17:20:21+00:00,2017-11-16 16:08:03+00:00,1,5,0,0,3,0
+521xueweihan/HelloGitHub,2408,修正不当表述,2022-10-29 18:32:47+00:00,2022-11-29 01:43:31+00:00,1,1,1,0,3,73
+521xueweihan/HelloGitHub,2660,Auto run by powershell,2023-12-21 11:58:14+00:00,2023-12-28 00:08:47+00:00,1,105,0,3,3,46
+521xueweihan/HelloGitHub,2693,merge a,2024-03-01 09:52:31+00:00,2024-03-28 01:14:41+00:00,1,863,16,0,3,0
+521xueweihan/HelloGitHub,2851,Rename FUNDING.yml to FUNDING.ymlMariozisa1,2024-11-22 21:47:36+00:00,2024-12-21 03:21:17+00:00,1,0,0,0,3,12
+microsoft/terminal,19,Add a switch for exporting settings,2017-08-15 16:17:16+00:00,2018-04-25 21:18:49+00:00,5,66,4,0,7,112
+microsoft/terminal,25,Dynamically generate list of parsers,2017-08-28 17:06:15+00:00,2018-04-25 21:23:47+00:00,1,30,12,1,4,1388
+microsoft/terminal,50,Add support for using ColorTool in WSL,2018-01-19 21:51:17+00:00,2018-10-02 17:24:39+00:00,2,334,154,8,4,381
+microsoft/terminal,164,Change listing of available schemes to use directory of executable,2018-04-29 15:46:49+00:00,2018-04-30 15:26:33+00:00,1,4,2,1,2,250
+microsoft/terminal,181,Adjust 'ANSI 8' color to be more visible against background. Fixes #180,2018-05-16 16:52:11+00:00,2018-10-02 16:11:50+00:00,1,5,5,2,4,0
+microsoft/terminal,184,"Markdown fixes, also add a description",2018-05-17 10:29:06+00:00,2018-05-17 15:18:04+00:00,1,4,2,0,2,0
+microsoft/terminal,197,Consolidate schemes path search code,2018-05-31 11:01:45+00:00,2018-06-06 21:54:29+00:00,1,51,69,2,3,297
+microsoft/terminal,236,Fix UIntTocolor,2018-08-19 05:16:39+00:00,2018-10-02 16:09:49+00:00,1,3,4,0,2,119
+microsoft/terminal,247,Add an example application that uses the pseudoconsole APIs,2018-08-31 00:03:48+00:00,2018-09-11 03:07:18+00:00,31,486,0,1,3,73
+microsoft/terminal,260,Add csharp conpty sample,2018-09-20 15:21:40+00:00,2018-10-04 17:18:35+00:00,5,740,0,5,4,1224
+microsoft/terminal,272,Add the new ConPTY samples to the readme,2018-10-06 10:53:24+00:00,2018-10-08 16:09:02+00:00,1,3,1,1,2,122
+microsoft/terminal,278,Added location flag to colortool and updated help.,2018-10-10 20:26:41+00:00,2019-03-28 23:59:38+00:00,7,182,171,4,8,44
+microsoft/terminal,285,Add GUIConsole sample,2018-10-14 13:22:47+00:00,2019-05-18 18:17:37+00:00,7,1193,0,20,6,453
+microsoft/terminal,340,Retargeted EchoCon sample project to 17763 now Win10 1809 has shipped,2019-01-04 19:20:11+00:00,2019-04-25 00:20:21+00:00,2,1,1,0,3,0
+microsoft/terminal,378,Don't report scheme parse errors by default,2019-02-27 16:41:37+00:00,2019-02-27 20:57:12+00:00,6,38,31,1,3,533
+microsoft/terminal,400,Back and forground index export,2019-03-29 16:33:48+00:00,2019-04-02 17:21:23+00:00,5,126,18,2,3,777
+microsoft/terminal,402,added Support for parsing screen color in json,2019-03-29 20:58:13+00:00,2019-04-02 02:16:01+00:00,2,21,1,1,3,25
+microsoft/terminal,414,ReadConsoleInputStream demo,2019-04-21 17:35:08+00:00,2019-04-25 17:08:53+00:00,50,474,0,2,3,1466
+microsoft/terminal,418,"Fix ColorTool parser and registry bugs, and refactor",2019-04-25 11:49:37+00:00,2019-04-29 19:12:02+00:00,9,883,774,3,3,860
+excalidraw/excalidraw,28,Drag to move selection,2020-01-02 09:09:11+00:00,2020-01-02 13:58:25+00:00,1,43,2,1,2,9
+excalidraw/excalidraw,29,Select element on click,2020-01-02 11:45:28+00:00,2020-01-02 15:37:14+00:00,5,33,19,3,2,9
+excalidraw/excalidraw,30,Setup git and lock deps,2020-01-02 11:49:50+00:00,2020-01-02 14:46:31+00:00,2,10184,0,0,2,36
+excalidraw/excalidraw,52,WIP: Migrate the elements array to react scope,2020-01-02 22:55:33+00:00,2020-01-06 01:40:09+00:00,10,185,155,5,3,345
+excalidraw/excalidraw,53,Save to local storage,2020-01-02 23:08:31+00:00,2020-01-03 17:12:37+00:00,21,33,0,7,5,106
+excalidraw/excalidraw,55,[WIP] Undo,2020-01-02 23:41:52+00:00,2020-01-05 00:58:52+00:00,4,45,17,6,4,20
+excalidraw/excalidraw,56,Add support for 'delete' key,2020-01-03 00:30:06+00:00,2020-01-03 15:47:34+00:00,5,33,13,2,5,131
+excalidraw/excalidraw,66,add cypress scaffolding,2020-01-03 16:02:35+00:00,2020-01-12 05:25:09+00:00,6,15804,11129,5,7,426
+excalidraw/excalidraw,69,Deploy static to gh-pages,2020-01-03 16:46:04+00:00,2020-01-03 20:53:37+00:00,1,11,1,10,3,9
+excalidraw/excalidraw,74,[WIP] Scroll with mouse wheel,2020-01-03 20:31:46+00:00,2020-01-03 22:06:54+00:00,2,154,34,4,3,278
+excalidraw/excalidraw,75,[WIP] Add node worklow,2020-01-03 20:40:28+00:00,2020-01-03 22:18:43+00:00,1,14815,24,10,3,0
+excalidraw/excalidraw,83,[WIP] Adding README,2020-01-03 21:57:19+00:00,2020-01-03 23:29:13+00:00,5,40,0,1,2,33
+deepseek-ai/DeepSeek-V3,271,mask标记声明,2025-01-14 07:35:09+00:00,2025-01-17 06:17:11+00:00,1,1,0,0,2,8
+deepseek-ai/DeepSeek-V3,360,Update README.md,2025-01-27 09:47:04+00:00,2025-02-05 03:37:55+00:00,1,4,4,3,4,270
+deepseek-ai/DeepSeek-V3,364,Add table of contents to README for better navigation,2025-01-27 11:24:51+00:00,2025-02-05 03:39:08+00:00,9,12,0,5,10,415
+deepseek-ai/DeepSeek-V3,367,Update model.py,2025-01-27 12:04:46+00:00,2025-02-05 03:41:32+00:00,6,17,14,1,6,91
+deepseek-ai/DeepSeek-V3,371,Create xxx.py,2025-01-27 14:34:49+00:00,2025-02-05 03:42:03+00:00,1,1,0,3,6,0
+deepseek-ai/DeepSeek-V3,379,Fix typos and ensure consistency in documentation,2025-01-27 17:50:56+00:00,2025-02-05 03:44:07+00:00,5,3,3,2,7,362
+deepseek-ai/DeepSeek-V3,387,Some improvements,2025-01-28 02:27:26+00:00,2025-01-30 13:57:32+00:00,1,754,1015,1,2,408
+deepseek-ai/DeepSeek-V3,395,Added Try-Catch and Memory optimization in Convert.py,2025-01-28 06:21:31+00:00,2025-01-30 14:22:16+00:00,1,42,26,1,3,195
+deepseek-ai/DeepSeek-V3,399,On macOS we can use Ollama and Kerlig,2025-01-28 07:16:28+00:00,2025-02-05 04:00:10+00:00,1,1,1,2,3,0
+deepseek-ai/DeepSeek-V3,419,Update README.md,2025-01-28 16:24:55+00:00,2025-02-05 04:05:09+00:00,1,1,1,1,3,20
+deepseek-ai/DeepSeek-V3,422,add link to readme,2025-01-28 17:18:57+00:00,2025-02-11 21:07:15+00:00,2,1,1,0,3,41
+deepseek-ai/DeepSeek-V3,432,docs: remove redundant asterisks in note,2025-01-28 19:20:00+00:00,2025-02-05 08:53:53+00:00,1,2,2,0,3,117
+deepseek-ai/DeepSeek-V3,441,Cleanup README,2025-01-28 23:14:42+00:00,2025-02-05 15:16:26+00:00,4,2,2,4,7,704
+ryanmcdermott/clean-code-javascript,12,Number of arguments section.,2017-01-04 22:26:03+00:00,2017-01-10 03:29:22+00:00,2,1,1,5,5,270
+ryanmcdermott/clean-code-javascript,34,Rephrase default value advice,2017-01-06 04:16:49+00:00,2017-01-11 03:23:09+00:00,1,7,28,4,2,503
+ryanmcdermott/clean-code-javascript,37,Use destructuring for explanatory variables,2017-01-06 08:52:10+00:00,2017-01-11 03:29:28+00:00,2,6,6,5,4,151
+ryanmcdermott/clean-code-javascript,38,Feature/change var,2017-01-06 12:02:18+00:00,2017-01-08 16:58:10+00:00,3,70,70,1,4,104
+ryanmcdermott/clean-code-javascript,43,Add: Error Handling Section,2017-01-06 16:42:18+00:00,2017-01-07 03:13:30+00:00,4,78,4,3,2,0
+ryanmcdermott/clean-code-javascript,51,Change var and let where necessary,2017-01-06 22:02:49+00:00,2017-01-08 16:42:27+00:00,3,109,110,3,3,60
+papers-we-love/papers-we-love,46,Einstein’s 1905 Paper,2014-03-10 22:34:51+00:00,2014-03-19 12:05:43+00:00,1,10,0,17,6,247
+iptv-org/iptv,2,Update in.m3u,2019-03-24 18:12:04+00:00,2019-03-25 05:09:59+00:00,1,2,0,2,2,0
+tauri-apps/tauri,2,feat(proton) initial packages for webview and binding-rust,2019-07-14 02:55:46+00:00,2019-07-14 12:47:29+00:00,4,6486,8,1,2,47
+tauri-apps/tauri,5,fix(ffi) define struct,2019-07-20 09:50:37+00:00,2019-07-20 17:50:07+00:00,1,2,1,0,2,1075
+tauri-apps/tauri,6,chore(merge) feature/bundle fork,2019-07-20 19:50:44+00:00,2019-07-20 21:42:08+00:00,1,5062,32,0,2,904
+tauri-apps/tauri,14,feat(MSI bundler) Basic functionality. ,2019-08-07 22:42:56+00:00,2019-08-20 14:33:49+00:00,3,1576,612,4,3,1247
+tauri-apps/tauri,15,chore(project) rename to tauri,2019-08-13 23:34:05+00:00,2019-08-14 11:24:08+00:00,1,124,124,0,2,904
+tauri-apps/tauri,18,feat(tauri) core template isolated,2019-08-16 02:51:53+00:00,2019-08-16 10:58:31+00:00,2,234,175,0,2,904
+tauri-apps/tauri,20,feat(tauri) initial work for the CLI,2019-08-18 21:49:47+00:00,2019-08-19 21:09:30+00:00,11,1253,6,1,2,904
+tauri-apps/tauri,26,fix(tauri) embedded-server edge case with config host,2019-08-22 01:25:07+00:00,2019-08-22 07:52:02+00:00,1,43,21,0,2,1483
+tauri-apps/tauri,29,fix(tauri) event system init on windows fixed,2019-08-23 13:30:01+00:00,2019-08-23 14:39:42+00:00,3,46,39,0,2,904
+tauri-apps/tauri,32,feat(ui) webview impl on separate files,2019-08-25 12:00:56+00:00,2019-09-12 19:37:40+00:00,2,2119,2111,2,3,993
+tauri-apps/tauri,36,feat(docs): purge for external documentation page,2019-09-14 17:04:31+00:00,2019-09-15 08:52:08+00:00,1,1,11750,1,2,92
+tauri-apps/tauri,37,feat(bundler) appimage,2019-09-24 22:09:22+00:00,2019-11-26 20:16:21+00:00,1,420,14,1,2,153
+tauri-apps/tauri,38,Feat(bundler) dmg bundler,2019-09-25 17:10:33+00:00,2019-10-07 20:03:19+00:00,1,228,0,0,3,138
+tauri-apps/tauri,39,Refactor(Tauri) Rust 2018,2019-09-25 17:32:09+00:00,2019-10-07 11:15:34+00:00,1,3,14,3,3,178
+tauri-apps/tauri,40,Feature/edge(ui),2019-10-05 21:34:12+00:00,2019-10-07 18:42:26+00:00,1,1205,0,0,2,745
+tauri-apps/tauri,49,Github Actions CI Process - Build Rust,2019-10-31 13:55:06+00:00,2019-11-02 08:36:16+00:00,1,72,0,0,2,1244
+tauri-apps/tauri,55,feat(icons): add and test icon generation for tauri,2019-11-17 16:03:17+00:00,2019-11-17 21:30:15+00:00,1,2135,88,0,2,429
+Hack-with-Github/Awesome-Hacking,6,add osx security awesome,2017-03-12 21:33:27+00:00,2017-05-29 12:04:06+00:00,1,1,0,5,5,48
+Hack-with-Github/Awesome-Hacking,12,Add an Awesome Vulnerability Research,2017-07-23 23:27:34+00:00,2017-07-25 17:36:56+00:00,1,1,0,0,2,90
+Hack-with-Github/Awesome-Hacking,41,Added the How2Heap repository to the list of awesome repos,2018-10-07 23:29:11+00:00,2021-07-31 15:43:21+00:00,3,1,0,2,7,60
+Hack-with-Github/Awesome-Hacking,42,README.md: header level should increment by 1,2018-10-15 22:53:28+00:00,2018-10-25 06:33:58+00:00,1,4,4,0,2,37
+Hack-with-Github/Awesome-Hacking,45,Update README.md,2018-10-31 07:17:25+00:00,2018-11-07 12:06:14+00:00,1,1,0,0,2,46
+Hack-with-Github/Awesome-Hacking,48,Added the awesome-serverless-security repo,2019-02-03 20:48:34+00:00,2019-02-09 09:00:42+00:00,1,1,0,1,2,0
+Hack-with-Github/Awesome-Hacking,50,Add: hacker-roadmap awesome repository,2019-04-13 21:51:32+00:00,2019-04-26 03:31:38+00:00,1,1,0,1,3,0
+Hack-with-Github/Awesome-Hacking,52,Fixed gray-hacker-resources broken link,2019-07-19 17:52:59+00:00,2019-07-31 16:43:23+00:00,1,1,1,1,3,0
+Hack-with-Github/Awesome-Hacking,54,Added link to Awesome-Asset-Discovery,2019-10-02 10:46:16+00:00,2019-10-03 15:22:23+00:00,1,1,0,0,2,95
+Hack-with-Github/Awesome-Hacking,55,Remove link to Malware Scripts due to 404,2019-10-02 10:57:24+00:00,2019-10-03 15:21:17+00:00,2,0,1,0,4,63
+puppeteer/puppeteer,17,"Add lint package.json lint script, .editorconfig file, fix linting errors",2017-06-19 21:43:22+00:00,2017-06-19 22:58:31+00:00,2,14,4,1,2,15
+puppeteer/puppeteer,23,WIP: use chrome-launcher for handling the browser.,2017-06-19 23:50:38+00:00,2017-07-11 23:43:43+00:00,4,897,88,4,3,149
+puppeteer/puppeteer,24,Make InPageCallback async,2017-06-20 01:04:02+00:00,2017-06-20 21:54:54+00:00,1,59,81,2,3,31
+puppeteer/puppeteer,25,Tweaks to readme. API doc link,2017-06-20 02:17:49+00:00,2017-06-20 18:32:21+00:00,5,49,28,0,2,68
+puppeteer/puppeteer,29,Add travis config,2017-06-20 22:29:42+00:00,2017-06-21 00:04:25+00:00,4,606,5,0,3,306
+puppeteer/puppeteer,32,Extract navigator logic that waits for network idle!,2017-06-20 23:58:00+00:00,2017-06-21 20:44:12+00:00,4,103,11,1,2,0
+puppeteer/puppeteer,37,Allow emulating devices,2017-06-21 21:33:17+00:00,2017-07-18 01:57:50+00:00,1,1439,32,1,2,0
+puppeteer/puppeteer,38,fix(Navigator): add better network idle definition,2017-06-23 00:53:27+00:00,2017-06-28 21:39:37+00:00,16,203,28,7,3,319
+puppeteer/puppeteer,45,Basic input,2017-06-27 22:50:02+00:00,2017-06-28 01:27:23+00:00,7,139,0,0,2,54
+puppeteer/puppeteer,46,add navigator test,2017-06-28 00:08:16+00:00,2017-06-28 05:02:46+00:00,11,106,0,0,2,74
+puppeteer/puppeteer,47,Implement documentation linter,2017-06-28 02:34:01+00:00,2017-07-07 16:36:45+00:00,3,1715,61,10,4,1250
+puppeteer/puppeteer,58,$ and $$ for querySelector and querySelectorAll,2017-07-07 20:36:04+00:00,2017-07-12 22:17:05+00:00,2,1428,468,4,9,0
+puppeteer/puppeteer,59,Added frame.waitFor(selector),2017-07-07 20:49:37+00:00,2017-07-07 22:39:03+00:00,6,104,0,0,3,8
+puppeteer/puppeteer,61,Page.uploadFile,2017-07-08 00:54:01+00:00,2017-07-10 18:21:47+00:00,10,75,8,0,3,3
+puppeteer/puppeteer,62,Add tests for all public methods on Page,2017-07-08 02:14:27+00:00,2017-07-10 17:09:59+00:00,3,67,2,0,2,3
+puppeteer/puppeteer,69,Mouse input,2017-07-11 00:00:07+00:00,2017-07-21 21:16:03+00:00,3,177,20,2,3,70
+puppeteer/puppeteer,70,Add use cases and FAQ on Selenium,2017-07-11 18:03:31+00:00,2017-07-11 23:27:46+00:00,1,11,0,0,2,460
+puppeteer/puppeteer,72,Capture native resolution while emulating.,2017-07-11 22:38:04+00:00,2017-07-18 01:13:04+00:00,2,1430,41,0,2,0
+puppeteer/puppeteer,73,Cleanup _frameIdToExecutionContextId properly,2017-07-12 00:51:09+00:00,2017-07-12 04:52:09+00:00,2,2,5,0,2,0
+puppeteer/puppeteer,74,Keyboard,2017-07-12 19:27:55+00:00,2017-07-18 01:49:53+00:00,18,576,38,3,2,70
+puppeteer/puppeteer,75,$ and $$ as shortcuts for querySelector and querySelectorAll,2017-07-12 22:23:10+00:00,2017-07-18 01:56:56+00:00,17,158,9,5,4,82
+puppeteer/puppeteer,82,Addded builtins object,2017-07-14 23:55:38+00:00,2017-08-01 00:32:22+00:00,3,77,25,0,3,148
+puppeteer/puppeteer,94,Introduce waitForNavigation.,2017-07-18 19:09:35+00:00,2017-07-19 01:54:25+00:00,1,74,35,0,2,0
+puppeteer/puppeteer,98,Remove keyboard.type and keyboard.press,2017-07-19 22:28:55+00:00,2017-07-22 03:00:09+00:00,2,31,66,0,2,39
+langgenius/dify,3,fix: Fix symbol errors in the nodejs-client's README.md file of the SDK,2023-05-15 02:16:41+00:00,2023-05-15 03:20:13+00:00,1,1,1,0,2,0
+langgenius/dify,31,Feature/add test to nodejs sdk,2023-05-15 14:47:31+00:00,2023-05-16 01:22:48+00:00,1,87,2,0,2,0
+langgenius/dify,41,add openai proxy site support.,2023-05-16 06:31:39+00:00,2023-05-16 10:54:34+00:00,1,23,1,0,2,72
+langgenius/dify,65,feat: add redis ssl support,2023-05-17 03:59:51+00:00,2023-05-17 07:40:21+00:00,1,42,3,0,2,53
+langgenius/dify,74,fix: settings modal,2023-05-17 09:51:41+00:00,2023-05-17 11:05:52+00:00,1,4,1,0,2,0
+langgenius/dify,85,add a config to disable provider config validation,2023-05-17 15:38:32+00:00,2023-05-18 00:25:38+00:00,1,6,0,1,4,237
+langgenius/dify,94,Fix the email validation problem for a.b@c.club.,2023-05-18 09:27:56+00:00,2023-05-22 02:08:26+00:00,2,4,4,0,3,606
+langgenius/dify,96,Add Japanese Documents,2023-05-18 14:31:39+00:00,2023-05-18 15:45:39+00:00,1,175,2,0,2,40
+langgenius/dify,102,Feat: support image multi platform,2023-05-19 04:42:11+00:00,2023-05-25 12:36:32+00:00,1,39,284,2,2,34
+langgenius/dify,103,Feature/add emoji,2023-05-19 06:44:23+00:00,2023-05-19 09:36:44+00:00,1,350,74,0,3,0
+langgenius/dify,113,Fix: event listener of file dropping,2023-05-20 08:45:13+00:00,2023-05-21 09:22:35+00:00,2,9,7,0,2,0
+langgenius/dify,114,Feat: Support re-segmentation,2023-05-20 08:48:18+00:00,2023-06-01 15:19:38+00:00,3,1169,762,0,4,0
+pytorch/pytorch,36,Add cuDNN support for convolutions,2016-09-15 22:55:49+00:00,2016-09-27 21:55:04+00:00,22,576,64,7,5,0
+pytorch/pytorch,44,"dataset/dataloader, multiprocess",2016-09-21 01:26:33+00:00,2016-09-30 20:23:43+00:00,14,246,108,0,5,197
+pytorch/pytorch,52,Combine autograd.Leaf and autograd.Variable,2016-09-25 19:39:12+00:00,2016-09-26 00:21:14+00:00,8,77,81,0,3,558
+pytorch/pytorch,58,Add data parallel functions to nn,2016-09-27 00:04:06+00:00,2016-09-28 01:12:02+00:00,6,0,0,0,4,59
+pytorch/pytorch,61,fixing CPU builds by making cuda imports optional,2016-09-28 04:14:03+00:00,2016-09-28 15:58:00+00:00,1,39,24,0,2,9
+pytorch/pytorch,62,Add ffi utils for user C extensions,2016-09-28 17:42:33+00:00,2016-09-29 16:36:16+00:00,1,279,7,2,3,415
+pytorch/pytorch,64,Lazy load CUDA and THNN modules,2016-09-28 20:49:56+00:00,2016-09-28 23:29:53+00:00,6,170,157,3,2,272
+pytorch/pytorch,71,Auto GPU for CUNN,2016-09-29 20:34:10+00:00,2016-09-30 18:04:53+00:00,4,62,56,0,2,0
+pytorch/pytorch,78,Use NCCL in comm.py if available,2016-09-30 23:42:09+00:00,2016-10-14 21:44:11+00:00,5,376,3,0,2,0
+pytorch/pytorch,79,"Support ""device"" keyword argument",2016-10-01 19:13:38+00:00,2016-10-01 23:32:55+00:00,4,44,70,1,3,96
+pytorch/pytorch,90,Add Module.modules() and Module.children(),2016-10-01 22:41:17+00:00,2016-10-02 01:18:53+00:00,8,56,21,0,3,149
+pytorch/pytorch,99,Serialization improvements,2016-10-04 18:56:18+00:00,2016-10-05 01:11:42+00:00,1,479,17,0,3,244
+deepseek-ai/DeepSeek-R1,8,docs: update README.md,2025-01-20 17:53:37+00:00,2025-01-23 02:01:36+00:00,1,1,1,1,4,22
+deepseek-ai/DeepSeek-R1,32,更新license到2025年,2025-01-21 14:15:48+00:00,2025-04-03 08:54:32+00:00,4,1,1,1,6,21
+deepseek-ai/DeepSeek-R1,181,Made French version of README and added link to it in original README.md,2025-01-29 22:16:25+00:00,2025-03-14 08:34:28+00:00,2,240,1,2,4,374
+deepseek-ai/DeepSeek-R1,202,use alert formatting,2025-01-30 22:02:27+00:00,2025-02-11 21:06:42+00:00,1,4,2,2,2,36
+deepseek-ai/DeepSeek-R1,213,docs: update README.md,2025-01-31 07:19:58+00:00,2025-02-10 17:59:27+00:00,1,17,18,1,3,85
+open-webui/open-webui,10,ref!: enable static builds,2023-10-21 20:46:00+00:00,2023-10-22 19:43:42+00:00,17,861,83,11,3,2210
+microsoft/Web-Dev-For-Beginners,4,Update README,2020-11-14 12:26:37+00:00,2020-11-14 16:55:58+00:00,1,1,1,0,3,0
+microsoft/Web-Dev-For-Beginners,5,Update post-lecture-quiz.md,2020-11-14 13:10:14+00:00,2020-11-14 16:55:06+00:00,1,1,1,0,2,0
+microsoft/Web-Dev-For-Beginners,8,Fix broken quiz links,2020-11-15 03:55:27+00:00,2020-11-15 14:11:04+00:00,1,48,48,1,2,187
+microsoft/Web-Dev-For-Beginners,13,Fix broken image link in Introduction to GitHub,2020-11-15 10:40:38+00:00,2020-11-15 14:06:53+00:00,1,1,1,0,2,178
+microsoft/Web-Dev-For-Beginners,15,literlly nothing,2020-11-15 15:36:10+00:00,2020-11-15 17:17:30+00:00,1,2,2,1,2,0
+microsoft/Web-Dev-For-Beginners,16,"Major Fixes,",2020-11-15 17:57:06+00:00,2020-11-18 13:39:54+00:00,5,5,3,4,2,24
+microsoft/Web-Dev-For-Beginners,20,Update pre-lecture-quiz.md,2020-11-16 00:36:25+00:00,2020-11-16 02:02:38+00:00,1,1,1,1,3,54
+microsoft/Web-Dev-For-Beginners,22,Removing Extra Spacing,2020-11-16 10:21:35+00:00,2020-11-16 12:40:09+00:00,1,0,2,1,2,0
+microsoft/Web-Dev-For-Beginners,27,Add Indonesian translations,2020-11-16 15:16:21+00:00,2020-11-16 17:56:32+00:00,2,558,0,6,2,54
+microsoft/Web-Dev-For-Beginners,39,[WIP] Add korean translations,2020-11-17 13:04:11+00:00,2020-11-29 16:19:28+00:00,1,5550,0,7,3,262
+microsoft/Web-Dev-For-Beginners,44,Added missing div tag,2020-11-17 16:26:09+00:00,2020-11-17 17:54:44+00:00,1,4,3,2,2,76
+microsoft/Web-Dev-For-Beginners,53,Add indonesian translations (2-js-basics),2020-11-18 05:50:06+00:00,2020-12-31 14:44:48+00:00,1,915,0,5,5,82
+microsoft/Web-Dev-For-Beginners,54,Issue Solved- 08. Terrarium: Introduction to HTML ../images missing files #52,2020-11-18 06:02:16+00:00,2020-11-18 13:56:58+00:00,1,1,1,3,2,289
+microsoft/Web-Dev-For-Beginners,55,Replace link to image folder,2020-11-18 07:40:56+00:00,2020-11-18 13:56:38+00:00,1,1,1,1,3,12
+microsoft/Web-Dev-For-Beginners,57,Update pre-lecture-quiz.md,2020-11-18 08:07:29+00:00,2020-11-18 13:55:35+00:00,1,2,2,0,2,36
+microsoft/Web-Dev-For-Beginners,59,Minor changes,2020-11-18 09:24:06+00:00,2020-11-19 06:32:59+00:00,1,70,63,4,2,0
+microsoft/Web-Dev-For-Beginners,61,Translated 1-intro-to-programming-languages into Dutch,2020-11-18 11:20:11+00:00,2020-12-05 20:54:43+00:00,4,193,0,2,3,78
+microsoft/Web-Dev-For-Beginners,64,js-basics: Fix setTimeout syntax,2020-11-18 15:11:51+00:00,2020-11-18 17:23:22+00:00,2,5,5,1,3,0
+microsoft/Web-Dev-For-Beginners,68,Added commands for staging a particular file and unstaging a file or multiple files,2020-11-19 08:04:29+00:00,2020-11-19 14:22:48+00:00,2,27,2,1,3,83
+microsoft/Web-Dev-For-Beginners,70,Update typo in game README.md,2020-11-19 14:16:55+00:00,2020-11-19 20:56:41+00:00,2,2,2,1,4,46
+microsoft/Web-Dev-For-Beginners,71,Add Japanese translation Lesson 01.,2020-11-20 11:41:55+00:00,2020-11-20 18:13:26+00:00,2,287,0,3,3,0
+microsoft/Web-Dev-For-Beginners,72,Update making decisions README.md,2020-11-20 19:16:17+00:00,2020-11-21 14:32:51+00:00,1,2,2,0,4,0
+microsoft/Web-Dev-For-Beginners,76,Small improvement of the german Readme.md,2020-11-21 20:03:05+00:00,2020-11-30 18:13:39+00:00,1,1,1,2,3,116
+microsoft/Web-Dev-For-Beginners,77,Create German Readme.md translations,2020-11-21 20:22:58+00:00,2021-02-05 18:48:36+00:00,1,50,0,4,3,213
+microsoft/Web-Dev-For-Beginners,78,fix loadAsset function in 6-space-game/2-drawing-to-canvas/README.md,2020-11-21 23:55:48+00:00,2020-11-26 00:25:38+00:00,3,2,2,2,3,397
+microsoft/Web-Dev-For-Beginners,80,Fix typo in readme ,2020-11-24 08:08:44+00:00,2020-11-24 14:23:08+00:00,1,6,6,0,2,12
+tailwindlabs/tailwindcss,24,Add responsive sample to default config,2017-11-01 16:12:45+00:00,2017-11-01 17:56:51+00:00,1,2,0,1,3,54
+tailwindlabs/tailwindcss,38,Min-width typo,2017-11-01 21:11:53+00:00,2017-11-01 22:33:27+00:00,2,2,2,1,3,19
+tailwindlabs/tailwindcss,72,Add form examples,2017-11-03 05:47:11+00:00,2017-11-03 15:39:42+00:00,1,171,1,2,4,0
+tailwindlabs/tailwindcss,77,Register config file with Webpack for watching,2017-11-03 13:55:45+00:00,2017-11-03 15:04:09+00:00,5,73,37,1,4,296
+tailwindlabs/tailwindcss,79,Build dist assets on prepare,2017-11-03 14:19:35+00:00,2017-11-03 15:31:21+00:00,1,1,2,0,2,222
+tailwindlabs/tailwindcss,82,Add all margin-auto utilities,2017-11-03 15:21:16+00:00,2017-11-06 16:22:59+00:00,2,273,17,0,3,157
+tailwindlabs/tailwindcss,85,Make docs config compatible with older versions of node,2017-11-03 16:22:43+00:00,2017-11-03 18:24:42+00:00,3,12,19,0,3,137
+tailwindlabs/tailwindcss,88,Allow controlling where responsive utilities are rendered using optional `@tailwind screens;` directive,2017-11-03 18:47:33+00:00,2017-11-09 20:11:38+00:00,9,92,6,4,2,416
+tailwindlabs/tailwindcss,89,remove empty media queries,2017-11-03 19:54:11+00:00,2017-11-03 23:13:49+00:00,6,12,1,1,2,200
+mtdvio/every-programmer-should-know,23,Fix Stackoverflow link,2017-09-07 01:08:31+00:00,2017-09-07 15:57:54+00:00,1,1,1,1,3,0
+mtdvio/every-programmer-should-know,37,Add What Every Programmer Should Know About Memory,2017-09-14 21:34:42+00:00,2017-09-16 16:16:12+00:00,1,1,0,3,2,193
+mtdvio/every-programmer-should-know,51,Update README.md,2017-09-18 07:26:45+00:00,2017-09-18 12:36:35+00:00,1,1,1,1,2,61
+mtdvio/every-programmer-should-know,67,Slight typo in CONTRIBUTING.md,2017-09-25 06:51:05+00:00,2017-09-28 11:47:04+00:00,1,1,1,1,3,23
+rustdesk/rustdesk,240,"Target inline, use archived .html, .css and .tis files else use it from src dir",2021-09-26 21:48:02+00:00,2022-05-13 03:07:50+00:00,13,150,38,0,3,296
+rustdesk/rustdesk,253,CI setup,2021-10-11 20:37:32+00:00,2021-10-12 15:47:09+00:00,5,181,0,4,2,157
+rustdesk/rustdesk,279,Clipboard service optimization and bug fixes,2021-10-27 12:11:13+00:00,2021-10-30 04:50:39+00:00,1,86,85,0,2,124
+shadcn-ui/ui,2, fix: minor typos,2023-01-24 18:05:08+00:00,2023-01-26 16:29:49+00:00,1,54,54,2,2,0
+shadcn-ui/ui,4,feat: toggle theme icon at the same time,2023-01-24 18:46:26+00:00,2023-02-19 06:17:52+00:00,3,85,5,5,3,64
+shadcn-ui/ui,6,Update README.md (Small typo),2023-01-24 20:50:14+00:00,2023-01-25 15:42:18+00:00,1,1,1,2,2,153
+shadcn-ui/ui,8,Issue #7 - Fix,2023-01-25 00:56:10+00:00,2023-01-26 18:15:47+00:00,1,1,1,6,3,358
+shadcn-ui/ui,12,fix: Docs typo,2023-01-25 10:08:17+00:00,2023-01-26 16:29:28+00:00,1,1,1,1,2,0
+shadcn-ui/ui,13,Update installation.mdx,2023-01-25 13:22:48+00:00,2023-01-29 10:18:09+00:00,3,1,1,2,2,36
+shadcn-ui/ui,14,Update installation.mdx,2023-01-25 16:24:12+00:00,2023-01-29 23:38:03+00:00,2,15,2,1,2,103
+shadcn-ui/ui,31,feat: navigation-menu,2023-01-27 14:34:00+00:00,2023-01-29 17:28:13+00:00,4,609,99,7,2,64
+shadcn-ui/ui,32,feat: toast,2023-01-27 20:55:49+00:00,2023-02-10 06:03:52+00:00,7,6083,2539,21,4,129
+shadcn-ui/ui,33,feat: implement destructive variant for button,2023-01-28 05:02:34+00:00,2023-01-29 09:49:29+00:00,1,18,0,2,3,0
+shadcn-ui/ui,34,feat/toggle,2023-01-28 12:07:08+00:00,2023-02-04 06:44:50+00:00,1,221,1,3,2,60
+shadcn-ui/ui,39,fix: switch position issue,2023-01-29 15:21:23+00:00,2023-01-29 19:35:45+00:00,1,1,1,2,2,363
+shadcn-ui/ui,43,Fix: Issue 42: Use light text in TabsPrimitive.Trigger when dark mode,2023-01-30 18:10:54+00:00,2023-01-31 17:21:34+00:00,1,1,1,2,2,23
+shadcn-ui/ui,46,Text + Border Color changes,2023-01-31 00:20:58+00:00,2023-01-31 06:29:46+00:00,1,2,2,4,2,10
+shadcn-ui/ui,50,feat(sheet): add sheet component,2023-02-01 16:02:44+00:00,2023-03-02 10:57:44+00:00,1,521,0,12,3,404
+shadcn-ui/ui,53,feat:toggle group,2023-02-03 21:17:27+00:00,2023-11-12 18:04:22+00:00,4,344,1,11,5,110
+shadcn-ui/ui,54,fix(slider): value prop not being passed,2023-02-04 20:20:46+00:00,2023-02-05 06:41:00+00:00,1,2,2,2,2,170
+shadcn-ui/ui,55,docs(dialog): trigger dialog from context menu or dropdown,2023-02-05 02:11:57+00:00,2023-02-08 17:18:44+00:00,1,35,0,5,5,328
+shadcn-ui/ui,56,Fix bg color link button,2023-02-05 04:49:06+00:00,2023-02-19 06:01:00+00:00,1,1,1,4,2,106
+shadcn-ui/ui,57,fix(popover): side left and right no animation,2023-02-05 13:06:58+00:00,2023-02-10 05:56:38+00:00,1,1,1,2,2,60
+shadcn-ui/ui,58,chore: add husky prepare,2023-02-05 13:20:33+00:00,2023-02-06 11:25:29+00:00,1,3,2,3,2,338
+shadcn-ui/ui,59,"fix: broken navigation menu in small screen, #40",2023-02-05 23:05:06+00:00,2023-02-07 09:02:14+00:00,1,3,3,4,2,43
+shadcn-ui/ui,61,feat: slide left and right animations for Dropdown,2023-02-06 14:35:54+00:00,2023-02-08 17:11:32+00:00,1,1,1,2,2,70
+shadcn-ui/ui,65,Fix broken link,2023-02-08 00:15:30+00:00,2023-02-08 03:46:40+00:00,1,1,1,2,2,0
+shadcn-ui/ui,67,fix: alert-dialog demo typo,2023-02-08 14:42:48+00:00,2023-02-08 17:15:16+00:00,1,1,1,2,2,0
+shadcn-ui/ui,69,Add Font instructions when adding to an existing project,2023-02-08 17:24:31+00:00,2023-10-15 11:22:33+00:00,1,43,0,4,4,7
+shadcn-ui/ui,77,fix(docs): fix destructive toast example src,2023-02-11 13:29:55+00:00,2023-02-12 05:53:18+00:00,1,1,1,2,2,66
+shadcn-ui/ui,79,"fixing a11y issue with ""destructive"" button",2023-02-13 13:12:47+00:00,2023-02-19 06:11:08+00:00,2,2,2,3,2,0
+fastapi/fastapi,20,Add test case to use starlette DatabaseMiddleware,2019-02-01 21:49:54+00:00,2019-03-20 18:02:18+00:00,3,374,13,5,3,716
+fastapi/fastapi,92,ci: Travis: dist=xenial,2019-03-21 17:16:44+00:00,2019-03-30 17:30:32+00:00,3,3,1,2,2,0
+fastapi/fastapi,100,Add websocket to APIRouter,2019-03-24 10:13:56+00:00,2019-03-24 19:18:20+00:00,6,57,0,2,2,11
+fastapi/fastapi,112,Static swagger,2019-03-26 14:41:21+00:00,2019-05-20 07:26:55+00:00,2,97,44,11,4,493
+florinpop17/app-ideas,1,Refactor: Add Kudos idea and update app description in README.md,2019-03-01 00:13:44+00:00,2019-03-01 04:57:43+00:00,1,49,3,0,2,82
+florinpop17/app-ideas,3,Feature/add string art,2019-03-03 00:00:45+00:00,2019-03-03 20:36:22+00:00,3,46,0,1,2,40
+florinpop17/app-ideas,4,Feature/add tz bot,2019-03-03 21:07:33+00:00,2019-03-04 05:09:58+00:00,1,38,0,0,2,28
+florinpop17/app-ideas,5,Feature: Add Windchill application specification,2019-03-03 21:56:57+00:00,2019-03-04 18:55:42+00:00,9,74,0,0,2,67
+florinpop17/app-ideas,6,Feature: Add Ripple Lights application specification,2019-03-03 22:59:21+00:00,2019-03-04 18:58:11+00:00,3,33,2,0,2,71
+florinpop17/app-ideas,8,Feature: Add Bin2Dec application specification,2019-03-06 02:02:56+00:00,2019-03-07 19:14:10+00:00,1,39,0,0,2,65
+florinpop17/app-ideas,9,Feature: Add TrueOrFalse app specification,2019-03-06 15:14:22+00:00,2019-03-07 19:13:37+00:00,1,38,0,0,2,61
+florinpop17/app-ideas,10,Feature: Add Flip Image App specification,2019-03-07 13:29:50+00:00,2019-03-07 19:12:50+00:00,1,37,0,0,2,60
+florinpop17/app-ideas,11,Feature: Add Color Cycle application specification,2019-03-09 16:31:06+00:00,2019-03-10 19:59:57+00:00,1,41,0,1,2,69
+florinpop17/app-ideas,12,Feature/add causeeffect app,2019-03-14 01:01:39+00:00,2019-03-14 20:10:08+00:00,1,65,0,0,2,41
+florinpop17/app-ideas,15,Feature: Add Spell-It app specification,2019-03-15 23:01:26+00:00,2019-03-16 21:03:53+00:00,1,42,0,0,2,58
+florinpop17/app-ideas,18,Refactor: Add application summary information,2019-03-17 20:51:08+00:00,2019-03-18 12:34:18+00:00,1,104,27,1,2,261
+florinpop17/app-ideas,20,Feature: Add Sports Bracket Generator app specification,2019-03-20 21:28:35+00:00,2019-03-21 12:38:30+00:00,1,46,0,0,2,73
+florinpop17/app-ideas,21,[feature] Created the proposal for a Roman2Dec-App idea.,2019-03-22 09:43:53+00:00,2019-03-25 17:38:01+00:00,2,49,0,3,2,279
+florinpop17/app-ideas,22,Feature: Add Survey app specification,2019-03-22 13:30:53+00:00,2019-03-24 13:57:52+00:00,4,96,0,0,2,194
+florinpop17/app-ideas,23,Feature/add bbengine app,2019-03-26 00:41:38+00:00,2019-03-26 05:16:15+00:00,1,112,7,0,2,0
+florinpop17/app-ideas,25,Feature: Add RegExp Helper app specification,2019-03-28 00:55:21+00:00,2019-03-29 12:39:49+00:00,4,49,7,0,2,63
+florinpop17/app-ideas,26,Refactor: Update project documentation to match FCC article,2019-03-29 00:47:27+00:00,2019-03-29 02:59:41+00:00,1,3,4,0,2,77
+florinpop17/app-ideas,27,Feature: Add JSON2CSV app specification,2019-03-31 13:38:16+00:00,2019-03-31 19:34:04+00:00,1,55,0,2,2,58
+florinpop17/app-ideas,28,Feature: Add CSV2JSON app specification,2019-04-02 00:41:20+00:00,2019-04-02 17:42:50+00:00,1,59,0,1,2,58
+florinpop17/app-ideas,29,Feature/add highstriker app,2019-04-02 22:22:25+00:00,2019-04-03 19:54:57+00:00,1,52,0,1,2,85
+florinpop17/app-ideas,30,Feature: Add Elevator app specification,2019-04-05 00:07:26+00:00,2019-04-05 01:12:27+00:00,1,65,0,0,2,58
+florinpop17/app-ideas,31,Feature: Add FastFood simulator app specification,2019-04-06 16:42:53+00:00,2019-04-06 20:43:24+00:00,1,83,0,0,2,69
+florinpop17/app-ideas,35,Feature: Add Shell game app specification,2019-04-08 00:33:24+00:00,2019-04-08 04:53:06+00:00,1,54,0,0,2,60
+florinpop17/app-ideas,37,Feature: Add Typing Practice app specification,2019-04-09 00:54:50+00:00,2019-04-09 04:40:41+00:00,1,57,0,0,2,65
+florinpop17/app-ideas,41,Feature: Add Recipe app specification,2019-04-10 22:16:33+00:00,2019-04-11 20:02:25+00:00,1,54,2,1,2,56
+florinpop17/app-ideas,42,Feature: Add Simple Online Store app specification,2019-04-11 22:37:15+00:00,2019-04-12 04:09:40+00:00,1,79,0,2,2,69
+florinpop17/app-ideas,43,Feature/countdown timer app,2019-04-13 23:17:16+00:00,2019-04-14 09:53:38+00:00,1,61,0,0,2,51
+florinpop17/app-ideas,44,Fix typo,2019-04-14 18:53:13+00:00,2019-04-15 07:59:22+00:00,1,1,1,1,2,87
+florinpop17/app-ideas,45,Feature: Add Calorie Counter app specification,2019-04-15 01:36:23+00:00,2019-04-15 08:00:26+00:00,1,51,0,0,2,65
+florinpop17/app-ideas,46,Added Instagram Clone to Advanced app ideas,2019-04-15 10:12:22+00:00,2019-04-15 12:30:46+00:00,3,38,1,1,2,216
+florinpop17/app-ideas,47,Feature/key value app,2019-04-16 00:12:00+00:00,2019-04-16 19:52:21+00:00,5,41,0,0,2,31
+florinpop17/app-ideas,48,Feature: Add GitHub Status app specification,2019-04-17 00:13:53+00:00,2019-04-17 04:15:51+00:00,1,55,0,0,2,63
+florinpop17/app-ideas,49,Added example project built with react,2019-04-18 16:48:59+00:00,2019-04-18 20:32:37+00:00,2,1,0,3,2,103
+florinpop17/app-ideas,52,Added react example for the Binary to Decimal converter app idea,2019-04-19 15:18:34+00:00,2019-04-23 04:19:21+00:00,2,1,0,1,2,0
+florinpop17/app-ideas,53,Feature: Add MyPodcast Library app specification,2019-04-19 22:40:23+00:00,2019-04-21 01:03:17+00:00,1,95,0,0,2,67
+ChatGPTNextWeb/NextChat,66,fix: resolve hydration error,2023-03-27 09:50:26+00:00,2023-03-27 13:59:19+00:00,2,12,3,2,2,0
+ChatGPTNextWeb/NextChat,96,1,2023-03-28 09:16:37+00:00,2023-03-28 10:52:07+00:00,3,120,48,1,6,3
+ChatGPTNextWeb/NextChat,148,supports the display of line breaks in Markdown,2023-03-29 08:29:06+00:00,2023-03-29 10:05:53+00:00,3,30,5,5,2,56
+sveltejs/svelte,89,Convert character entities correctly,2016-12-01 20:32:01+00:00,2016-12-02 16:43:04+00:00,1,30,2,3,4,32
+sveltejs/svelte,94,Add links to gulp and Metalsmith plugins,2016-12-02 11:42:32+00:00,2016-12-02 16:35:55+00:00,2,2,0,1,3,201
+sveltejs/svelte,121,add editorconfig and flowconfig files,2016-12-05 08:16:22+00:00,2016-12-05 15:56:07+00:00,2,22,0,3,4,304
+opencv/opencv,50,Include unistd.h to parallel.cpp on UNIX-like systems,2012-10-17 13:04:00+00:00,2012-10-19 10:59:08+00:00,1,11,1,2,4,50
+gothinkster/realworld,8,Update README.md,2017-04-20 02:59:48+00:00,2017-04-20 16:52:38+00:00,1,5,5,0,2,0
+gothinkster/realworld,151,Parameterize email/password in API Postman collection,2017-11-12 04:56:47+00:00,2017-11-12 22:12:00+00:00,1,7,7,0,2,88
+gothinkster/realworld,153,Add Fullstack section and description,2017-11-13 23:48:02+00:00,2017-11-15 19:01:09+00:00,1,5,0,5,3,52
+gothinkster/realworld,205,README: Add WIP fullstack Firebase,2018-04-16 15:02:48+00:00,2018-04-16 21:02:36+00:00,1,1,1,1,2,0
+gothinkster/realworld,213,Add links to objective comparisons,2018-05-04 09:21:51+00:00,2018-05-06 03:44:31+00:00,1,3,0,1,2,0
+gothinkster/realworld,224,Generate README with ranked repos automatically,2018-06-01 13:17:50+00:00,2018-06-04 13:10:52+00:00,1,401,2,1,2,424
+gothinkster/realworld,225,Auto-update README,2018-06-04 15:18:42+00:00,2018-06-04 20:15:20+00:00,1,23,18,0,2,0
+gothinkster/realworld,238,doc how to use the supplied Postman configs,2018-07-02 04:52:41+00:00,2018-07-02 16:02:07+00:00,2,28,0,2,3,0
+supabase/supabase,1,"Add Realtime, allowing realtime-js to initialise sockets from inside",2019-11-07 09:57:11+00:00,2019-11-08 04:31:24+00:00,3,836,40,1,2,0
+supabase/supabase,96,Update docusaurus.config.js,2020-06-10 18:10:46+00:00,2020-06-11 11:36:45+00:00,2,8,0,9,3,43
+supabase/supabase,98,chore: Update traction chart,2020-06-15 14:37:24+00:00,2020-06-16 04:33:28+00:00,3,54,73,3,2,93
+openai/whisper,14,make LICENSE a link instead of code-formatted text,2022-09-21 21:17:35+00:00,2022-09-22 02:51:05+00:00,1,1,1,0,3,0
+openai/whisper,24,fixes the link to the model paper,2022-09-22 01:25:43+00:00,2022-09-22 02:48:58+00:00,1,1,1,1,3,0
+openai/whisper,54,"Added microphone demo, updated README, added requirements_gpu.txt ",2022-09-23 04:31:21+00:00,2022-09-23 13:36:24+00:00,1,81,0,5,4,162
+openai/whisper,107,Added section for listing community integrations,2022-09-24 15:09:36+00:00,2022-09-25 16:31:22+00:00,3,9,0,1,2,197
+openai/whisper,133,changing the code from using print to using logging,2022-09-25 22:47:58+00:00,2022-09-26 10:14:58+00:00,1,8,6,2,3,328
+openai/whisper,140,fix: transcribe verbosity,2022-09-26 14:01:36+00:00,2022-09-26 18:46:21+00:00,2,6,4,6,2,98
+openai/whisper,219,Fix timestamps and strip extraneous whitespace in WebVTT output,2022-10-01 19:47:46+00:00,2022-10-03 21:51:08+00:00,1,2,2,0,3,260
+openai/whisper,228,"Add CSV formatted output in transcript, using integer start/end times in milliseconds.",2022-10-02 21:45:50+00:00,2023-01-22 08:27:17+00:00,2,22,1,8,4,710
+openai/whisper,231,Easy to use Jupyter Notebook for Youtube video inference,2022-10-03 00:43:12+00:00,2022-10-04 04:23:45+00:00,1,399,0,4,3,340
+microsoft/generative-ai-for-beginners,21,Adding chapter 1 Introduction to generative AI,2023-09-21 16:32:34+00:00,2023-10-23 11:48:48+00:00,11,91,19,2,3,163
+microsoft/generative-ai-for-beginners,22,Feat/add codespaces jupyter,2023-09-27 12:45:43+00:00,2023-10-11 18:40:00+00:00,1,632,77,1,2,84
+microsoft/generative-ai-for-beginners,23,Adding chapter 2 - Introduction to Generative AI,2023-09-29 18:14:11+00:00,2023-10-23 11:49:24+00:00,4,156,1,0,3,247
+microsoft/generative-ai-for-beginners,24,"Building Chat Applications, Lesson 7",2023-10-03 09:24:54+00:00,2023-10-23 21:00:02+00:00,3,2996,0,1,2,0
+microsoft/generative-ai-for-beginners,25,Lesson 12: designing UX for AI,2023-10-05 18:49:26+00:00,2023-10-23 11:54:25+00:00,1,103,0,0,3,62
+microsoft/generative-ai-for-beginners,26,Adding Lesson 10: Build Low Code AI Applications,2023-10-06 13:49:50+00:00,2023-10-23 11:54:01+00:00,2,244,0,0,2,0
+microsoft/generative-ai-for-beginners,27,Lesson 4 - Intro to Prompt Engineering,2023-10-07 00:09:18+00:00,2023-10-23 11:50:24+00:00,2,391,3,1,2,240
+microsoft/generative-ai-for-beginners,28,Added the Notebook for Lesson 11,2023-10-09 20:33:19+00:00,2023-10-22 18:48:08+00:00,1,687,0,0,2,43
+microsoft/generative-ai-for-beginners,29,"Adding Chapter 6 , Text Generation app, adding text generation, initial commit",2023-10-16 18:47:52+00:00,2023-10-26 07:13:03+00:00,4,1653,0,0,2,105
+microsoft/generative-ai-for-beginners,30,Adding Chapter 9,2023-10-18 17:01:37+00:00,2023-10-26 07:15:30+00:00,1,969,0,0,3,44
+microsoft/generative-ai-for-beginners,32,Building Search Apps with Vectors,2023-10-19 10:02:24+00:00,2023-10-25 22:00:36+00:00,1,2052,0,0,2,75
+microsoft/generative-ai-for-beginners,38,Final review - Chapter 2,2023-10-26 13:14:43+00:00,2023-10-27 13:24:06+00:00,16,44,17,0,2,111
+ggml-org/llama.cpp,17,Add oneliner for batch quantization,2023-03-11 17:45:06+00:00,2023-03-13 16:26:23+00:00,3,6,0,4,5,0
+ggml-org/llama.cpp,20,Feature/repeat penalty,2023-03-11 19:25:03+00:00,2023-03-12 09:27:42+00:00,1,36,3,1,2,261
+ggml-org/llama.cpp,31,Windows fixes,2023-03-12 03:27:55+00:00,2023-03-12 20:15:00+00:00,2,30,19,0,2,504
+ggml-org/llama.cpp,40,Nix flake,2023-03-12 09:25:56+00:00,2023-03-17 22:03:48+00:00,5,95,0,16,6,1367
+ggml-org/llama.cpp,43,Reduce model loading time,2023-03-12 10:43:37+00:00,2023-03-13 16:33:44+00:00,3,4,0,1,2,220
+ggml-org/llama.cpp,45,Fix typo in README,2023-03-12 11:10:37+00:00,2023-03-12 20:30:09+00:00,1,1,1,0,3,0
+ggml-org/llama.cpp,48,"use fprintf for diagnostic output, keep printf only for printing model output",2023-03-12 13:34:22+00:00,2023-03-13 16:39:56+00:00,2,46,46,6,4,77
+ggml-org/llama.cpp,51,fix: add POSIX functionality for Linux compilation,2023-03-12 14:42:43+00:00,2023-03-22 17:20:25+00:00,1,3,0,7,4,94
+ggml-org/llama.cpp,56,Add back top_k,2023-03-12 18:13:33+00:00,2023-03-12 20:23:15+00:00,2,12,89,1,4,75
+ggml-org/llama.cpp,68,Misc: Make the conversion script executable,2023-03-13 00:09:01+00:00,2023-03-14 17:13:39+00:00,1,3,1,2,2,94
+ggml-org/llama.cpp,72,Misc: Use argparse,2023-03-13 00:35:52+00:00,2023-03-13 16:17:55+00:00,2,32,38,2,4,341
+ggml-org/llama.cpp,75,Initial support for CMake,2023-03-13 02:33:08+00:00,2023-03-13 17:12:34+00:00,1,123,0,2,2,424
+ggml-org/llama.cpp,77,Create a C-style API similar to whisper.cpp,2023-03-13 03:04:55+00:00,2023-03-21 20:52:07+00:00,18,1616,1186,6,5,465
+ggml-org/llama.cpp,79,Fix UTF-8 handling (including colors),2023-03-13 05:07:22+00:00,2023-03-13 16:24:19+00:00,2,27,11,1,4,696
+ggml-org/llama.cpp,90,Add NetBSD support.,2023-03-13 11:25:53+00:00,2023-03-13 16:40:54+00:00,1,6,2,0,2,0
+ggml-org/llama.cpp,92,Add quantize script for batch quantization,2023-03-13 12:50:30+00:00,2023-03-13 16:15:21+00:00,1,18,31,3,4,45
+ggml-org/llama.cpp,98,Add windows to the CI,2023-03-13 18:33:45+00:00,2023-03-13 20:29:11+00:00,1,14,0,0,2,0
+ggml-org/llama.cpp,109,Refactoring `convert-pth-to-ggml.py`: more concise and readable,2023-03-14 00:59:06+00:00,2023-03-19 17:17:40+00:00,1,84,108,2,4,0
+ggml-org/llama.cpp,114,add ptread link to fix cmake build under linux,2023-03-14 04:22:51+00:00,2023-03-17 16:38:24+00:00,1,43,3,6,5,950
+ggml-org/llama.cpp,120,add SIGINT support for _WIN32 environments,2023-03-14 06:40:00+00:00,2023-03-15 19:56:25+00:00,1,9,2,0,2,0
+ggml-org/llama.cpp,126,Fix potential licensing issue,2023-03-14 10:15:26+00:00,2023-03-15 19:39:07+00:00,1,1,1,6,5,435
+ggml-org/llama.cpp,131,Adding missing features of CMakeLists.txt & Refactoring,2023-03-14 12:57:49+00:00,2023-03-21 00:37:17+00:00,9,153,76,4,5,1609
+ggml-org/llama.cpp,132,🚀 Dockerize llamacpp,2023-03-14 13:21:47+00:00,2023-03-17 09:47:06+00:00,9,270,2,20,7,1270
+ggml-org/llama.cpp,139,Don't use vdotq_s32 if it's not available,2023-03-14 17:54:20+00:00,2023-03-14 19:34:37+00:00,2,32,1,0,2,275
+ggml-org/llama.cpp,142,Use `tokenizer.vocab_size()` instead of hardcoding 32000 when converting,2023-03-14 20:34:30+00:00,2023-03-15 19:37:50+00:00,1,1,1,0,2,284
+2dust/v2rayN,680,Update English translations,2020-04-14 14:00:33+00:00,2020-04-14 16:52:05+00:00,17,69,69,1,2,74
+doocs/advanced-java,78,docs: add microservices-diffabouteureka_zk,2019-07-06 14:06:55+00:00,2019-08-03 06:42:11+00:00,1,21,0,2,2,0
+doocs/advanced-java,103,add an article,2019-09-03 12:40:01+00:00,2019-09-04 01:18:51+00:00,1,81,0,1,1,14
+doocs/advanced-java,113,alter translation of monolithic,2019-09-28 08:50:56+00:00,2019-09-28 10:45:56+00:00,1,13,13,0,2,56
+doocs/advanced-java,116,docs(from-readers): add an article about micro service,2019-10-22 01:35:38+00:00,2019-10-25 02:21:51+00:00,1,204,0,0,2,8
+doocs/advanced-java,118,micro service,2019-10-30 13:34:16+00:00,2019-11-01 07:46:28+00:00,2,102,0,2,2,23
+doocs/advanced-java,120,micro service,2019-11-08 11:21:25+00:00,2019-11-12 02:55:05+00:00,1,644,3,0,2,55
+doocs/advanced-java,121,增加利用定时刷新缓存的方式来应对缓存击穿的表述,2019-11-11 16:13:22+00:00,2019-11-12 02:50:28+00:00,1,5,2,1,2,37
+oven-sh/bun,41,fix: add missing quotation in sample zsh config,2021-10-29 19:15:23+00:00,2021-10-29 22:39:36+00:00,1,1,1,0,3,128
+oven-sh/bun,65,Begin working on CI tasks for bun-framework-next,2021-11-11 19:02:36+00:00,2021-11-24 00:35:46+00:00,19,1960,193,5,2,276
+oven-sh/bun,76,Add experimental nix support,2021-12-12 02:39:34+00:00,2023-07-31 13:39:26+00:00,8,37,0,7,8,1015
+oven-sh/bun,124,Bun instructions for existing CRA app,2022-03-09 18:09:42+00:00,2023-03-29 21:10:34+00:00,2,48,0,3,6,183
+oven-sh/bun,141,expose mmap size and offset option,2022-04-12 19:30:13+00:00,2022-04-14 02:08:57+00:00,3,18,5,0,2,0
+oven-sh/bun,150,Improve ZSH completions,2022-04-19 06:05:24+00:00,2023-07-31 13:39:26+00:00,13,359,535,6,3,708
+3b1b/manim,38,Added support for Windows (hopefully),2017-06-29 11:59:45+00:00,2017-08-05 00:46:06+00:00,2,18,3,0,3,260
+3b1b/manim,47,Improved stability for Windows NT OS,2017-09-27 09:50:10+00:00,2017-09-27 15:55:07+00:00,1,14,3,0,3,269
+n8n-io/n8n,42,"Remove ""open source"" langauge throughout",2019-10-08 18:52:01+00:00,2020-03-12 06:26:58+00:00,2,11,29,8,7,127
+comfyanonymous/ComfyUI,9,Replace Http Server + Add WebSockets,2023-02-12 18:33:30+00:00,2023-02-13 20:53:24+00:00,4,193,91,2,2,217
+comfyanonymous/ComfyUI,10,Add ability to easily creating and sharing custom nodes,2023-02-13 11:21:37+00:00,2023-02-17 16:25:29+00:00,6,208,1,2,2,0
+comfyanonymous/ComfyUI,60,allows user to save to subfolders,2023-03-12 19:25:12+00:00,2023-03-20 18:58:54+00:00,2,39,16,21,6,0
+comfyanonymous/ComfyUI,122,Update clip_vision_config.json,2023-03-17 03:01:02+00:00,2023-03-25 05:33:39+00:00,1,3,2,1,2,19
+nomic-ai/gpt4all,3,log wandb multi-epoch,2023-03-28 18:49:03+00:00,2023-03-29 17:50:27+00:00,1,4,2,0,2,0
+nomic-ai/gpt4all,96,Fix typo in TRAINING_LOG.md,2023-03-30 15:55:02+00:00,2023-04-03 21:18:11+00:00,2,1,1,0,3,25
+nomic-ai/gpt4all,119,Updated tokenize_inputs function to handle long prompts and responses,2023-03-31 01:06:31+00:00,2023-04-13 21:40:11+00:00,1,7,0,2,4,174
+nomic-ai/gpt4all,129,adds to README.md,2023-03-31 07:55:44+00:00,2023-04-06 18:17:32+00:00,3,4,2,4,4,460
+nomic-ai/gpt4all,132,Add sha512sum for quantized models in README.md,2023-03-31 10:22:42+00:00,2023-04-03 21:22:26+00:00,3,12,2,2,3,195
+nomic-ai/gpt4all,146,Added vscode files to gitignore,2023-03-31 23:16:50+00:00,2023-04-03 21:16:23+00:00,1,6,1,1,2,0
+nomic-ai/gpt4all,148,Made capitalization consistent,2023-04-01 00:26:25+00:00,2023-04-03 21:17:52+00:00,1,1,1,0,2,0
+nomic-ai/gpt4all,161,Create launcher.sh,2023-04-01 15:30:54+00:00,2023-04-03 21:20:29+00:00,1,88,0,6,3,167
+nomic-ai/gpt4all,166,Create gpt4all.py,2023-04-01 19:47:28+00:00,2023-04-03 21:15:59+00:00,2,58,0,2,2,91
+nomic-ai/gpt4all,174,DatasetDict to dataset object.,2023-04-02 03:57:02+00:00,2023-04-03 21:34:23+00:00,1,1,1,0,2,3328
+nomic-ai/gpt4all,175,Update README.md,2023-04-02 04:24:36+00:00,2023-04-06 18:17:06+00:00,1,34,32,0,2,33
+nomic-ai/gpt4all,181,Fix `git submodule` instructions,2023-04-02 16:20:23+00:00,2023-04-03 21:21:51+00:00,1,4,3,0,2,144
+nomic-ai/gpt4all,208,Fixing Small Punctuation and Capitalization Issues,2023-04-04 00:13:49+00:00,2023-04-06 18:15:57+00:00,3,2,2,1,2,90
+nomic-ai/gpt4all,210,add dockerfile,2023-04-04 04:43:01+00:00,2023-05-11 16:34:41+00:00,3,19,1,4,5,804
+nomic-ai/gpt4all,267,Update README.md,2023-04-06 22:12:26+00:00,2023-04-07 14:50:28+00:00,1,1,1,1,3,73
+nomic-ai/gpt4all,268,Slight cleanup,2023-04-06 23:59:36+00:00,2023-04-07 14:50:56+00:00,3,3,4,2,2,0
+nomic-ai/gpt4all,274,-,2023-04-07 13:34:57+00:00,2023-04-15 16:34:04+00:00,1,76,60,0,2,0
+nomic-ai/gpt4all,279,change RAM into VRAM to avoid confusion: Update README.md,2023-04-08 03:57:01+00:00,2023-05-11 16:35:09+00:00,1,1,1,1,3,97
+bregman-arie/devops-exercises,10,adding new Linux answers,2019-10-20 19:02:36+00:00,2019-10-21 13:36:56+00:00,2,12,0,1,2,18
+bregman-arie/devops-exercises,11,Added SQL questions to the ReadME,2019-10-21 03:51:54+00:00,2019-10-21 08:16:07+00:00,1,185,1,2,2,145
+bregman-arie/devops-exercises,16,add Python 'Error' question + answer + Exception ansers,2019-10-22 11:28:06+00:00,2019-10-22 12:59:56+00:00,1,67,2,0,2,0
+bregman-arie/devops-exercises,18,SQL Questions and Answers,2019-10-22 12:10:39+00:00,2019-10-23 17:07:49+00:00,1,355,1,3,3,46
+bregman-arie/devops-exercises,19,Python Question and Answers,2019-10-22 12:16:29+00:00,2019-10-23 16:52:54+00:00,3,271,1,1,3,30
+bregman-arie/devops-exercises,20,Add Network Question and Answers,2019-10-22 12:23:31+00:00,2019-10-23 16:21:08+00:00,1,147,1,0,2,44
+bregman-arie/devops-exercises,25,Answered 8th beginner python question,2019-10-22 16:18:14+00:00,2019-10-22 21:09:19+00:00,3,21,1,0,4,0
+bregman-arie/devops-exercises,45,Updated the Beginners Section of Terraform,2019-11-26 06:11:41+00:00,2019-11-28 12:38:46+00:00,3,12,8,4,3,106
+bregman-arie/devops-exercises,67,Added Security Related Questions,2020-01-21 22:55:29+00:00,2020-01-22 07:46:49+00:00,1,25,3,0,2,152
+MunGell/awesome-for-beginners,46,updated PR for repo standards,2016-11-17 06:13:30+00:00,2016-11-17 07:48:41+00:00,2,1,0,0,2,29
+anuraghazra/github-readme-stats,15,fix: total commits count,2020-07-10 09:15:33+00:00,2020-07-31 08:07:40+00:00,5,56,2,9,5,700
+anuraghazra/github-readme-stats,22,Add cache to function response,2020-07-11 09:42:52+00:00,2020-07-15 06:41:44+00:00,8,2,0,9,4,398
+anuraghazra/github-readme-stats,27,"feat: receives text, title and icon colors from URL",2020-07-11 19:11:03+00:00,2020-07-12 07:54:50+00:00,1,199,21,8,3,298
+anuraghazra/github-readme-stats,29,add request utils + remove duplicate codes,2020-07-11 20:16:32+00:00,2020-07-12 09:07:21+00:00,3,70,69,2,2,0
+anuraghazra/github-readme-stats,33,perf: align icons and text vertical,2020-07-13 02:39:13+00:00,2020-07-16 10:21:21+00:00,1,375,141,8,5,650
+anuraghazra/github-readme-stats,49,improve: improved rating algorithm wip,2020-07-14 08:39:55+00:00,2020-07-15 14:40:54+00:00,7,65,29,4,4,124
+anuraghazra/github-readme-stats,58,fix: increase github rate limit with multiple PATs,2020-07-15 09:34:07+00:00,2020-07-15 12:23:44+00:00,13,150,30,18,10,147
+anuraghazra/github-readme-stats,67,feat(repocard): parse emojis in description,2020-07-15 15:44:21+00:00,2020-07-24 13:26:27+00:00,3,23,3,20,2,380
+anuraghazra/github-readme-stats,76,Add gh-index field to stats,2020-07-16 00:51:25+00:00,2020-12-13 18:54:24+00:00,1,26,5,5,3,353
+anuraghazra/github-readme-stats,78,Display username in repo card (optional),2020-07-16 09:48:38+00:00,2020-07-16 12:33:34+00:00,3,115,30,4,4,175
+anuraghazra/github-readme-stats,81,Changed hex colors to be copy/paste workable,2020-07-16 23:08:58+00:00,2020-07-17 15:24:48+00:00,1,4,4,1,2,227
+fighting41love/funNLP,4,增加古诗词库,2018-11-16 05:11:20+00:00,2018-11-29 02:48:21+00:00,1,1,1,0,2,0
+fighting41love/funNLP,18,增加中国大陆31个省份1949年至2019年一千多万工商企业注册信息,2019-05-31 00:54:18+00:00,2019-06-03 01:11:34+00:00,1,4,1,6,3,34
+fighting41love/funNLP,22,同步更新,2019-07-27 08:36:46+00:00,2019-08-03 03:50:29+00:00,1,1448863,60042,0,2,40
+fighting41love/funNLP,84,Update README.md,2023-02-13 06:24:55+00:00,2023-05-16 00:53:36+00:00,1,1,0,0,2,38
+vitejs/vite,4,Use modules from `web_modules` if present,2020-04-22 11:38:10+00:00,2020-04-23 13:50:49+00:00,3,37,1,2,3,932
+vitejs/vite,5,Added useful tip with local addresses,2020-04-23 04:01:02+00:00,2020-04-24 03:38:06+00:00,2,22,1,2,2,305
+vitejs/vite,53,feat: add asset options into build options,2020-05-05 12:38:28+00:00,2020-05-05 15:30:05+00:00,1,37,13,0,2,0
+vitejs/vite,104,feat: expose moduleRewrite and compileSFCStyle,2020-05-09 10:58:55+00:00,2020-05-09 19:02:06+00:00,5,2,1,2,2,62
+vitejs/vite,112,Fix #111. An empty target dir is ok,2020-05-10 07:51:51+00:00,2020-05-10 22:18:13+00:00,1,9,8,1,2,0
+microsoft/ML-For-Beginners,32,editorial suggestions,2021-06-15 12:18:00+00:00,2021-06-16 20:37:53+00:00,1,45,10,1,2,174
+microsoft/ML-For-Beginners,33,editorial changes,2021-06-15 12:33:24+00:00,2021-06-16 20:35:42+00:00,1,15,10,2,2,24
+microsoft/ML-For-Beginners,34,editorial,2021-06-15 13:25:28+00:00,2021-06-16 20:32:29+00:00,1,59,47,1,2,153
+microsoft/ML-For-Beginners,37,editorial,2021-06-17 22:02:19+00:00,2021-06-19 17:55:04+00:00,1,261,159,1,2,484
+microsoft/ML-For-Beginners,38,web app editorial,2021-06-22 20:27:06+00:00,2021-06-22 21:31:01+00:00,1,260,201,0,2,46
+microsoft/ML-For-Beginners,41,editorial,2021-06-22 21:42:41+00:00,2021-06-23 00:56:10+00:00,2,226,172,0,2,30
+microsoft/ML-For-Beginners,42,editorial,2021-06-23 12:01:22+00:00,2021-06-23 18:23:37+00:00,2,157,126,0,2,196
+microsoft/ML-For-Beginners,43,editorial,2021-06-23 12:24:35+00:00,2021-06-23 14:07:47+00:00,1,126,91,0,2,55
+microsoft/ML-For-Beginners,48,editorial,2021-06-24 18:46:19+00:00,2021-06-24 21:15:22+00:00,1,50,41,0,2,110
+microsoft/ML-For-Beginners,49,editorial,2021-06-24 22:41:00+00:00,2021-06-25 00:33:40+00:00,1,61,26,0,2,72
+microsoft/ML-For-Beginners,50,editorial,2021-06-25 11:18:25+00:00,2021-06-25 20:07:57+00:00,1,72,55,1,2,113
+microsoft/ML-For-Beginners,51,editorial,2021-06-25 11:49:57+00:00,2021-06-25 19:58:28+00:00,1,273,257,0,2,49
+microsoft/ML-For-Beginners,53,Reinforcement qlearning,2021-06-25 13:08:23+00:00,2021-06-25 19:54:07+00:00,1,133,103,0,2,105
+microsoft/ML-For-Beginners,54,editorial,2021-06-25 13:42:38+00:00,2021-06-25 19:50:42+00:00,1,177,158,0,2,9
+microsoft/ML-For-Beginners,55,editorial,2021-06-25 14:00:03+00:00,2021-06-25 19:42:57+00:00,1,17,0,0,2,9
+microsoft/ML-For-Beginners,76,translate 1.1-intro-to-ML to Simplified Chinese,2021-07-02 16:00:11+00:00,2021-07-03 03:02:40+00:00,2,107,0,1,2,0
+microsoft/ML-For-Beginners,78,translate 1.2-history-of-ML to Simplified Chinese,2021-07-03 02:51:10+00:00,2021-07-07 12:02:56+00:00,1,116,0,1,2,4
+microsoft/ML-For-Beginners,79,translate 1.3-fairness to Simplified Chinese,2021-07-03 02:53:33+00:00,2021-07-07 12:03:36+00:00,1,214,0,1,2,4
+microsoft/ML-For-Beginners,80,translate 1.4-techniques-of-ML to Simplified Chinese,2021-07-03 02:55:48+00:00,2021-07-07 12:04:29+00:00,1,107,0,1,2,0
+microsoft/ML-For-Beginners,81,"Translated 1.1 readme.md, 1-introduction readme.md to Japanese",2021-07-03 06:09:57+00:00,2021-07-03 15:53:48+00:00,2,127,0,2,2,0
+microsoft/ML-For-Beginners,82,translated 1.2 history of ML README.md to Japanese,2021-07-03 09:09:10+00:00,2021-07-03 15:52:59+00:00,2,114,0,1,2,0
+microsoft/ML-For-Beginners,91,translate 1.3 fairness readme.md to Japanese,2021-07-04 18:44:01+00:00,2021-07-05 01:29:22+00:00,1,206,2,0,2,53
+microsoft/ML-For-Beginners,92,Fix typo,2021-07-04 19:38:17+00:00,2021-07-04 21:09:52+00:00,2,1,1,1,2,26
+microsoft/ML-For-Beginners,94,fix broken link and change wording,2021-07-05 05:40:11+00:00,2021-07-05 13:17:14+00:00,2,2,2,0,3,254
+microsoft/ML-For-Beginners,96,Fix typo in 2-Regression/1-Tools ,2021-07-05 09:15:55+00:00,2021-07-05 16:08:53+00:00,2,1,1,2,3,0
+microsoft/ML-For-Beginners,97,Add Indonesian translation for 1-introduction,2021-07-05 11:40:12+00:00,2021-07-26 03:26:23+00:00,3,606,0,8,2,80
+microsoft/ML-For-Beginners,99,fix typo,2021-07-06 07:39:51+00:00,2021-07-06 12:37:26+00:00,2,1,1,0,3,48
+microsoft/ML-For-Beginners,102,Fix a Typo,2021-07-06 10:19:23+00:00,2021-07-06 12:38:17+00:00,1,1,2,0,2,85
+microsoft/ML-For-Beginners,103,Add Indonesian translation for 2-Regresion,2021-07-06 12:34:12+00:00,2021-07-09 14:14:28+00:00,1,1079,0,1,2,193
+microsoft/ML-For-Beginners,109,Fix csv file path in the code snippet,2021-07-07 09:44:41+00:00,2021-07-07 11:22:44+00:00,2,1,1,0,3,0
+ByteByteGoHq/system-design-101,6,Add ordered lists number for 6 common load-balancing algorithms,2023-10-18 03:23:56+00:00,2023-10-18 17:17:09+00:00,5,20,13,0,3,0
+ByteByteGoHq/system-design-101,10,Made grammatical changes,2023-10-19 18:31:07+00:00,2023-10-25 23:48:16+00:00,1,2,2,2,4,585
+ByteByteGoHq/system-design-101,11,link to w3c clarification for further reading,2023-10-19 18:39:15+00:00,2023-10-20 16:02:12+00:00,1,1,1,1,3,25
+ByteByteGoHq/system-design-101,22,typo: update reasons for reverse proxy,2023-10-21 16:53:36+00:00,2023-10-22 22:59:12+00:00,2,6,6,0,2,39
+ByteByteGoHq/system-design-101,23,Enhancements: Back to ToC links + other minor adjustments,2023-10-21 18:10:11+00:00,2024-03-02 17:06:08+00:00,4,93,132,1,3,402
+ByteByteGoHq/system-design-101,25,gRPC: move text above gRPC diagram,2023-10-22 03:14:26+00:00,2023-10-22 22:59:44+00:00,3,4,4,0,2,54
+ByteByteGoHq/system-design-101,26,fix indentation of How does Docker work? section,2023-10-22 04:22:06+00:00,2023-10-22 17:58:19+00:00,1,1,0,0,2,0
+microsoft/playwright,2,fix(doc): npm run doc fixed,2019-11-19 05:33:13+00:00,2019-11-19 21:59:52+00:00,4,323,327,0,2,0
+microsoft/playwright,4,chore: remove unused files / events,2019-11-19 15:43:01+00:00,2019-11-19 18:49:10+00:00,1,0,174,0,2,0
+microsoft/playwright,24,docs: show browser test stats in the readme,2019-11-19 20:32:59+00:00,2019-11-20 00:30:25+00:00,1,90,0,0,2,0
+microsoft/playwright,30,chore: remove page.metrics API,2019-11-20 04:00:31+00:00,2019-11-20 17:28:23+00:00,1,3,128,0,2,0
+microsoft/playwright,31,chore: remove page.queryObjects API,2019-11-20 04:24:51+00:00,2019-11-20 17:28:41+00:00,1,0,92,4,3,0
+microsoft/playwright,39,feat(webkit): pass all keyboard tests,2019-11-20 23:31:55+00:00,2019-11-21 00:39:13+00:00,1,53,40,0,2,126
+microsoft/playwright,42,chore: introduce injected source lazily evaluated by execution context,2019-11-21 01:09:15+00:00,2019-11-21 22:43:31+00:00,3,88,5,1,2,83
+microsoft/playwright,43,chore: move interception API into features/,2019-11-21 04:56:59+00:00,2019-11-21 22:41:39+00:00,1,294,217,0,2,0
+microsoft/playwright,44,feat(fill): option to wait for the element to become enabled before filling,2019-11-21 17:59:02+00:00,2019-11-27 17:14:34+00:00,3,80,17,1,3,0
+microsoft/playwright,46,feat(select): allow to select options by value/label/id/index,2019-11-22 00:18:51+00:00,2019-11-22 05:19:21+00:00,1,171,28,0,2,0
+microsoft/playwright,47,feat: remove all environment variables and references to puppeteer-core,2019-11-22 00:36:20+00:00,2019-11-22 05:17:24+00:00,1,34,168,0,2,347
+microsoft/playwright,49,feat(chromium): roll Chromium to r717627,2019-11-22 01:11:47+00:00,2019-11-22 05:16:00+00:00,1,20,9,0,2,0
+microsoft/playwright,50,feat(engines): introduce a css selector engine and a way to query it,2019-11-22 01:29:39+00:00,2019-11-22 23:36:18+00:00,3,340,48,0,3,0
+microsoft/playwright,51,chore: remove connection / session redundancy,2019-11-22 05:14:58+00:00,2019-11-22 18:05:33+00:00,1,30,57,1,2,0
+microsoft/playwright,52,chore: move wsEndpoint and browser target APIs to features/,2019-11-22 06:26:26+00:00,2019-11-22 19:25:53+00:00,2,39,45,0,2,0
+microsoft/playwright,53,chore: unify emulateMedia APIs,2019-11-22 16:59:30+00:00,2019-11-22 19:24:56+00:00,2,74,101,0,2,0
+microsoft/playwright,55,feat(page): support Page.evaluateOnNewDocument for WebKit,2019-11-22 19:54:38+00:00,2019-11-22 21:14:08+00:00,3,6,1,1,2,0
+microsoft/playwright,56,feat: playwright.downloadBrowser,2019-11-22 19:57:39+00:00,2019-12-05 01:58:38+00:00,5,65,32,1,3,216
+microsoft/playwright,59,fix(page): support multiple bootstrap scripts,2019-11-22 22:09:46+00:00,2019-11-23 00:25:37+00:00,1,16,1,0,2,9
+microsoft/playwright,65,chore: introduce types for all evaluation functions,2019-11-23 21:13:58+00:00,2019-11-25 23:07:28+00:00,3,162,129,2,3,540
+microsoft/playwright,66,chore(chromium): make WaitTask not depend on DOMWorld,2019-11-24 01:29:15+00:00,2019-11-26 00:55:03+00:00,2,66,42,0,2,36
+microsoft/playwright,67,chore: reuse WaitTask between browsers,2019-11-24 01:29:21+00:00,2019-11-26 04:28:34+00:00,1,243,538,1,2,0
+microsoft/playwright,68,chore: move methods with a single caller from DOMWorld to Frame,2019-11-24 16:59:50+00:00,2019-11-26 16:57:53+00:00,1,391,451,1,2,0
+microsoft/playwright,69,"chore: move Keyboard to common, with RawKeyboardImpl per vendor",2019-11-25 18:13:20+00:00,2019-11-25 19:19:20+00:00,1,287,452,0,2,131
+hoppscotch/hoppscotch,1,Response section expands if hidden when sending a request,2019-08-22 09:12:28+00:00,2019-08-22 10:33:46+00:00,1,3,0,11,3,337
+hoppscotch/hoppscotch,3,History is persisted in local storage,2019-08-22 11:47:22+00:00,2019-08-22 12:57:28+00:00,1,10,1,5,3,99
+hoppscotch/hoppscotch,10,feat(PWA) make PWA easily installable,2019-08-22 19:53:26+00:00,2019-08-23 04:18:59+00:00,1,31,0,2,3,31
+hoppscotch/hoppscotch,20,fix for pwa install issue,2019-08-22 22:26:29+00:00,2019-08-23 00:50:32+00:00,1,1,1,2,3,39
+hoppscotch/hoppscotch,27,Auto Update Dependencies ,2019-08-23 05:46:50+00:00,2019-08-23 13:58:43+00:00,1,2,0,5,4,72
+hoppscotch/hoppscotch,34,`Copy Response` Button ,2019-08-23 11:30:59+00:00,2019-08-23 16:47:28+00:00,1,11,2,7,4,59
+hoppscotch/hoppscotch,42,Add Share Buttons ,2019-08-23 22:05:36+00:00,2019-08-28 00:52:38+00:00,1,8,0,4,4,0
+hoppscotch/hoppscotch,55,🎨 Add theme support (and settings storage),2019-08-25 00:01:14+00:00,2019-08-25 01:57:33+00:00,2,854,420,9,4,731
+hoppscotch/hoppscotch,63,Feature/raw input,2019-08-25 21:15:05+00:00,2019-08-26 05:59:59+00:00,2,61,27,8,4,0
+hoppscotch/hoppscotch,64,Added Copy response Button,2019-08-26 06:32:38+00:00,2019-08-26 08:25:30+00:00,1,22,3,4,3,26
+hoppscotch/hoppscotch,72,Enable shareable requests with parameters in url queries,2019-08-27 22:20:05+00:00,2019-08-30 01:56:22+00:00,2,8,0,14,4,462
+hoppscotch/hoppscotch,80,Readable GitHub logo,2019-08-28 11:11:29+00:00,2019-08-28 13:32:04+00:00,2,8,2,5,4,141
+coder/code-server,2,Add ping/pong to the protocol,2019-03-05 01:17:28+00:00,2019-03-05 03:26:17+00:00,3,425,8,0,2,0
+coder/code-server,5,Implement #4 - fix password via CLI,2019-03-05 18:10:01+00:00,2019-03-06 08:08:43+00:00,8,12,6,0,5,184
+coder/code-server,6,Add task for packaging release,2019-03-05 18:38:06+00:00,2019-03-07 00:15:53+00:00,4,48,14,1,3,0
+coder/code-server,10,Fixes calculate num of cpu threads for HappyPack,2019-03-05 20:48:29+00:00,2019-03-05 23:02:50+00:00,1,1,1,1,2,142
+coder/code-server,28,Open localhost URL with --open,2019-03-06 05:52:28+00:00,2019-03-07 17:23:55+00:00,5,28,1,3,4,117
+coder/code-server,45,Update to vscode 1.31.1,2019-03-06 17:30:34+00:00,2019-03-06 19:10:24+00:00,1,10,10,0,2,0
+coder/code-server,46,Fix spelling error,2019-03-06 18:00:17+00:00,2019-03-07 00:21:34+00:00,1,3,3,0,2,0
+coder/code-server,51,"Generate secure passwords, resolves issue #26",2019-03-06 21:13:24+00:00,2019-03-07 00:25:45+00:00,1,4,7,0,3,665
+coder/code-server,54,Revise welcome page,2019-03-06 22:47:58+00:00,2019-03-07 16:25:47+00:00,1,137,0,4,4,51
+coder/code-server,57,Add Dockerfile and some cleanup,2019-03-06 23:02:20+00:00,2019-03-07 02:59:44+00:00,23,57,5,0,6,13
+coder/code-server,72,make docker build working with after a fresh checkout,2019-03-07 08:07:12+00:00,2019-03-07 21:28:36+00:00,6,1214,1265,3,4,0
+coder/code-server,84,Generate the en_US.UTF-8 locale in the docker image,2019-03-07 14:01:50+00:00,2019-03-07 19:08:10+00:00,1,2,0,1,2,73
+coder/code-server,88,update example docker command port bind options,2019-03-07 15:55:27+00:00,2019-03-07 17:31:02+00:00,2,1,1,2,4,180
+coder/code-server,95,Patch welcome page,2019-03-07 17:33:19+00:00,2019-03-20 14:22:24+00:00,2,25,0,1,3,40
+coder/code-server,104,Docker issues,2019-03-07 20:43:55+00:00,2019-03-16 17:47:47+00:00,24,95,10,7,9,235
+coder/code-server,111,Improve .dockerignore,2019-03-07 21:58:40+00:00,2019-03-08 17:13:25+00:00,2,8,0,0,5,62
+coder/code-server,113,Add note about extensions needing to be OSS,2019-03-08 00:44:00+00:00,2019-03-22 19:58:14+00:00,4,4,0,8,6,295
+coder/code-server,117,Feature/1.32.0 update,2019-03-08 01:57:36+00:00,2019-03-08 16:37:04+00:00,1,371,408,0,2,0
+coder/code-server,130,Fixed documentation download links based on latest version,2019-03-08 10:59:07+00:00,2019-03-18 15:45:20+00:00,5,68,19,5,4,328
+coder/code-server,133,Use a timing-safe equality check for passwords,2019-03-08 13:07:04+00:00,2019-03-09 17:24:37+00:00,1,16,1,0,2,414
+coder/code-server,146,Add support for Kubernetes ,2019-03-08 18:57:17+00:00,2019-03-18 15:44:08+00:00,6,117,0,14,8,727
+coder/code-server,154,Added serviceworker and web-manifest,2019-03-09 00:20:31+00:00,2019-04-16 20:44:58+00:00,15,676,77,26,10,878
+coder/code-server,156,Adhere to XDG base directory spec for dataDir and logDir,2019-03-09 01:55:33+00:00,2019-03-09 17:11:31+00:00,2,13,3,0,3,375
+coder/code-server,159,Fix typo in Dockerfile,2019-03-09 07:05:07+00:00,2019-03-09 17:06:48+00:00,1,1,1,0,2,172
+coder/code-server,162,Improve github issue template,2019-03-09 09:45:53+00:00,2019-03-09 17:07:43+00:00,1,19,11,0,2,87
+coder/code-server,167,Clone exact vscode release branch when build task,2019-03-09 11:03:43+00:00,2019-03-10 15:02:09+00:00,2,2,7,7,3,121
+nestjs/nest,60,small grammar fix,2017-05-12 18:27:51+00:00,2017-05-13 09:52:13+00:00,1,1,1,2,4,0
+nestjs/nest,111,fix(package): Set typescript version as ~2.3.4 instead of ^2.2.1 and …,2017-07-12 17:57:23+00:00,2017-09-12 11:18:22+00:00,2,2,2,4,4,33
+nestjs/nest,120,Release v4,2017-07-23 09:37:31+00:00,2017-09-12 11:12:53+00:00,2,19530,1010,16,8,165
+nestjs/nest,123,Bug/Fixing a typo in error messages,2017-07-26 15:12:28+00:00,2017-09-12 11:16:54+00:00,1,2,2,3,4,60
+nestjs/nest,137,Update Readme.md,2017-08-20 12:51:22+00:00,2017-09-12 11:16:11+00:00,1,2,0,6,4,17
+nestjs/nest,202,Add Lerna functionality,2017-10-23 03:56:58+00:00,2017-10-31 12:06:53+00:00,1,11872,23,10,5,338
+nestjs/nest,207,Fixed typo in Readme,2017-10-25 18:26:15+00:00,2017-10-30 19:54:20+00:00,1,1,1,3,4,63
+nestjs/nest,225,"Bugfixes 18X, lerna, remove codependencies, update express",2017-11-02 19:11:25+00:00,2017-11-03 14:33:06+00:00,1,203,221,4,3,0
+nestjs/nest,240,Use route custom param decorators,2017-11-11 19:28:11+00:00,2017-11-22 19:19:19+00:00,1,0,0,5,4,647
+nestjs/nest,246,Create ISSUE_TEMPLATE to quickly sort out issues,2017-11-14 22:29:36+00:00,2017-11-19 19:01:26+00:00,8,46,0,5,4,0
+nestjs/nest,250,Add contribution guidelines v1,2017-11-17 01:52:01+00:00,2017-12-15 21:55:35+00:00,10,274,1,12,4,70
+nestjs/nest,251,ci(): add format checker,2017-11-17 02:04:19+00:00,2017-12-21 19:15:47+00:00,9,19621,27274,7,4,353
+nestjs/nest,278,"fix(@nestjs/core) application context, support symbol",2017-11-30 05:56:38+00:00,2017-12-15 13:30:56+00:00,2,2,2,5,4,153
+CompVis/stable-diffusion,36,[Safety Checker] Add Safety Checker Module,2022-08-19 16:02:29+00:00,2022-08-22 17:54:33+00:00,4,28,2,7,8,373
+CompVis/stable-diffusion,40,Changes the meaning of the --seed flag,2022-08-20 01:31:21+00:00,2022-09-05 19:42:31+00:00,1,7,4,0,2,221
+CompVis/stable-diffusion,47,Apple silicon mps support,2022-08-21 01:25:28+00:00,2022-08-23 18:26:17+00:00,7,0,0,4,6,467
+CompVis/stable-diffusion,163,Create .gitignore,2022-09-02 02:14:27+00:00,2023-02-11 07:47:18+00:00,3,8,0,1,4,0
+CompVis/stable-diffusion,437,step-by-step for download correctly sd-v1-4.ckpt,2022-10-28 12:25:29+00:00,2023-03-31 14:32:15+00:00,1,7,0,0,2,47
+Anduin2017/HowToCook,16,新增糖醋鲤鱼,2021-02-15 02:54:48+00:00,2021-02-15 05:48:01+00:00,1,78,1,0,2,48
+Anduin2017/HowToCook,18,TAGOST ADD #油泼辣子,2021-04-30 07:36:18+00:00,2021-06-03 08:01:18+00:00,1,25,0,0,2,0
+Anduin2017/HowToCook,24,增加太阳蛋做法,2022-02-15 09:29:25+00:00,2022-02-17 06:26:30+00:00,3,42,3,5,5,0
+Anduin2017/HowToCook,38,肉的一段处理第3步不严谨，需加入水,2022-02-17 02:56:02+00:00,2022-02-17 06:25:50+00:00,1,1,1,0,2,0
+Anduin2017/HowToCook,40,Create 辣椒炒肉.md,2022-02-17 04:27:55+00:00,2022-02-17 06:24:32+00:00,1,47,0,0,2,12
+Anduin2017/HowToCook,47,Create 牛排.md,2022-02-17 13:11:33+00:00,2024-01-20 05:30:43+00:00,3,36,0,0,5,0
+Anduin2017/HowToCook,54,add 清炒黄瓜的做法,2022-02-18 03:03:35+00:00,2022-02-28 23:48:47+00:00,5,61,0,2,3,0
+Anduin2017/HowToCook,56,添加老干妈拌面和醪糟小汤圆,2022-02-18 03:47:58+00:00,2022-02-18 05:00:27+00:00,3,63,0,2,3,0
+Anduin2017/HowToCook,72,Add 厨房基本操作注意事项,2022-02-18 09:31:47+00:00,2022-02-19 14:30:29+00:00,4,82,0,3,3,14
+Anduin2017/HowToCook,77,更新了西红柿鸡蛋,2022-02-18 10:38:09+00:00,2022-02-19 16:02:18+00:00,3,63,9,3,4,15
+Anduin2017/HowToCook,80,优化一些形式化描述,2022-02-18 11:53:48+00:00,2022-02-19 17:44:57+00:00,3,2,3,4,3,0
+Anduin2017/HowToCook,82,Update 米饭.md,2022-02-18 12:39:29+00:00,2022-02-18 16:31:39+00:00,1,3,3,0,2,44
+Anduin2017/HowToCook,85,Add: 速冻水饺,2022-02-18 14:07:24+00:00,2022-02-19 15:55:20+00:00,4,39,0,7,4,14
+Anduin2017/HowToCook,88,add missing spaces between half and full-width characters,2022-02-18 15:11:54+00:00,2022-02-19 06:05:32+00:00,3,8,0,5,3,56
+Anduin2017/HowToCook,91,Suppress MD024,2022-02-18 16:33:31+00:00,2022-02-19 06:42:05+00:00,2,1,1,0,2,14
+Anduin2017/HowToCook,93,Update 米粥.md,2022-02-18 19:58:45+00:00,2022-02-19 16:06:29+00:00,1,6,0,1,2,39
+Anduin2017/HowToCook,94,改进计算菜的数量的算法,2022-02-19 00:54:46+00:00,2022-02-20 08:32:31+00:00,6,56,7,7,3,111
+Anduin2017/HowToCook,96,尖椒炒牛肉,2022-02-19 04:35:11+00:00,2022-02-19 08:56:00+00:00,4,53,0,3,2,0
+Anduin2017/HowToCook,100,添加皮蛋瘦肉粥操作,2022-02-19 06:49:03+00:00,2022-02-19 10:44:11+00:00,2,69,0,1,2,23
+Anduin2017/HowToCook,104,[Contributing Rule Change] 贡献指南规范化,2022-02-19 10:02:43+00:00,2022-02-20 09:20:34+00:00,6,73,4,2,3,0
+Anduin2017/HowToCook,106,小炒肉,2022-02-19 12:19:26+00:00,2022-02-19 15:33:33+00:00,2,55,0,0,2,5
+thedaviddias/Front-End-Checklist,31,Assorted tweaks.,2017-10-19 11:52:58+00:00,2017-10-19 14:03:38+00:00,1,45,33,1,2,92
+thedaviddias/Front-End-Checklist,39,Added ConvertICO,2017-10-20 13:17:11+00:00,2017-10-20 16:37:07+00:00,1,1,0,3,2,0
+thedaviddias/Front-End-Checklist,40,Add a few security-related entries,2017-10-20 14:54:15+00:00,2017-10-20 16:32:49+00:00,3,20,3,1,2,216
+thedaviddias/Front-End-Checklist,48,Update README.md,2017-10-20 20:58:37+00:00,2017-10-23 06:48:29+00:00,1,1,1,1,2,0
+thedaviddias/Front-End-Checklist,51,Remove pixel perfection as recommendation,2017-10-21 15:09:57+00:00,2018-07-22 04:45:54+00:00,1,0,2,14,8,1015
+abi/screenshot-to-code,7,Add dockerfiler & docker compose,2023-11-16 18:16:55+00:00,2023-11-20 02:54:38+00:00,4,84,3,3,5,272
+abi/screenshot-to-code,50,fix#48: open-ai-api from docker build,2023-11-20 12:53:22+00:00,2023-11-30 17:14:07+00:00,2,3,4,4,4,0
+abi/screenshot-to-code,58,Feat: fix flashing issue when updating code and enable code edit,2023-11-21 01:41:57+00:00,2023-11-22 03:09:15+00:00,1,57,35,5,3,506
+abi/screenshot-to-code,62,Feat: OpenAI Base URL supported,2023-11-21 08:08:49+00:00,2023-11-30 17:08:52+00:00,2,57,9,6,5,154
+abi/screenshot-to-code,63,Feat: add stop button when generating code,2023-11-21 08:21:27+00:00,2023-11-21 16:09:08+00:00,3,45,19,5,3,245
+abi/screenshot-to-code,65,feat: add local storage functionality to track acceptance of terms,2023-11-21 08:57:28+00:00,2023-11-22 03:18:08+00:00,2,21,6,2,3,0
+abi/screenshot-to-code,99,add support open in codepen.io ,2023-11-25 06:24:59+00:00,2023-11-27 03:33:44+00:00,2,51,7,2,2,390
+abi/screenshot-to-code,115,Dark mode.,2023-11-28 05:53:26+00:00,2023-11-30 14:00:03+00:00,5,124,61,4,2,59
+abi/screenshot-to-code,170,Fix parameter typing for generateCode,2023-12-08 00:19:23+00:00,2023-12-11 23:23:18+00:00,1,19,11,2,3,93
+redis/redis,25,Added GET to ZRANGEBYSCORE commands,2010-11-11 22:43:05+00:00,2024-03-06 12:27:10+00:00,1,70,6,0,1,478
+base/node,8,reformat sync status command to work with bash,2023-02-25 18:57:04+00:00,2023-02-26 17:31:23+00:00,1,4,4,0,3,8
+base/node,10,Add badges with official links to README,2023-03-01 04:29:13+00:00,2023-03-03 15:15:16+00:00,1,20,1,1,2,448
+base/node,11,CONTRIBUTING: Add contribution guidelines,2023-03-01 14:51:47+00:00,2023-03-03 22:42:52+00:00,1,56,0,0,2,173
+base/node,12,SECURITY: Add security policy,2023-03-01 15:04:02+00:00,2023-03-03 22:39:22+00:00,1,38,0,1,2,228
+base/node,13,Update README.md,2023-03-02 12:35:11+00:00,2023-03-03 15:24:07+00:00,1,15,1,2,2,52
+base/node,14,[fix] add -s to curl,2023-03-02 19:36:54+00:00,2023-03-03 15:16:38+00:00,1,1,1,0,2,22
+base/node,17,Update README.md,2023-03-03 06:29:07+00:00,2023-03-03 15:19:57+00:00,2,7,1,0,3,48
+base/node,19,"Adds comments / clarifies L1 as ethereum, not Base",2023-03-03 14:07:56+00:00,2023-03-03 22:34:47+00:00,1,6,6,1,2,60
+base/node,21,Add README details on volume mapping and build,2023-03-10 13:32:57+00:00,2023-03-14 16:23:18+00:00,2,18,2,1,4,84
+base/node,23,Fix one grammatical error in README.md,2023-03-13 05:20:45+00:00,2023-03-14 16:24:24+00:00,1,1,1,0,3,0
+base/node,24,Add safeguard for missing jq in the system,2023-03-13 22:42:45+00:00,2023-03-14 16:25:20+00:00,1,1,0,0,2,438
+base/node,34,Bump op-node and op-geth commits to latest,2023-03-22 22:06:23+00:00,2023-03-23 00:27:34+00:00,3,2,3,2,3,106
+base/node,39,add (commented out) trusted-rpc option to docker-compose.yml,2023-04-01 17:37:45+00:00,2023-04-03 18:28:08+00:00,1,4,0,2,2,128
+base/node,40,web3 -> onchain,2023-04-11 21:41:37+00:00,2023-04-12 01:29:47+00:00,3,1,1,3,6,27
+base/node,41,Add note about full L1 node requirement,2023-04-12 01:32:44+00:00,2023-04-12 14:02:40+00:00,3,1,1,2,5,0
+base/node,44,Schedule regolith in rollup config,2023-04-21 16:36:36+00:00,2023-04-21 19:06:50+00:00,1,2,1,0,2,0
+base/node,48,Add Docker image tagging and push to ghcr.io,2023-05-04 00:55:07+00:00,2023-05-04 14:38:14+00:00,1,40,0,0,2,0
+base/node,49,Add volume mount for geth data,2023-05-04 18:20:21+00:00,2023-06-15 23:40:54+00:00,2,3,0,2,5,348
+base/node,54,"Dockerfile Cleanups, remove local git repos, git repo sha256 checks, smaller image, fix entrypoint naming",2023-06-09 17:32:25+00:00,2023-06-15 22:54:42+00:00,1,19,19,1,4,24353
+base/node,62,Minor .env cleanup,2023-06-23 05:31:07+00:00,2023-06-23 16:05:27+00:00,2,12,5,1,3,121
+base/node,72,Prefix app commands with exec for graceful shutdown,2023-07-17 12:51:31+00:00,2023-07-17 23:02:47+00:00,1,2,2,1,2,389
+Developer-Y/cs-video-courses,44,Added Stanford Networks class and fixed dead links,2017-02-05 03:17:21+00:00,2017-02-05 08:07:10+00:00,1,4,2,1,3,96
+swiftlang/swift,4,install Foundation via the ninja script and add the test phase for Foundation,2015-11-18 23:01:04+00:00,2015-11-19 19:39:53+00:00,1,23,3,4,5,542
+binary-husky/gpt_academic,86,增加Token使用量显示 ,2023-03-29 07:29:42+00:00,2023-04-05 06:28:06+00:00,1,6627,362,2,25,12
+binary-husky/gpt_academic,388,update en2ch prompt,2023-04-09 03:53:51+00:00,2023-04-09 16:39:54+00:00,1,1,2,4,4,2838
+d2l-ai/d2l-zh,26,adjust_size and pack image,2017-09-10 05:01:25+00:00,2017-09-10 15:55:19+00:00,1,1,0,0,2,0
+louislam/uptime-kuma,38,add release config,2021-07-13 16:54:13+00:00,2022-04-14 03:32:43+00:00,5,20609,6970,8,4,213
+louislam/uptime-kuma,54,Small Change,2021-07-15 16:10:13+00:00,2021-10-12 16:43:16+00:00,1,1,1,3,5,45
+louislam/uptime-kuma,57,Feat: Handle DNS multiple A Records,2021-07-16 04:25:13+00:00,2021-07-22 06:18:42+00:00,1,98,27,3,5,878
+louislam/uptime-kuma,74,Fix `require-v-for-key` (from `eslint-plugin-vue`),2021-07-18 01:12:26+00:00,2021-07-22 03:16:19+00:00,2,25,30,0,2,165
+louislam/uptime-kuma,86,Implement retries (#56),2021-07-19 16:33:01+00:00,2021-07-22 16:11:24+00:00,8,81,8,2,4,1159
+louislam/uptime-kuma,91,Display certificate Info (#1),2021-07-21 04:22:10+00:00,2021-07-26 15:05:16+00:00,13,214,8,5,5,273
+louislam/uptime-kuma,101,Add a /metrics endpoint for Prometheus monitoring,2021-07-22 07:22:46+00:00,2021-07-27 15:21:48+00:00,17,231,2,6,3,291
+louislam/uptime-kuma,113,Add ESLint and StyleLint,2021-07-26 00:39:50+00:00,2021-07-28 12:53:00+00:00,11,1288,1131,8,4,289
+louislam/uptime-kuma,116,Certificate renewal notifications,2021-07-27 05:35:05+00:00,2021-10-23 13:30:39+00:00,5,41315,9852,8,33,0
+louislam/uptime-kuma,121,Fix: Update ESLint to handle class static member ,2021-07-29 06:34:41+00:00,2021-07-30 07:21:15+00:00,3,41,9,8,3,132
+sdmg15/Best-websites-a-programmer-should-visit,4,Adds wiki.c2.com to general coding advice section,2017-06-06 12:52:24+00:00,2017-06-06 20:18:37+00:00,1,1,0,1,3,92
+sdmg15/Best-websites-a-programmer-should-visit,5,"Few links fixed and changes all ""-"" to "":"";",2017-06-06 13:08:14+00:00,2017-06-10 14:03:54+00:00,5,6,6,3,4,27
+sdmg15/Best-websites-a-programmer-should-visit,7,Add riddles.io to competitive programming,2017-06-06 13:29:37+00:00,2017-06-09 04:17:14+00:00,1,2,1,1,2,104
+sdmg15/Best-websites-a-programmer-should-visit,10,Adds Angular 1 Style Guide,2017-06-06 14:46:49+00:00,2017-06-14 10:29:21+00:00,3,2,1,6,2,247
+sdmg15/Best-websites-a-programmer-should-visit,12,Proposed fix to #11,2017-06-06 15:32:46+00:00,2017-06-06 20:34:31+00:00,1,3,1,0,3,83
+sdmg15/Best-websites-a-programmer-should-visit,14,adding teamtreehouse,2017-06-06 15:53:47+00:00,2017-09-17 14:25:53+00:00,2,1,0,2,3,0
+sdmg15/Best-websites-a-programmer-should-visit,18,Add funfunfunction to youtube channels,2017-06-06 17:06:03+00:00,2018-06-25 16:04:56+00:00,2,2,1,0,2,26
+sdmg15/Best-websites-a-programmer-should-visit,19,Adding Kadenze link to the MOOC section of the readme,2017-06-06 17:18:15+00:00,2017-06-08 05:00:29+00:00,2,1,0,1,2,154
+sdmg15/Best-websites-a-programmer-should-visit,22,Add Cloud 9 and Github Gist,2017-06-06 18:52:41+00:00,2017-06-08 08:24:56+00:00,2,5,0,3,2,76
+sdmg15/Best-websites-a-programmer-should-visit,25,Update README.md,2017-06-06 20:27:40+00:00,2017-06-26 23:50:41+00:00,1,1,0,2,2,0
+sdmg15/Best-websites-a-programmer-should-visit,33,"[Conflicts resolved] Removed dupes, fixed a few formatting inconsistencies",2017-06-06 23:48:20+00:00,2019-11-13 09:30:52+00:00,1,8,17,0,2,0
+sdmg15/Best-websites-a-programmer-should-visit,36,Update blog of Umer Mansoor,2017-06-07 02:21:56+00:00,2017-06-13 13:00:33+00:00,3,2,2,1,2,0
+sdmg15/Best-websites-a-programmer-should-visit,48,Added coding ground,2017-06-07 11:25:47+00:00,2018-06-27 15:09:54+00:00,1,3,0,0,2,0
+sdmg15/Best-websites-a-programmer-should-visit,55,Added regex101.com to README,2017-06-07 14:49:03+00:00,2017-06-20 11:21:27+00:00,1,1,0,10,3,160
+sdmg15/Best-websites-a-programmer-should-visit,59,Added Data Science section. Fixed typos,2017-06-07 16:35:02+00:00,2017-06-11 17:34:12+00:00,3,11,9,0,2,14
+sdmg15/Best-websites-a-programmer-should-visit,66,Update README.md,2017-06-08 02:50:11+00:00,2017-06-13 13:11:31+00:00,1,1,0,2,3,71
+sdmg15/Best-websites-a-programmer-should-visit,68,Added condingame to the list,2017-06-08 06:00:30+00:00,2017-09-24 19:46:27+00:00,2,1,0,2,2,156
+sdmg15/Best-websites-a-programmer-should-visit,72,added Netflix UI Engineering YouTube channel,2017-06-08 08:45:55+00:00,2017-06-13 12:59:28+00:00,3,1,0,2,2,47
+sdmg15/Best-websites-a-programmer-should-visit,73,blog.might.net added twice in Blogs of Developers,2017-06-08 11:51:47+00:00,2017-06-13 13:05:39+00:00,1,0,1,2,2,49
+python/cpython,2,Rename README to README.rst and enhance formatting,2017-02-10 22:41:59+00:00,2017-02-11 01:21:39+00:00,8,44,51,14,8,204
+python/cpython,3,bpo-29403: Fix mock's broken autospec behavior on method-bound builtin functions,2017-02-10 23:07:39+00:00,2017-07-20 00:01:14+00:00,3,18,1,16,10,783
+python/cpython,4,Update Python Software Foundation Copyright Year.,2017-02-10 23:15:26+00:00,2017-02-14 16:09:30+00:00,7,45,46,18,12,108
+python/cpython,8,Change some mercurial/ hg.python.org references.,2017-02-10 23:58:12+00:00,2017-02-16 15:18:43+00:00,5,6,6,5,7,0
+python/cpython,9,Fix some deprecation warnings in Doc/conf.py,2017-02-11 00:04:16+00:00,2017-02-11 04:47:38+00:00,1,17,17,4,6,106
+python/cpython,10,bpo-29474: Improve documentation for weakref.WeakValueDictionary,2017-02-11 00:24:44+00:00,2017-02-12 16:17:51+00:00,1,5,5,3,3,209
+python/cpython,11,bpo-29474: Improve documentation for weakref.WeakValueDictionary,2017-02-11 00:33:40+00:00,2017-02-11 01:44:58+00:00,1,2,2,1,3,109
+python/cpython,12,bpo-29524: Add Objects/call.c file,2017-02-11 00:38:46+00:00,2017-02-12 18:27:06+00:00,2,1393,1345,3,4,352
+python/cpython,17,bpo-29438: fixed use-after-free in key sharing dict,2017-02-11 02:57:19+00:00,2017-02-12 04:51:31+00:00,2,9,3,2,4,0
+python/cpython,19,Rename Doc/README.txt to Doc/README.rst,2017-02-11 03:38:27+00:00,2017-02-15 01:01:58+00:00,6,12,12,17,7,101
+python/cpython,20,Update link destination of the Mersenne Twister homepage,2017-02-11 03:55:18+00:00,2017-02-15 09:04:44+00:00,1,3,3,9,5,0
+python/cpython,21,Update readme,2017-02-11 05:33:36+00:00,2017-02-14 04:01:04+00:00,12,77,83,2,8,249
+python/cpython,22,[backport to 3.6] bpo-29474: Improve documentation for weakref.WeakValueDictionary,2017-02-11 05:49:52+00:00,2017-02-12 16:18:07+00:00,1,5,5,2,3,118
+python/cpython,23,[backport to 3.5] bpo-29474: Improve documentation for weakref.WeakValueDictionary,2017-02-11 05:50:14+00:00,2017-02-12 16:21:36+00:00,1,5,5,1,3,118
+python/cpython,24,bpo-28837: Fix lib2to3 handling of map/zip/filter,2017-02-11 08:31:12+00:00,2017-04-06 05:19:41+00:00,3,110,26,2,3,405
+python/cpython,25,[backport to 3.6] bpo-29529: Add .travis.yml to 3.6 branch,2017-02-11 09:15:46+00:00,2017-02-19 05:12:00+00:00,1,104,0,12,6,0
+python/cpython,26,[backport to 3.5] bpo-29529: Add .travis.yml to 3.5 branch,2017-02-11 09:16:07+00:00,2017-02-19 05:13:02+00:00,2,104,0,1,7,0
+python/cpython,27,[backport to 2.7] bpo-29529: Add .travis.yml to 2.7 branch,2017-02-11 09:19:24+00:00,2017-02-20 00:44:54+00:00,3,77,0,2,6,0
+python/cpython,28,bpo-28556: Various updates to typing,2017-02-11 11:53:37+00:00,2017-02-13 21:50:14+00:00,2,335,58,11,5,264
+python/cpython,30,Allow up to a 0.01% drop in coverage,2017-02-11 16:21:25+00:00,2017-02-13 04:21:20+00:00,2,6,2,4,7,171
+python/cpython,31,"bpo-10746: ctypes: Fix PEP 3118 type codes for c_long, c_bool, c_int",2017-02-11 19:35:34+00:00,2017-08-28 12:08:50+00:00,6,123,30,26,6,1416
+python/cpython,32,bpo-29576: Improve some deprecations in the importlib,2017-02-12 00:22:29+00:00,2017-02-16 02:00:32+00:00,4,41,7,5,4,649
+python/cpython,33,Add Python version since deprecation in base64 methods.,2017-02-12 00:32:35+00:00,2017-03-02 14:21:27+00:00,2,25,6,6,4,152
+python/cpython,34,bpo-29026: Clarify documentation of time.time,2017-02-12 02:41:22+00:00,2017-02-16 10:00:46+00:00,11,35,7,3,6,300
+python/cpython,35,bpo-28929: Link the documentation to its source file on GitHub,2017-02-12 03:50:00+00:00,2017-02-12 21:07:06+00:00,1,5,2,1,3,83
+python/cpython,36,[backport to 3.5] bpo-28929: Link the documentation to its source file on GitHub,2017-02-12 03:54:49+00:00,2017-02-12 21:08:01+00:00,2,5,2,0,4,119
+python/cpython,37,[backport to 3.6] bpo-28929: Link the documentation to its source file on GitHub,2017-02-12 03:55:17+00:00,2017-02-12 21:08:25+00:00,3,5,2,0,4,119
+python/cpython,38,[backport to 2.7] bpo-28929: Link the documentation to its source file on GitHub,2017-02-12 04:05:08+00:00,2017-02-12 21:07:34+00:00,2,3,2,0,3,83
+python/cpython,39,[backport to 3.6] bpo-29438: fixed use-after-free in key sharing dict,2017-02-12 05:11:17+00:00,2017-02-13 00:19:05+00:00,2,9,3,0,4,0
+python/cpython,40,[backport to 3.5] bpo-29438: Fixed use-after-free in key sharing dict,2017-02-12 05:38:10+00:00,2017-02-13 00:16:20+00:00,3,6,6,0,4,0
+python/cpython,41,bpo-29521 Fix two minor documentation build warnings,2017-02-12 06:40:19+00:00,2017-02-13 13:57:14+00:00,1,5,4,1,5,776
+python/cpython,42,[backport to 3.6] Bpo news support 3.6,2017-02-12 07:44:10+00:00,2017-02-12 12:18:46+00:00,1,4,4,2,4,21
+python/cpython,43,"[backport to 3.5] Support ""bpo-"" in Misc/NEWS ",2017-02-12 07:48:52+00:00,2017-02-13 20:11:26+00:00,1,4,4,3,4,57
+python/cpython,44,[backport to 2.7] Change documentation's `Show Source` link to GitHub,2017-02-12 07:52:17+00:00,2017-02-12 20:59:21+00:00,3,2,2,3,3,92
+python/cpython,45,bpo-29428: make doctest documentation clearer,2017-02-12 08:01:21+00:00,2018-05-21 04:18:35+00:00,16,53,27,9,9,721
+python/cpython,46,bpo-29463: Add docstring field to some AST nodes.,2017-02-12 09:16:56+00:00,2017-02-22 15:32:00+00:00,4,3150,3045,6,4,122
+python/cpython,48,[backport to 3.6] bpo-27122: Fix comment to point to correct issue number (#47),2017-02-12 11:45:43+00:00,2017-02-12 16:13:32+00:00,1,1,1,1,4,291
+python/cpython,49,getpass: update docstring,2017-02-12 11:48:16+00:00,2017-02-12 22:10:49+00:00,1,0,1,5,6,39
+python/cpython,50,[backport to 3.5] bpo-27122: Fix comment to point to correct issue number (#47),2017-02-12 11:49:41+00:00,2017-02-12 16:18:02+00:00,1,1,1,2,4,292
+tesseract-ocr/tesseract,9,Issue 1106: [PATCH] Fixed potential usage of uninitialized bool varia…,2015-05-13 14:49:36+00:00,2017-05-03 06:41:22+00:00,1,3,0,3,7,795
+tesseract-ocr/tesseract,11,"Issue 1199: Remove the vestigal traces of custom memory allocators, part 1, updated",2015-05-13 15:49:21+00:00,2017-09-25 14:36:38+00:00,1,90,363,2,6,683
+ventoy/Ventoy,218,Update russian language,2020-06-10 14:10:26+00:00,2020-06-13 18:03:22+00:00,1,0,0,0,3,69
+ventoy/Ventoy,283,Arabic language update,2020-07-02 20:20:00+00:00,2020-12-15 09:46:55+00:00,1,0,0,1,2,0
+ventoy/Ventoy,297,Updates to Russian translation,2020-07-10 05:19:06+00:00,2020-09-24 13:02:37+00:00,2,0,0,1,2,80
+swisskyrepo/PayloadsAllTheThings,57,Add XXE inside SVG,2019-03-23 19:30:38+00:00,2019-03-23 22:02:32+00:00,2,8,0,1,3,0
+kdn251/interviews,6,added circular linklist,2017-03-12 16:35:53+00:00,2017-03-14 17:05:13+00:00,9,3,2,10,3,22
+kdn251/interviews,14,More Permutation examples in Java ,2017-03-13 16:09:05+00:00,2017-03-17 12:13:40+00:00,1,59,3,0,2,254
+kdn251/interviews,17,Added image binary tree type,2017-03-14 17:33:23+00:00,2017-04-07 20:28:28+00:00,1,8,0,7,3,0
+kdn251/interviews,20,Add Lobsters to the CS news section,2017-03-15 16:05:58+00:00,2017-03-15 23:29:00+00:00,1,2,1,1,3,159
+kdn251/interviews,29,Solve UVa problems,2017-04-07 19:59:33+00:00,2017-04-13 02:48:20+00:00,19,388,0,9,3,30
+kdn251/interviews,34,return absolute value - change,2017-04-12 11:19:00+00:00,2017-04-17 20:35:34+00:00,3,4,1,0,2,20
+kdn251/interviews,36,Adding links in readme file ,2017-04-18 18:07:37+00:00,2017-04-20 03:58:25+00:00,2,180,147,0,2,67
+kdn251/interviews,38,added link complete in readme.md,2017-04-25 18:33:25+00:00,2017-05-27 06:47:44+00:00,17,451,149,16,4,129
+kdn251/interviews,42,(refactor) some opportunities to use lambda functions,2017-08-16 04:30:18+00:00,2018-03-29 15:31:15+00:00,1,24,16,1,3,0
+kdn251/interviews,47,fix typo,2017-09-08 17:37:44+00:00,2017-10-25 21:42:28+00:00,1,1,1,0,3,0
+xtekky/gpt4free,89,Fix for Poe account creation,2023-04-23 21:51:40+00:00,2023-04-25 10:24:35+00:00,2,613,387,3,2,290
+xtekky/gpt4free,100,Added GUI,2023-04-24 15:54:11+00:00,2023-04-24 18:08:55+00:00,1,48,1,2,4,0
+xtekky/gpt4free,101,Spelling check,2023-04-24 15:54:42+00:00,2023-04-24 18:09:16+00:00,1,1,1,1,3,50
+xtekky/gpt4free,130,Update README.md + made a Jupyter notebook,2023-04-25 18:01:25+00:00,2023-04-26 07:55:12+00:00,1,21,24,7,3,520
+xtekky/gpt4free,139,update new gpt4/gpt3.5 website https://chat.forefront.ai/,2023-04-26 03:51:48+00:00,2023-04-26 07:56:20+00:00,1,1,0,0,3,57
+xtekky/gpt4free,200,Reformat code using PyCharm,2023-04-27 12:48:24+00:00,2023-04-27 14:42:56+00:00,1,675,661,7,5,133
+xtekky/gpt4free,210,قم بإنشاء ملف جديد,2023-04-27 17:34:01+00:00,2023-04-28 08:01:57+00:00,1,1,0,2,4,8
+lydiahallie/javascript-questions,13,Missing console.log,2019-06-13 13:30:23+00:00,2019-06-24 05:31:04+00:00,4,1,1,3,5,61
+lydiahallie/javascript-questions,17,Fix question 11,2019-06-14 15:22:45+00:00,2019-06-15 15:53:53+00:00,4,7,7,0,3,352
+lydiahallie/javascript-questions,28,Translate the question into Chinese,2019-06-16 03:49:03+00:00,2019-06-16 15:40:27+00:00,2,1291,0,6,5,99
+lydiahallie/javascript-questions,30,Fix the question 21,2019-06-16 14:20:04+00:00,2019-06-17 07:38:46+00:00,1,1,1,1,3,104
+lydiahallie/javascript-questions,32,Fixing typo,2019-06-16 21:02:52+00:00,2019-06-17 07:38:02+00:00,2,1,1,0,3,0
+lydiahallie/javascript-questions,39,Proofreading translation,2019-06-17 07:42:14+00:00,2019-06-17 11:12:40+00:00,1,6,6,0,2,43
+lydiahallie/javascript-questions,43,Fix typo,2019-06-17 09:43:28+00:00,2019-06-17 11:12:19+00:00,1,1,1,0,2,27
+lydiahallie/javascript-questions,47,Translate into Spanish🇪🇸,2019-06-17 18:06:44+00:00,2019-06-23 21:08:15+00:00,1,1306,7,6,3,17
+lydiahallie/javascript-questions,53,Translation to russian,2019-06-18 08:42:40+00:00,2019-06-19 06:21:57+00:00,1,1296,1,3,3,0
+lydiahallie/javascript-questions,60,Western balkan translation,2019-06-18 18:53:32+00:00,2019-06-19 06:24:07+00:00,1,1463,0,0,2,14
+lydiahallie/javascript-questions,62,Translate into Vietnamese,2019-06-19 02:56:01+00:00,2019-06-19 15:41:03+00:00,1,1295,0,1,3,0
+lydiahallie/javascript-questions,63,Translate into German  🇩🇪,2019-06-19 11:29:10+00:00,2019-06-19 14:16:28+00:00,1,1298,1,2,2,74
+lydiahallie/javascript-questions,64,Update README.md,2019-06-19 12:57:55+00:00,2019-06-23 21:11:08+00:00,2,1,1,0,3,60
+lydiahallie/javascript-questions,67,German corrections,2019-06-19 14:59:47+00:00,2019-06-22 10:13:37+00:00,1,525,159,0,2,117
+lydiahallie/javascript-questions,72,Western Balkan link was outdated,2019-06-19 16:35:17+00:00,2019-06-20 07:09:26+00:00,1,1,1,0,2,25
+lydiahallie/javascript-questions,76,Update README-zh_CN.md,2019-06-20 02:13:07+00:00,2019-06-23 21:10:10+00:00,2,1,1,0,3,20
+lydiahallie/javascript-questions,77,[Vietnamese] correct typo and improve tranlation,2019-06-20 02:25:23+00:00,2019-06-24 05:32:30+00:00,3,4,5,4,4,42
+lydiahallie/javascript-questions,78,[Vietnamese]Update question 13 in README-vi.md,2019-06-20 03:01:49+00:00,2019-06-23 21:17:55+00:00,1,1,1,0,2,19
+lydiahallie/javascript-questions,81,[Russian] Add edits. Compilation,2019-06-20 04:32:36+00:00,2019-06-20 07:11:55+00:00,1,18,15,0,5,116
+lydiahallie/javascript-questions,84,Translated to Ukrainian,2019-06-20 10:11:06+00:00,2019-06-21 14:24:22+00:00,1,1308,7,0,2,0
+lydiahallie/javascript-questions,85,feat(question-8): Add console.log to make the answer less obvious,2019-06-20 10:13:06+00:00,2019-06-23 21:32:14+00:00,1,1,1,0,2,166
+lydiahallie/javascript-questions,86,fixed small errors,2019-06-20 13:17:03+00:00,2019-06-21 14:23:46+00:00,1,12,12,0,2,0
+lydiahallie/javascript-questions,87,Translate to French,2019-06-20 17:11:37+00:00,2019-07-30 09:26:57+00:00,15,1960,0,5,4,0
+lydiahallie/javascript-questions,88,Translate to Japanese,2019-06-20 17:22:02+00:00,2019-06-21 16:02:17+00:00,1,1336,1,3,3,178
+lydiahallie/javascript-questions,89,Translated to pt_BR ,2019-06-20 19:17:02+00:00,2019-06-24 05:33:03+00:00,6,1302,2,4,8,83
+lydiahallie/javascript-questions,90,Translate & Typo in README-zh_CN.md,2019-06-21 03:34:17+00:00,2019-06-21 14:22:13+00:00,2,16,16,0,3,0
+lydiahallie/javascript-questions,91, Delete extra separate line in README.md,2019-06-21 06:25:15+00:00,2019-06-21 14:21:42+00:00,2,0,6,0,3,0
+sherlock-project/sherlock,3,Run HTTP requests in parallel,2018-12-25 19:51:57+00:00,2018-12-30 06:26:16+00:00,1,126,72,11,5,1339
+sherlock-project/sherlock,49,Script can now load the data.json file when invoked from different di…,2018-12-31 05:53:45+00:00,2018-12-31 16:01:56+00:00,3,2,1,1,3,156
+sherlock-project/sherlock,50,Run isort on the imports,2018-12-31 06:28:01+00:00,2019-01-02 09:57:13+00:00,1,9,5,1,3,348
+sherlock-project/sherlock,61,Added 9GAG support,2019-01-02 19:46:18+00:00,2019-01-03 00:28:14+00:00,1,5,0,1,4,0
+sherlock-project/sherlock,64,"Add ""regexCheck"" for Facebook and Flipboard",2019-01-03 01:26:26+00:00,2019-01-04 21:50:55+00:00,3,4,2,12,4,291
+sherlock-project/sherlock,71,[Alternative] - Solve issue 5 with Colorama.,2019-01-03 10:29:09+00:00,2019-01-03 21:36:26+00:00,1,10,5,7,4,487
+sherlock-project/sherlock,72,Script for installing packages in linux,2019-01-03 11:52:51+00:00,2019-01-04 16:01:41+00:00,5,11,0,9,3,486
+twitter/the-algorithm,35,Rename README on tweepcred to README.md,2023-03-31 19:01:41+00:00,2023-03-31 22:41:39+00:00,1,1,1,3,7,39
+twitter/the-algorithm,53,feature: give a little boost to elon's friends and add more details in the README.md,2023-03-31 19:03:39+00:00,2023-03-31 22:41:49+00:00,2,10,0,1,5,2391
+twitter/the-algorithm,73,Sick Engineering Role!,2023-03-31 19:06:40+00:00,2023-03-31 22:41:47+00:00,1,1,0,5,9,748
+twitter/the-algorithm,102,feat: improve algorithm to provide better performance,2023-03-31 19:09:46+00:00,2023-03-31 22:41:42+00:00,3,1,460246,8,13,54
+twitter/the-algorithm,105,Consistent usage of punctuation in README.md,2023-03-31 19:10:02+00:00,2023-03-31 22:41:34+00:00,1,2,2,1,5,79
+twitter/the-algorithm,138,fix: Vastly improve quality of tweet predicates (#121),2023-03-31 19:13:50+00:00,2023-03-31 22:42:13+00:00,2,0,4,18,21,0
+twitter/the-algorithm,160,Remove the code in the algorithm that boosts the tweets of Elon,2023-03-31 19:18:15+00:00,2023-03-31 22:42:19+00:00,3,2,14,31,31,30
+twitter/the-algorithm,165,an actual fix.,2023-03-31 19:19:49+00:00,2023-03-31 22:41:56+00:00,1,1,1,5,8,75
+twitter/the-algorithm,179,🛑 Remove Political bias from Twitter,2023-03-31 19:21:56+00:00,2023-03-31 22:42:12+00:00,1,0,14,14,17,0
+twitter/the-algorithm,186,algorithm edits,2023-03-31 19:22:52+00:00,2023-03-31 21:05:58+00:00,2,1,460246,18,19,0
+twitter/the-algorithm,219,Initialize Rust project 🦀,2023-03-31 19:27:07+00:00,2023-03-31 22:41:56+00:00,2,11,0,8,11,56
+twitter/the-algorithm,230,Refactor query_keys function for improved efficiency,2023-03-31 19:28:35+00:00,2023-03-31 22:41:40+00:00,1,5,15,2,6,0
+twitter/the-algorithm,234,feat: add more political bias,2023-03-31 19:28:49+00:00,2023-03-31 22:42:28+00:00,4,13,0,11,17,109
+twitter/the-algorithm,243,"Added me as author, lol",2023-03-31 20:36:15+00:00,2023-03-31 22:41:34+00:00,3,1,1,3,8,39
+twitter/the-algorithm,254,Can u pwease merge my pwull wequest senpai?!! UwU,2023-03-31 20:40:34+00:00,2023-03-31 22:41:38+00:00,3,1,1,28,31,265
+twitter/the-algorithm,256,Fixed grammar issues in README,2023-03-31 20:41:13+00:00,2023-03-31 22:41:32+00:00,1,7,7,1,5,0
+twitter/the-algorithm,261,Update readme.md,2023-03-31 20:43:13+00:00,2023-03-31 22:41:32+00:00,1,9,0,1,5,34
+twitter/the-algorithm,263,remove useless code,2023-03-31 20:44:07+00:00,2023-03-31 22:41:45+00:00,2,0,184751,23,25,33
+Eugeny/tabby,52,add Base16 color scheme,2017-07-04 05:47:17+00:00,2017-07-04 14:15:18+00:00,2,59,5,2,2,741
+Eugeny/tabby,261,feat(tab): enable cycle tab selection,2017-12-14 05:50:52+00:00,2017-12-14 18:48:49+00:00,2,17,6,2,2,901
+Eugeny/tabby,462,"Update Windows icon, more room for tabs",2018-10-10 11:31:19+00:00,2018-10-10 13:56:14+00:00,1,23,98,0,2,0
+Eugeny/tabby,568,Feature/rename tab qol,2018-12-14 22:58:51+00:00,2018-12-19 09:17:09+00:00,2,33,4,3,2,333
+Eugeny/tabby,633,Update windows-swca dependency,2019-01-29 20:38:23+00:00,2019-01-30 15:48:12+00:00,3,15,11,0,2,0
+immich-app/immich,93,Legacy CPUs architecture alternative tip.,2022-03-30 14:40:08+00:00,2022-04-05 22:26:43+00:00,1,11,7,1,2,348
+openai/openai-cookbook,1,adds examples and readme documentation,2022-05-31 21:06:15+00:00,2022-06-03 00:05:29+00:00,1,61151,11,0,2,0
+openai/openai-cookbook,2,[Mike] Fix link,2022-06-09 21:29:18+00:00,2022-06-10 00:32:27+00:00,1,1,1,1,3,72
+openai/openai-cookbook,3,fixes a few links,2022-06-10 00:46:56+00:00,2022-06-10 02:08:07+00:00,1,3,3,0,2,0
+openai/openai-cookbook,26,Adding transaction classification notebooks,2022-10-20 22:47:29+00:00,2022-10-27 00:50:50+00:00,8,2950,0,0,2,330
+openai/openai-cookbook,36,Added .default scope to URI to get token using DefaultAzureCredential,2022-11-18 17:29:15+00:00,2022-12-12 19:24:06+00:00,1,1,1,0,2,120
+openai/openai-cookbook,40,Fix a few typos,2022-12-10 00:18:14+00:00,2022-12-12 19:22:42+00:00,1,3,3,0,2,0
+openai/openai-cookbook,46,Only get_embedding once,2022-12-23 20:30:48+00:00,2023-01-09 00:07:43+00:00,1,1,1,1,2,240
+openai/openai-cookbook,47,line-wrap comment in code block for readability,2022-12-23 20:46:49+00:00,2023-01-10 18:47:20+00:00,1,2,1,2,3,178
+openai/openai-cookbook,50,Azure OpenAI GA,2022-12-27 08:57:09+00:00,2023-01-14 03:57:21+00:00,1,355,55,2,3,109
+openai/openai-cookbook,54,Remove obsolete reference to old embedding engines,2023-01-04 03:00:25+00:00,2023-01-09 00:06:09+00:00,1,0,7,0,2,0
+openai/openai-cookbook,56,Initial commit of vector database example with new embeddings,2023-01-05 09:56:40+00:00,2023-02-06 17:20:01+00:00,31,905,0,5,5,170
+kelseyhightower/nocode,19,Creating Fully Functional Docker Image,2018-02-07 00:29:32+00:00,2018-02-08 23:30:03+00:00,3,1,0,3,6,9
+kelseyhightower/nocode,21,Update README.md,2018-02-07 00:31:31+00:00,2018-10-17 03:26:14+00:00,3,1,1,0,4,19
+kelseyhightower/nocode,24,Use 0-clause BSD License,2018-02-07 00:34:25+00:00,2022-12-06 02:31:11+00:00,1,22,202,2,4,78
+kelseyhightower/nocode,25,Add thorough ISSUE_TEMPLATE.md,2018-02-07 00:35:44+00:00,2021-04-02 06:25:44+00:00,1,1,0,0,2,0
+kelseyhightower/nocode,26,Add examples file,2018-02-07 00:39:11+00:00,2022-11-07 23:28:31+00:00,2,1,0,1,4,85
+kelseyhightower/nocode,48,Create .gitignore,2018-02-07 02:03:45+00:00,2020-10-30 19:37:19+00:00,1,1,0,3,4,0
+kelseyhightower/nocode,59,Added Nothing,2018-02-07 02:36:03+00:00,2019-03-27 19:19:18+00:00,2,4,0,1,4,0
+kelseyhightower/nocode,71,Proposal for streaming framework.,2018-02-07 03:34:19+00:00,2018-02-20 16:05:14+00:00,2,19,0,2,3,433
+kelseyhightower/nocode,76,Add some examples.,2018-02-07 04:14:05+00:00,2018-02-14 14:57:56+00:00,3,0,0,1,5,0
+kelseyhightower/nocode,91,Prevent people adding code by mistake,2018-02-07 05:28:52+00:00,2022-12-23 21:41:28+00:00,9,55,0,8,15,300
+kelseyhightower/nocode,105,​,2018-02-07 06:03:05+00:00,2018-08-29 19:14:35+00:00,5,0,0,24,30,0
+kelseyhightower/nocode,163,"Add make support to automate builds, deployments, and life",2018-02-07 08:50:52+00:00,2018-02-15 14:23:07+00:00,1,0,0,0,2,41
+kelseyhightower/nocode,209,wouldn't want any code to creep in,2018-02-07 11:20:41+00:00,2019-02-03 22:14:39+00:00,6,6,0,3,8,10
+kelseyhightower/nocode,216,Remove heartbleed vulnerability,2018-02-07 11:39:09+00:00,2023-01-08 04:16:38+00:00,1,0,0,0,2,32
+kelseyhightower/nocode,256,Used to allow for the removal of potential code files at once,2018-02-07 12:54:57+00:00,2022-03-08 16:52:39+00:00,4,0,0,2,3,148
+kelseyhightower/nocode,311,:scroll: added Doxygen documentation,2018-02-07 14:06:47+00:00,2021-03-02 13:40:27+00:00,1,4226,0,2,3,132
+kelseyhightower/nocode,374,Create .dockerignore,2018-02-07 15:41:27+00:00,2020-06-24 19:11:01+00:00,1,7,0,0,2,47
+kelseyhightower/nocode,432,Add a gitignore,2018-02-07 18:44:14+00:00,2019-09-06 20:39:35+00:00,2,353,0,3,4,122
+kelseyhightower/nocode,469,Maintain consistent coding styles across editors you won't use,2018-02-07 21:57:13+00:00,2021-07-29 09:35:34+00:00,2,0,0,0,3,0
+kelseyhightower/nocode,472,Make README.md consistent,2018-02-07 21:59:05+00:00,2019-01-10 15:00:50+00:00,1,2,2,1,2,35
+kelseyhightower/nocode,509,Nothing,2018-02-08 01:25:02+00:00,2018-07-12 15:35:11+00:00,1,0,0,6,8,0
+kelseyhightower/nocode,551,Saw some code - removed it to make it more secure!,2018-02-08 04:54:24+00:00,2018-08-27 17:29:18+00:00,1,0,24,2,4,0
+kelseyhightower/nocode,746,Turkish translation,2018-02-08 13:59:34+00:00,2019-03-23 18:01:59+00:00,1,53,0,2,3,132
+kelseyhightower/nocode,814,Sharing the best practice to the world!,2018-02-08 18:11:11+00:00,2020-06-26 21:45:50+00:00,1,111,0,4,3,121
+kelseyhightower/nocode,850,Updates documentation to be more clear,2018-02-08 20:18:03+00:00,2022-04-01 17:29:41+00:00,4,1,1,0,4,19
+kelseyhightower/nocode,859,Add Makefile,2018-02-08 21:29:38+00:00,2024-09-18 08:02:36+00:00,3,2,0,0,3,69
+kelseyhightower/nocode,1124,NO CODE NO KILLING,2018-02-09 09:05:37+00:00,2018-10-31 03:07:36+00:00,1,0,257,0,2,0
+FuelLabs/sway,2,Initial Fuel HLL ,2021-01-25 22:40:31+00:00,2021-05-08 14:03:18+00:00,15,13255,14,12,3,2112
+FuelLabs/sway,34,Make CI run on pushes to master or PRs,2021-05-08 14:38:31+00:00,2021-05-09 14:06:56+00:00,4,15,3,0,2,0
+FuelLabs/sway,35,Initial skeleton documentation book,2021-05-08 18:00:13+00:00,2021-05-09 12:49:41+00:00,1,69,0,0,2,214
+FuelLabs/sway,37,Testing harness,2021-05-09 14:09:55+00:00,2021-05-14 16:32:41+00:00,3,1211,697,1,2,1210
+FuelLabs/sway,43,"Use keyword syntax for determining if a file is a library, contract, script, or predicate.",2021-05-14 16:31:18+00:00,2021-05-15 20:44:43+00:00,3,205,256,0,2,103
+FuelLabs/sway,44,Allow direct usage of reserved registers in inline assembly; misc fixes,2021-05-17 16:09:06+00:00,2021-05-18 19:25:27+00:00,1,198,36,0,3,321
+FuelLabs/sway,45,Allow declarations after usages; multi-pass compilation,2021-05-18 00:42:40+00:00,2021-05-18 21:50:51+00:00,5,761,454,0,2,373
+FuelLabs/sway,48,Tool v1,2021-05-19 15:34:29+00:00,2021-05-21 11:57:07+00:00,10,4193,97,0,3,253
+FuelLabs/sway,49,Use minimal profile for toolchain CI,2021-05-19 21:21:01+00:00,2021-05-19 22:31:08+00:00,1,1,0,0,2,67
+FuelLabs/sway,50,Register allocation and virtualized opcodes,2021-05-22 19:17:47+00:00,2021-05-23 17:57:56+00:00,4,2460,1329,1,2,879
+FuelLabs/sway,52,Generate actual bytecode using `fuel_asm`,2021-05-23 18:02:19+00:00,2021-05-30 00:09:34+00:00,15,799,187,0,5,841
+FuelLabs/sway,53,Fix CI to use git CLI,2021-05-26 13:27:07+00:00,2021-05-26 15:28:53+00:00,2,1,46,0,3,79
+FuelLabs/sway,54,Remove vscode plugin,2021-05-26 13:38:06+00:00,2021-05-26 15:45:36+00:00,2,0,2723,0,3,77
+FuelLabs/sway,55,Add key for `fuel-tx` repo,2021-05-26 14:05:23+00:00,2021-05-26 15:28:41+00:00,2,1,0,0,3,54
+FuelLabs/sway,56,Rename Fume -> Sway,2021-05-26 20:57:28+00:00,2021-05-26 23:22:37+00:00,1,18,22,0,2,47
+FuelLabs/sway,59,E2E Tests using the VM,2021-05-28 15:47:13+00:00,2021-06-01 14:48:07+00:00,3,1645,70,1,3,130
+FuelLabs/sway,61,Basic mathematical stdlib functionality,2021-05-30 00:13:30+00:00,2021-06-03 13:32:12+00:00,7,286,87,0,2,550
+FuelLabs/sway,62,Allow inclusion of multiple source files as dependencies for a single contract/script/etc.,2021-05-30 15:40:54+00:00,2021-06-09 14:15:42+00:00,5,762,135,1,2,936
+FuelLabs/sway,64,Add mvprun,2021-05-31 18:34:48+00:00,2021-06-07 15:51:44+00:00,7,87,3,3,3,257
+FuelLabs/sway,72,fix #69 (function application parsing bug),2021-06-03 23:27:29+00:00,2021-06-04 14:37:25+00:00,3,87,14,0,2,147
+FuelLabs/sway,74,Added initial version of the formatter,2021-06-05 08:16:32+00:00,2021-06-14 16:28:04+00:00,2,555,11,3,2,0
+FuelLabs/sway,77,core-types: Initial implementation,2021-06-11 10:01:04+00:00,2021-06-17 07:58:20+00:00,5,257,34,0,3,125
+FuelLabs/sway,81,Cli formatter,2021-06-16 16:15:24+00:00,2021-06-17 14:29:16+00:00,7,238,56,0,2,369
+FuelLabs/sway,82,Implement Vec in the standard library; Bug Fixes,2021-06-16 16:51:00+00:00,2021-06-29 15:34:17+00:00,2,2592,1126,0,4,1149
+FuelLabs/sway,83,Super basic intro docs,2021-06-17 05:21:09+00:00,2021-09-01 06:50:12+00:00,4,277,1,0,3,117
+FuelLabs/sway,84,Add Context to encapsulate debug ctx variants,2021-06-17 12:10:56+00:00,2021-06-17 14:00:05+00:00,6,186,48,0,2,302
+FuelLabs/sway,87,Remove license,2021-06-18 19:21:59+00:00,2021-06-21 13:39:49+00:00,1,0,202,0,2,0
+FuelLabs/sway,90,Multiline comments,2021-06-21 12:42:40+00:00,2021-06-22 10:39:11+00:00,3,99,24,2,2,10
+FuelLabs/sway,92,Formatter tests,2021-06-22 13:08:43+00:00,2021-06-22 14:10:04+00:00,1,273,30,0,2,194
+FuelLabs/sway,93,Improve comma,2021-06-23 11:26:09+00:00,2021-06-29 10:52:14+00:00,4,614,170,8,3,139
+FuelLabs/sway,94,Bounty of features and bug fixes ,2021-06-24 20:38:54+00:00,2021-07-05 05:26:50+00:00,4,1571,626,1,2,920
+FuelLabs/sway,99,Forc deploy,2021-06-29 11:03:14+00:00,2021-07-02 08:53:32+00:00,9,219,45,0,3,90
+AppFlowy-IO/AppFlowy,5,Documentation: does make easier copies of some command lines codes,2021-11-14 17:48:40+00:00,2021-11-15 02:41:53+00:00,1,6,2,1,3,0
+AppFlowy-IO/AppFlowy,32,[rust]: fix code point issue,2021-11-18 22:56:45+00:00,2021-11-20 16:51:33+00:00,3,70,8,1,2,0
+AppFlowy-IO/AppFlowy,35,Fixed a typo,2021-11-19 07:24:13+00:00,2021-11-19 11:35:40+00:00,1,1,1,1,2,0
+AppFlowy-IO/AppFlowy,55,add linux build,2021-11-21 03:06:34+00:00,2021-11-22 00:26:29+00:00,1,37,8,1,2,0
+AppFlowy-IO/AppFlowy,58,Fixed Icon Issue in Linux,2021-11-21 07:21:10+00:00,2021-11-22 11:29:20+00:00,1,322,50,4,2,0
+AppFlowy-IO/AppFlowy,66,fix backend build,2021-11-21 15:49:16+00:00,2021-11-22 01:01:47+00:00,1,4,5,0,2,110
+AppFlowy-IO/AppFlowy,95,Fix backend compilation + adding fallback for docker container,2021-11-24 19:23:12+00:00,2021-12-02 07:42:47+00:00,3,17,0,2,2,9
+AppFlowy-IO/AppFlowy,133,Updated Linux build document,2021-12-10 18:39:29+00:00,2021-12-11 14:29:02+00:00,2,56,39,0,2,332
+AppFlowy-IO/AppFlowy,139,Add i18n/zh-CN support,2021-12-13 15:24:58+00:00,2021-12-15 00:48:24+00:00,6,246,2,0,3,29
+AppFlowy-IO/AppFlowy,142,"Changed string ""Untitles"" to ""Untitled""",2021-12-13 21:56:05+00:00,2021-12-14 03:03:03+00:00,1,3,3,0,2,10
+PKUFlyingPig/cs-self-learning,6,Fix typo in index.md,2021-12-12 15:28:32+00:00,2021-12-13 03:35:33+00:00,1,2,2,0,3,0
+PKUFlyingPig/cs-self-learning,140,format issue at csdiy.wiki: duke coursera C markdown format fix.,2022-04-16 14:12:36+00:00,2022-04-16 16:03:20+00:00,1,3,3,0,3,222
+PKUFlyingPig/cs-self-learning,150,Update CS61A.md,2022-05-08 15:15:44+00:00,2022-05-11 15:43:10+00:00,1,2,0,3,2,69
+PKUFlyingPig/cs-self-learning,156,"[New Course] Add ""Digital Design and Computer Architecture""",2022-05-11 01:02:19+00:00,2022-05-11 06:58:45+00:00,3,23,0,0,2,0
+binhnguyennus/awesome-scalability,2,Add link to Tracing distributed systems at Showmax,2018-01-24 07:52:49+00:00,2018-01-24 10:59:53+00:00,1,1,0,0,2,184
+binhnguyennus/awesome-scalability,22,"refactor 404 links to ""The Paper Trail""",2018-10-29 11:13:06+00:00,2018-10-30 01:18:08+00:00,1,3,3,0,2,0
+binhnguyennus/awesome-scalability,24, Fixed broken link for expedia article,2019-01-02 19:13:13+00:00,2019-01-03 01:51:34+00:00,1,1,1,0,2,89
+binhnguyennus/awesome-scalability,30,Added contextualizing-airbnb and scaling-data-lineage-at-netflix,2019-04-13 14:07:55+00:00,2019-04-18 01:23:49+00:00,1,2,0,2,2,162
+binhnguyennus/awesome-scalability,36,Added Pycache: lightning fast in process caching at Quora,2019-05-18 05:24:10+00:00,2019-05-18 08:41:51+00:00,1,3,0,1,2,95
+binhnguyennus/awesome-scalability,43,Fix broken Instagram URL,2019-09-06 10:09:11+00:00,2019-09-06 11:20:12+00:00,1,1,1,0,2,0
+binhnguyennus/awesome-scalability,44,Adding 'What happens when I type kubectl run',2019-09-16 06:21:58+00:00,2020-01-10 00:02:03+00:00,1,1,0,1,3,0
+binhnguyennus/awesome-scalability,51,update README.md,2020-03-18 16:49:48+00:00,2020-03-19 01:12:54+00:00,1,2,1,1,3,41
+binhnguyennus/awesome-scalability,54,Fix broken Rackspace link,2020-05-29 18:01:17+00:00,2020-05-31 14:19:49+00:00,1,1,1,2,3,185
+binhnguyennus/awesome-scalability,55,How we migrated Dropbox from Nginx to Envoy,2020-08-01 02:59:41+00:00,2020-08-15 02:02:45+00:00,1,45,44,1,3,0
+binhnguyennus/awesome-scalability,59,Removing two dead links in DB part,2020-09-18 14:10:39+00:00,2020-09-18 23:22:07+00:00,1,0,2,2,3,71
+binhnguyennus/awesome-scalability,63,Add YouTube Architecture link,2021-01-02 17:17:01+00:00,2021-01-03 00:07:16+00:00,1,1,0,1,3,0
+TheAlgorithms/Java,13,dfs.java,2017-03-17 13:57:34+00:00,2017-04-07 16:39:14+00:00,1,85,0,0,2,0
+TheAlgorithms/Java,14,Added binary tree,2017-03-17 21:00:57+00:00,2017-03-28 14:28:00+00:00,1,192,0,0,2,0
+TheAlgorithms/Java,17,Added base conversions.,2017-03-28 19:05:50+00:00,2017-09-06 18:29:38+00:00,4,81,31,11,6,0
+TheAlgorithms/Java,19,Changes in for loop for sorting,2017-04-01 18:14:44+00:00,2017-04-07 16:39:35+00:00,1,6,6,0,2,75
+TheAlgorithms/Java,25,JavaDoc and No Spaces in File Names,2017-04-18 15:02:06+00:00,2017-04-19 02:28:27+00:00,1,1113,460,0,2,219
+TheAlgorithms/Java,26,CircleLinkedList,2017-04-18 16:21:21+00:00,2017-04-19 02:29:00+00:00,1,42,0,0,2,114
+TheAlgorithms/Java,27,More Additions (Info below),2017-04-20 19:01:32+00:00,2017-04-21 14:38:02+00:00,1,221,24,1,2,458
+TheAlgorithms/Java,28,Create radixSort.java,2017-04-22 13:50:39+00:00,2017-04-25 16:58:57+00:00,2,67,0,0,2,0
+TheAlgorithms/Java,29,Create AVLTree.java,2017-04-23 17:45:50+00:00,2017-04-24 03:21:34+00:00,1,212,0,0,2,0
+TheAlgorithms/Java,30,Dijkshtra's Algorithm,2017-04-24 14:01:28+00:00,2017-04-25 16:58:41+00:00,1,56,0,0,2,40
+TheAlgorithms/Java,48,Rename data_structures/BinaryTree.java to data_structures/Trees/Binar…,2017-04-27 14:46:02+00:00,2017-05-14 17:57:02+00:00,1,1,1,1,2,11
+TheAlgorithms/Java,53,Update countwords.java,2017-06-01 00:00:46+00:00,2017-06-01 05:54:41+00:00,2,17,24,2,2,76
