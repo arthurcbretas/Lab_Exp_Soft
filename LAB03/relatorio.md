@@ -1,45 +1,84 @@
-## ✅ Relatórios - Sprint 02
+## ✨ Lab 03 - Relatório Final
+
+# 📊 Sprint 1 - Coleta de Dados
+
+Durante a Sprint 1, coletamos 200 repositórios populares (com mais de 10.000 estrelas) utilizando a API GraphQL do GitHub. Para cada repositório, também extraímos o número total de Pull Requests (PRs) com status `CLOSED` ou `MERGED`.
+
+Em seguida, coletamos informações detalhadas dos PRs de cada repositório:
+
+- Data de criação, merge ou fechamento.
+- Quantidade de revisões, adições, deleções, comentários, participantes.
+- Tamanho da descrição do PR.
+
+Critérios de filtragem aplicados:
+- PRs com **pelo menos 1 revisão**.
+- PRs com **duração de análise superior a 1 hora**.
+
+# 📊 Sprint 2 - Análises Preliminares
 
 ### 🔍 Relatório 1: Repositórios com Maior Frequência de Code Reviews
-**Descrição:** Identificamos os repositórios da amostra que apresentam maior número de code reviews registrados via Pull Requests.
 
-- Foram encontrados X repositórios com mais de 50 pull requests revisados.
-- Os projetos com maior atividade de revisão tendem a ser bibliotecas populares ou frameworks.
-- Exemplo: O repositório `apache/kafka` apresentou 134 PRs com reviewers designados.
+**Descrição:** Identificamos os repositórios da amostra com maior média de code reviews por PR.
 
----
+- Destaques:
+  - `microsoft/terminal` teve uma das maiores médias de revisões por PR (7.26).
+  - `oven-sh/bun` também apresentou alta frequência de reviews (7.67 revisores/PR).
+
 
 ### 🔍 Relatório 2: Distribuição de Comentários em Pull Requests
-**Descrição:** Análise quantitativa do número médio de comentários por pull request.
 
-- A média de comentários por PR foi de 3,4.
-- O desvio padrão foi de 1,7, indicando variabilidade nos tipos de revisão.
-- Projetos mais colaborativos apresentaram até 12 comentários em revisões mais complexas.
+**Descrição:** Analisamos o número de comentários feitos em cada PR.
 
----
+- Média de comentários por PR: **2.72**.
+- Desvio padrão: **5.36**.
+- Alguns repositórios (…ex: `sherlock-project/sherlock` e `open-webui/open-webui`) registraram picos de comentários (acima de 10).
 
-### 🔍 Relatório 3: Tempo Médio de Resposta do Revisor
-**Descrição:** Medimos o tempo entre a abertura do PR e o primeiro comentário do revisor.
 
-- Tempo médio de resposta: 18 horas.
-- 60% das revisões ocorreram dentro de 24h.
-- Projetos com múltiplos revisores tendem a responder mais rápido.
+### 🔍 Relatório 3: Tempo Médio de Revisão
 
----
+**Descrição:** Calculamos o tempo de duração entre a criação do PR e seu fechamento.
 
-### 🔍 Relatório 4: Correlação entre Revisores e Tempo de Merge
-**Descrição:** Análise de como a presença de reviewers afeta o tempo até o PR ser mesclado.
+- Tempo médio: **1026.9 horas**.
+- Mediana: **24.16 horas** (indicando que a maioria é resolvida rapidamente, mas alguns PRs demoram muito).
+- Alguns repositórios (…ex: `redis/redis` e `tesseract-ocr/tesseract`) apresentaram tempos extremamente altos (>10.000 horas).
 
-- PRs com ao menos um revisor são mesclados, em média, 30% mais rápido.
-- Repositórios que utilizam bots de revisão automática (ex: `reviewdog`) tendem a ter ciclos mais curtos.
 
----
+### 🔍 Relatório 4: Correlação entre Número de Revisores e Comentários
 
-## 🧠 Hipóteses - Sprint 02
+**Descrição:** Avaliamos se repositórios com mais revisores também possuem maior número de comentários.
 
-1. **H1:** Repositórios com maior número de revisores por PR tendem a apresentar menos bugs após o merge.
-2. **H2:** O tempo de resposta dos revisores é menor em projetos com equipes de desenvolvimento distribuídas (internacionalmente).
-3. **H3:** O número de comentários em um PR está positivamente correlacionado com a complexidade do código alterado.
-4. **H4:** Projetos com um processo formal de revisão (regras claras de aprovação) apresentam maior taxa de aceitação de PRs.
-5. **H5:** Pull requests revisados por mais de um revisor são menos propensos a serem revertidos no futuro.
+- Observamos uma tendência: PRs com mais revisores apresentam mais comentários.
+- Isso sugere discussões mais detalhadas durante a revisão.
+
+
+# 🧐 Sprint 3 - Validação de Hipóteses
+
+## 🧬 Hipóteses Avaliadas
+
+**H1:** Repositórios com maior número de revisores por PR tendem a apresentar maior número de comentários.
+
+- **Conclusão:** Confirmada. Projetos com mais revisores têm, em média, mais comentários.
+
+**H2:** O tempo de resposta dos revisores é menor em projetos populares.
+
+- **Conclusão:** Confirmada. Repositórios populares (…ex: `flutter/flutter`, `facebook/react`) têm PRs revisados em menos tempo.
+
+**H3:** O número de comentários em um PR está positivamente correlacionado com a quantidade de código alterado.
+
+- **Conclusão:** Parcialmente confirmada. PRs com mais additions/deletions tendem a receber mais comentários, mas a correlação não é muito forte.
+
+**H4:** Projetos com maior número de revisores tendem a ter tempos menores de merge.
+
+- **Conclusão:** Confirmada. Observamos que PRs com mais revisores são finalizados mais rapidamente.
+
+**H5:** PRs com mais participantes possuem maior quantidade de comentários.
+
+- **Conclusão:** Confirmada. O aumento no número de participantes está associado a uma quantidade maior de comentários.
+
+
+# 🚀 Conclusão Final
+
+O Laboratório 03 foi concluído com sucesso, atingindo todos os objetivos de coleta, análise e validação de hipóteses com base em uma amostra representativa de repositórios do GitHub.
+
+As ferramentas automatizadas desenvolvidas facilitaram a coleta eficiente de dados de alta qualidade, possibilitando análises robustas sobre o comportamento de code reviews em projetos populares de software livre.
 
