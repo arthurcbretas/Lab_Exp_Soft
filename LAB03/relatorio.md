@@ -1,84 +1,74 @@
-## ✨ Lab 03 - Relatório Final
+## 📚 Relatório Final - Lab 03
 
-# 📊 Sprint 1 - Coleta de Dados
+### 📥 Coleta de Dados
 
-Durante a Sprint 1, coletamos 200 repositórios populares (com mais de 10.000 estrelas) utilizando a API GraphQL do GitHub. Para cada repositório, também extraímos o número total de Pull Requests (PRs) com status `CLOSED` ou `MERGED`.
+Foram coletados 200 repositórios populares do GitHub, cada um com mais de 10.000 estrelas. A seguir, extraímos informações detalhadas sobre os Pull Requests (PRs) desses repositórios, filtrando apenas aqueles que:
 
-Em seguida, coletamos informações detalhadas dos PRs de cada repositório:
+- Foram **merged** ou **closed**;
+- Tiveram ao menos **1 revisão** registrada;
+- Possuíram tempo de análise de **pelo menos 1 hora** entre abertura e fechamento.
 
-- Data de criação, merge ou fechamento.
-- Quantidade de revisões, adições, deleções, comentários, participantes.
-- Tamanho da descrição do PR.
+Total de Pull Requests analisados: **1137**
 
-Critérios de filtragem aplicados:
-- PRs com **pelo menos 1 revisão**.
-- PRs com **duração de análise superior a 1 hora**.
+### 📈 Análise Quantitativa
 
-# 📊 Sprint 2 - Análises Preliminares
+#### 🔎 Repositórios com Maior Frequência de Code Reviews
 
-### 🔍 Relatório 1: Repositórios com Maior Frequência de Code Reviews
+- Dos 200 repositórios, vários apresentaram alto volume de code reviews.
+- Exemplos de repositórios mais ativos:
+  - `open-webui/open-webui`: **17 revisões** em média.
+  - `microsoft/terminal`: **7,26 revisões** em média.
+  - `louislam/uptime-kuma`: **6,6 revisões** em média.
+- Em média, tivemos **2,79 reviews por PR**.
 
-**Descrição:** Identificamos os repositórios da amostra com maior média de code reviews por PR.
+#### 💬 Distribuição de Comentários em Pull Requests
 
-- Destaques:
-  - `microsoft/terminal` teve uma das maiores médias de revisões por PR (7.26).
-  - `oven-sh/bun` também apresentou alta frequência de reviews (7.67 revisores/PR).
+- Média de **2,72 comentários** por PR.
+- Desvio padrão de **5,36**, indicando grande variação.
+- Alguns PRs chegaram a acumular **114 comentários** (valor máximo).
 
+#### ⏳ Tempo de Revisão (Tempo entre criação e merge/close)
 
-### 🔍 Relatório 2: Distribuição de Comentários em Pull Requests
+- Tempo médio de revisão: **1026,92 horas** (~42 dias).
+- Mediana (50% dos casos) foi de apenas **24,16 horas** (~1 dia).
+- Mínimo: **1 hora**.
+- Máximo: **116.725 horas** (~13 anos) - um outlier claro.
 
-**Descrição:** Analisamos o número de comentários feitos em cada PR.
+A maior parte dos PRs foi revisada dentro de **6,27 horas** (percentil 25%) a **135,34 horas** (percentil 75%).
 
-- Média de comentários por PR: **2.72**.
-- Desvio padrão: **5.36**.
-- Alguns repositórios (…ex: `sherlock-project/sherlock` e `open-webui/open-webui`) registraram picos de comentários (acima de 10).
+---
 
+### 🧠 Avaliação das Hipóteses
 
-### 🔍 Relatório 3: Tempo Médio de Revisão
+**H1: Repositórios com mais revisores tendem a ter menos bugs após o merge.**
+- **Avaliação:** Não foi possível confirmar, pois não coletamos métricas de bugs.
 
-**Descrição:** Calculamos o tempo de duração entre a criação do PR e seu fechamento.
+**H2: O tempo de resposta dos revisores é menor em projetos com equipes distribuídas internacionalmente.**
+- **Avaliação:** Dados não suficientes para avaliar distribuição geográfica dos times.
 
-- Tempo médio: **1026.9 horas**.
-- Mediana: **24.16 horas** (indicando que a maioria é resolvida rapidamente, mas alguns PRs demoram muito).
-- Alguns repositórios (…ex: `redis/redis` e `tesseract-ocr/tesseract`) apresentaram tempos extremamente altos (>10.000 horas).
+**H3: O número de comentários em um PR está positivamente correlacionado com a complexidade (medida por alterações de código).**
+- **Avaliação:** Sim, observou-se que PRs com mais "additions" e "deletions" tendem a ter mais comentários.
+  - Correlação positiva entre número de linhas alteradas e comentários.
 
+**H4: PRs com mais participantes tendem a ter mais comentários.**
+- **Avaliação:** Sim, média de **3,4 participantes** por PR e forte correlação com quantidade de comentários.
 
-### 🔍 Relatório 4: Correlação entre Número de Revisores e Comentários
+**H5: PRs com mais revisores tendem a ter tempos de revisão maiores.**
+- **Avaliação:** Parcialmente verdadeiro. PRs com muitos participantes apresentaram tanto revisões rápidas quanto demoradas, mas PRs com poucos participantes geralmente foram resolvidos mais rapidamente.
 
-**Descrição:** Avaliamos se repositórios com mais revisores também possuem maior número de comentários.
+---
 
-- Observamos uma tendência: PRs com mais revisores apresentam mais comentários.
-- Isso sugere discussões mais detalhadas durante a revisão.
+### ✅ Conclusões
 
+- A média de **2,79 revisores por PR** mostra uma prática comum de revisão colaborativa.
+- **3,4 participantes** por PR em média.
+- **Tempo médio** de revisão elevado (42 dias) é influenciado por outliers; mediana de 24 horas é mais representativa.
+- PRs com mais alterações (additions/deletions) realmente tendem a receber mais comentários.
+- A maioria dos repositórios apresenta práticas básicas de revisão, com poucos reviewers por PR.
 
-# 🧐 Sprint 3 - Validação de Hipóteses
-
-## 🧬 Hipóteses Avaliadas
-
-**H1:** Repositórios com maior número de revisores por PR tendem a apresentar maior número de comentários.
-
-- **Conclusão:** Confirmada. Projetos com mais revisores têm, em média, mais comentários.
-
-**H2:** O tempo de resposta dos revisores é menor em projetos populares.
-
-- **Conclusão:** Confirmada. Repositórios populares (…ex: `flutter/flutter`, `facebook/react`) têm PRs revisados em menos tempo.
-
-**H3:** O número de comentários em um PR está positivamente correlacionado com a quantidade de código alterado.
-
-- **Conclusão:** Parcialmente confirmada. PRs com mais additions/deletions tendem a receber mais comentários, mas a correlação não é muito forte.
-
-**H4:** Projetos com maior número de revisores tendem a ter tempos menores de merge.
-
-- **Conclusão:** Confirmada. Observamos que PRs com mais revisores são finalizados mais rapidamente.
-
-**H5:** PRs com mais participantes possuem maior quantidade de comentários.
-
-- **Conclusão:** Confirmada. O aumento no número de participantes está associado a uma quantidade maior de comentários.
-
-
-# 🚀 Conclusão Final
-
-O Laboratório 03 foi concluído com sucesso, atingindo todos os objetivos de coleta, análise e validação de hipóteses com base em uma amostra representativa de repositórios do GitHub.
-
-As ferramentas automatizadas desenvolvidas facilitaram a coleta eficiente de dados de alta qualidade, possibilitando análises robustas sobre o comportamento de code reviews em projetos populares de software livre.
+**Principais números:**
+- `max(review_count) = 50`;
+- `mean(comments) = 2,72`;
+- `mean(participants) = 3,4`;
+- `median(review_time) = 24,16 horas`.
 
